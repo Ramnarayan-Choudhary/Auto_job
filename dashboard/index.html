@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Job Autopilot — Dashboard</title>
+    <meta name="description" content="AI/ML Job Application Dashboard — Browse, filter, and track your applications across 1000+ positions">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="app">
+        <!-- Header -->
+        <header class="header">
+            <div class="header-left">
+                <div class="logo">
+                    <span class="logo-icon">🚀</span>
+                    <h1>AI Job Autopilot</h1>
+                </div>
+                <span class="badge badge-live">
+                    <span class="pulse"></span>
+                    <span id="totalJobs">0</span> Jobs Loaded
+                </span>
+            </div>
+            <div class="header-right">
+                <div class="stats-bar">
+                    <div class="stat" id="statApplied">
+                        <span class="stat-icon">✅</span>
+                        <span class="stat-value">0</span>
+                        <span class="stat-label">Applied</span>
+                    </div>
+                    <div class="stat" id="statPending">
+                        <span class="stat-icon">⏳</span>
+                        <span class="stat-value">0</span>
+                        <span class="stat-label">Pending</span>
+                    </div>
+                    <div class="stat" id="statFailed">
+                        <span class="stat-icon">❌</span>
+                        <span class="stat-value">0</span>
+                        <span class="stat-label">Failed</span>
+                    </div>
+                </div>
+                <button class="btn btn-primary" id="batchOpenBtn" title="Open multiple application links">
+                    🔗 Batch Open <span id="batchCount">10</span>
+                </button>
+            </div>
+        </header>
+
+        <!-- Filters -->
+        <section class="filters-section">
+            <div class="search-box">
+                <span class="search-icon">🔍</span>
+                <input type="text" id="searchInput" placeholder="Search company, position, or location..." autocomplete="off">
+            </div>
+            <div class="filter-row">
+                <div class="filter-group">
+                    <label>Category</label>
+                    <div class="filter-chips" id="categoryFilters">
+                        <button class="chip active" data-value="all">All</button>
+                        <button class="chip" data-value="FAANG+">⭐ FAANG+</button>
+                        <button class="chip" data-value="Quant">📈 Quant</button>
+                        <button class="chip" data-value="Other">🏢 Other</button>
+                    </div>
+                </div>
+                <div class="filter-group">
+                    <label>Type</label>
+                    <div class="filter-chips" id="typeFilters">
+                        <button class="chip active" data-value="all">All</button>
+                        <button class="chip" data-value="internship">📚 Internship</button>
+                        <button class="chip" data-value="new_grad">🎓 New Grad</button>
+                    </div>
+                </div>
+                <div class="filter-group">
+                    <label>Region</label>
+                    <div class="filter-chips" id="regionFilters">
+                        <button class="chip active" data-value="all">All</button>
+                        <button class="chip" data-value="USA">🇺🇸 USA</button>
+                        <button class="chip" data-value="International">🌍 International</button>
+                    </div>
+                </div>
+                <div class="filter-group">
+                    <label>Status</label>
+                    <div class="filter-chips" id="statusFilters">
+                        <button class="chip active" data-value="all">All</button>
+                        <button class="chip" data-value="pending">⏳ Pending</button>
+                        <button class="chip" data-value="applied">✅ Applied</button>
+                        <button class="chip" data-value="skipped">⏭ Skipped</button>
+                    </div>
+                </div>
+                <div class="filter-group">
+                    <label>Recency</label>
+                    <select id="ageFilter" class="select-input">
+                        <option value="all">All Time</option>
+                        <option value="7">Last 7 days</option>
+                        <option value="14">Last 14 days</option>
+                        <option value="30">Last 30 days</option>
+                        <option value="60">Last 60 days</option>
+                    </select>
+                </div>
+            </div>
+            <div class="results-info">
+                <span id="filteredCount">0</span> jobs match your filters
+            </div>
+        </section>
+
+        <!-- Job Table -->
+        <section class="table-section">
+            <div class="table-wrapper">
+                <table id="jobsTable">
+                    <thead>
+                        <tr>
+                            <th class="th-check"><input type="checkbox" id="selectAll"></th>
+                            <th class="th-company sortable" data-sort="company">Company ↕</th>
+                            <th class="th-position sortable" data-sort="position">Position ↕</th>
+                            <th class="th-location sortable" data-sort="location">Location ↕</th>
+                            <th class="th-salary sortable" data-sort="salary">Salary ↕</th>
+                            <th class="th-category">Category</th>
+                            <th class="th-age sortable" data-sort="age_days">Age ↕</th>
+                            <th class="th-status">Status</th>
+                            <th class="th-action">Action</th>
+                        </tr>
+                    </thead>
+                    <tbody id="jobsBody">
+                    </tbody>
+                </table>
+            </div>
+            <div class="pagination" id="pagination"></div>
+        </section>
+    </div>
+
+    <!-- Load File Modal -->
+    <div class="modal-overlay" id="loadModal" style="display:none;">
+        <div class="modal">
+            <h2>📂 Load Jobs Data</h2>
+            <p>Select your <code>jobs.json</code> file to load job listings:</p>
+            <input type="file" id="fileInput" accept=".json">
+            <div class="modal-actions">
+                <button class="btn btn-secondary" id="cancelLoad">Cancel</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Job View Modal -->
+    <div class="modal-overlay" id="jobViewModal" style="display:none;">
+        <div class="modal modal-job-view">
+            <div class="modal-header">
+                <h2 id="viewTitle">Job</h2>
+                <button class="btn btn-secondary btn-sm" id="closeViewModal">Close</button>
+            </div>
+            <div class="job-view-grid">
+                <div><span class="kv-label">Company</span><span id="viewCompany" class="kv-value">—</span></div>
+                <div><span class="kv-label">Location</span><span id="viewLocation" class="kv-value">—</span></div>
+                <div><span class="kv-label">Type / Region</span><span id="viewType" class="kv-value">—</span></div>
+                <div><span class="kv-label">Salary</span><span id="viewSalary" class="kv-value">—</span></div>
+                <div><span class="kv-label">Category</span><span id="viewCategory" class="kv-value">—</span></div>
+                <div><span class="kv-label">Posted</span><span id="viewAge" class="kv-value">—</span></div>
+            </div>
+            <div class="fit-section">
+                <span class="kv-label">Fit Hint</span>
+                <div id="viewFit" class="fit-pill fit-medium">—</div>
+            </div>
+            <div class="modal-actions">
+                <a id="viewOpenLink" href="#" target="_blank" class="btn btn-primary">Open Job Link</a>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

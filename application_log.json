@@ -1,0 +1,146 @@
+{
+  "applied": [],
+  "failed": [
+    {
+      "job_id": 1,
+      "company": "Meta",
+      "position": "Research Scientist Intern - Multimodal Foundations - PhD",
+      "apply_url": "https://www.metacareers.com/jobs/898451286162557",
+      "timestamp": "2026-03-06T22:16:52.959880",
+      "error": "",
+      "reason": "No response from agent",
+      "status": "failed"
+    },
+    {
+      "job_id": 1,
+      "company": "Meta",
+      "position": "Research Scientist Intern - Multimodal Foundations - PhD",
+      "apply_url": "https://www.metacareers.com/jobs/898451286162557",
+      "timestamp": "2026-03-06T22:39:49.329922",
+      "error": "Cannot connect to Chrome on port 9222: BrowserType.connect_over_cdp: connect ECONNREFUSED ::1:9222\nCall log:\n<ws preparing> retrieving websocket url from http://localhost:9222\n. Make sure Chrome is running with --remote-debugging-port=9222",
+      "reason": "",
+      "status": "failed"
+    },
+    {
+      "job_id": 1,
+      "company": "Meta",
+      "position": "Research Scientist Intern - Multimodal Foundations - PhD",
+      "apply_url": "https://www.metacareers.com/jobs/898451286162557",
+      "timestamp": "2026-03-06T22:40:32.631034",
+      "error": "Cannot connect to Chrome on port 9222: BrowserType.connect_over_cdp: connect ECONNREFUSED ::1:9222\nCall log:\n<ws preparing> retrieving websocket url from http://localhost:9222\n. Make sure Chrome is running with --remote-debugging-port=9222",
+      "reason": "",
+      "status": "failed"
+    },
+    {
+      "job_id": 1,
+      "company": "Meta",
+      "position": "Research Scientist Intern - Multimodal Foundations - PhD",
+      "apply_url": "https://www.metacareers.com/jobs/898451286162557",
+      "timestamp": "2026-03-06T22:42:23.779165",
+      "error": "Cannot connect to Chrome on port 9222: BrowserType.connect_over_cdp: connect ECONNREFUSED ::1:9222\nCall log:\n<ws preparing> retrieving websocket url from http://localhost:9222\n. Make sure Chrome is running with --remote-debugging-port=9222",
+      "reason": "",
+      "status": "failed"
+    },
+    {
+      "job_id": 1,
+      "company": "Meta",
+      "position": "Research Scientist Intern - Multimodal Foundations - PhD",
+      "apply_url": "https://www.metacareers.com/jobs/898451286162557",
+      "timestamp": "2026-03-06T22:49:26.173995",
+      "error": "APPLICATION FAILED: Unable to interact with the 'Apply Now' button and proceed with the application on the Meta Careers page.",
+      "reason": "Agent reported issue: unable to",
+      "status": "failed"
+    },
+    {
+      "job_id": 1,
+      "company": "Meta",
+      "position": "Research Scientist Intern - Multimodal Foundations - PhD",
+      "apply_url": "https://www.metacareers.com/jobs/898451286162557",
+      "timestamp": "2026-03-06T23:03:16.692568",
+      "error": "Unable to continue the application process due to website restrictions preventing automated interactions. Please try accessing the form manually.",
+      "reason": "Agent reported issue: unable to",
+      "status": "failed"
+    },
+    {
+      "job_id": 1,
+      "company": "Meta",
+      "position": "Research Scientist Intern - Multimodal Foundations - PhD",
+      "apply_url": "https://www.metacareers.com/jobs/898451286162557",
+      "timestamp": "2026-03-07T00:16:17.981393",
+      "error": "Error: No module named 'browser_use.browser.browser'",
+      "reason": "No module named 'browser_use.browser.browser'",
+      "status": "failed"
+    },
+    {
+      "job_id": 1,
+      "company": "Meta",
+      "position": "Research Scientist Intern - Multimodal Foundations - PhD",
+      "apply_url": "https://www.metacareers.com/jobs/898451286162557",
+      "timestamp": "2026-03-07T00:17:08.571852",
+      "error": "Error: name 'build_apply_command' is not defined",
+      "reason": "name 'build_apply_command' is not defined",
+      "status": "failed"
+    },
+    {
+      "job_id": 1,
+      "company": "Meta",
+      "position": "Research Scientist Intern - Multimodal Foundations - PhD",
+      "apply_url": "https://www.metacareers.com/jobs/898451286162557",
+      "timestamp": "2026-03-07T00:17:37.567296",
+      "error": "Error: 'ChatOpenAI' object has no attribute 'provider'",
+      "reason": "'ChatOpenAI' object has no attribute 'provider'",
+      "status": "failed"
+    },
+    {
+      "job_id": 1,
+      "company": "Meta",
+      "position": "Research Scientist Intern - Multimodal Foundations - PhD",
+      "apply_url": "https://www.metacareers.com/jobs/898451286162557",
+      "timestamp": "2026-03-07T00:20:14.599544",
+      "error": "Error: 'ChatOpenAI' object has no attribute 'provider'",
+      "reason": "'ChatOpenAI' object has no attribute 'provider'",
+      "status": "failed"
+    },
+    {
+      "job_id": 1,
+      "company": "Meta",
+      "position": "Research Scientist Intern - Multimodal Foundations - PhD",
+      "apply_url": "https://www.metacareers.com/jobs/898451286162557",
+      "timestamp": "2026-03-07T00:24:42.164035",
+      "error": "GOOGLE_API_KEY not found in environment or .env file",
+      "reason": "Missing API Key",
+      "status": "failed"
+    },
+    {
+      "job_id": 1,
+      "company": "Meta",
+      "position": "Research Scientist Intern - Multimodal Foundations - PhD",
+      "apply_url": "https://www.metacareers.com/jobs/898451286162557",
+      "timestamp": "2026-03-07T00:38:26.316677",
+      "error": "Error: No module named 'langchain_google_genai'",
+      "reason": "No module named 'langchain_google_genai'",
+      "status": "failed"
+    },
+    {
+      "job_id": 1,
+      "company": "Meta",
+      "position": "Research Scientist Intern - Multimodal Foundations - PhD",
+      "apply_url": "https://www.metacareers.com/jobs/898451286162557",
+      "timestamp": "2026-03-07T00:38:55.681531",
+      "error": "Error: 'ChatOpenAI' object has no attribute 'provider'",
+      "reason": "'ChatOpenAI' object has no attribute 'provider'",
+      "status": "failed"
+    },
+    {
+      "job_id": 1,
+      "company": "Meta",
+      "position": "Research Scientist Intern - Multimodal Foundations - PhD",
+      "apply_url": "https://www.metacareers.com/jobs/898451286162557",
+      "timestamp": "2026-03-07T00:44:04.808966",
+      "error": "GOOGLE_API_KEY not found in environment or .env file",
+      "reason": "Missing API Key",
+      "status": "failed"
+    }
+  ],
+  "skipped": []
+}

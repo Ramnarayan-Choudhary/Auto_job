@@ -1,0 +1,13 @@
+# Trimmed Workday employer registry for testing
+# We just want 1 quick scraper for testing
+
+employers:
+
+  # ── Canadian Banks & Financial ──────────────────────────────────────────
+
+  td:
+    name: "TD Bank"
+    tenant: "td"
+    site_id: "TD_Bank_Careers"
+    base_url: "https://td.wd3.myworkdayjobs.com"
+
