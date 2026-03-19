@@ -1,0 +1,20 @@
+# Smart extract configuration for direct career pages
+# Defines searchable job portals and simple listing pages
+
+searchable:
+
+  # ── Canadian Tech & Enterprise ───────────────────────────────────────────
+
+  shopify:
+    name: "Shopify"
+    url: "https://www.shopify.com/careers/search?q={query}&location=remote"
+    query_space: "+"
+
+
+# Sites with just a single page of job listings (no search function)
+static:
+  # Just one for testing
+  definity:
+    name: "Definity"
+    url: "https://www.definity.com/english/careers/default.aspx"
+

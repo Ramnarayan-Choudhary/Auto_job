@@ -1,0 +1,31 @@
+# Secrets / local env
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual envs
+venv/
+.venv/
+ApplyPilot_isolated_test/venv/
+
+# OS/editor noise
+.DS_Store
+.idea/
+.vscode/
+
+# Runtime artifacts
+logs/
+*.log
+*.sqlite
+*.db
+
+# User-local apply outputs
+tailored_resumes/
+cover_letters/
+screenshots/
