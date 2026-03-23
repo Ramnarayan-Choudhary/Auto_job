@@ -1,149 +1,77 @@
-# Contributing to ApplyPilot
+# Contributing to AutoJob
 
-Thank you for your interest in contributing to ApplyPilot. This guide covers everything you need to get started.
+Thank you for your interest in contributing to **AutoJob**! I (Ramnarayan Choudhary) created this project to revolutionize and automate the tedious job application process, and open-source contributions are highly encouraged to make the system even more robust against complex ATS platforms.
 
-## Development Setup
+This guide covers everything you need to get started.
 
-### Prerequisites
+---
 
-- Python 3.11 or higher
-- Git
+## First-time Setup
 
-### Clone and Install
+Because AutoJob uses browser-use and Playwright to interact with complex DOM structures, you need to install it in editable mode with development dependencies.
 
-```bash
-git clone https://github.com/Ramnarayan-Choudhary/job_automation_rc.git
-cd job_automation_rc
-pip install -e ".[dev]"
-playwright install chromium
-```
+1. **Clone your fork**:
+   ```bash
+   git clone https://github.com/Ramnarayan-Choudhary/job_automation_rc.git
+   cd job_automation_rc
+   ```
 
-This installs ApplyPilot in editable mode with all development dependencies (pytest, ruff, etc.) and downloads the Chromium browser binary for Playwright.
+2. **Create a virtual environment** (recommended):
+   ```bash
+   python -m venv venv
+   source venv/bin/activate
+   ```
 
-### Verify Installation
+3. **Install in editable mode**:
+   ```bash
+   pip install -e ".[dev]"
+   playwright install chromium
+   ```
 
-```bash
-applypilot --version
-pytest tests/ -v
-ruff check src/
-```
+This installs AutoJob in editable mode with all development dependencies (pytest, ruff) and downloads the Chromium browser binary for Playwright.
 
-## How to Contribute
+---
 
-### Adding New Workday Employers
+## Development Workflow
 
-Workday employer portals are configured in `config/employers.yaml`. To add a new employer:
+AutoJob uses `Ruff` for linting and formatting, and `pytest` for unit testing.
 
-1. Find the company's Workday career portal URL (usually `https://company.wd5.myworkdaysite.com/`)
-2. Identify the Workday instance number (wd1, wd3, wd5, etc.) and the tenant ID
-3. Add an entry to `config/employers.yaml`:
+1. **Create a branch**:
+   Always create a new branch for your feature or bug fix:
+   ```bash
+   git checkout -b feature/my-new-feature
+   ```
 
-```yaml
-- name: "Company Name"
-  tenant: "company_tenant_id"
-  instance: "wd5"
-  url: "https://company.wd5.myworkdaysite.com/en-US/recruiting"
-```
+2. **Make your changes**:
+   Try to keep changes focused and well-scoped. If you are adding a new ATS module or employer portal, please refer to the `src/autojob/discovery/workday.py` for structural inspiration.
 
-4. Test discovery: `applypilot discover --employer "Company Name"`
-5. Submit a PR with the new entry
+3. **Format and Lint**:
+   Ensure your code matches the project style:
+   ```bash
+   ruff check .
+   ruff format .
+   ```
 
-### Adding New Career Sites
+4. **Run Tests**:
+   Run the test suite to ensure nothing is broken:
+   ```bash
+   pytest
+   ```
 
-Direct career site scrapers are configured in `config/sites.yaml`. To add a new site:
+5. **Commit and Push**:
+   Write clear commit messages, explaining *why* the change was made if it isn't obvious.
+   ```bash
+   git commit -m "Fix: handled hidden combobox on SmartRecruiters"
+   git push origin feature/my-new-feature
+   ```
 
-1. Inspect the company's careers page and identify the job listing structure
-2. Add an entry to `config/sites.yaml` with CSS selectors:
+6. **Open a Pull Request**:
+   Submit your PR against the `main` branch. I try to review PRs quickly!
 
-```yaml
-- name: "Company Name"
-  url: "https://company.com/careers"
-  selectors:
-    job_list: ".job-listing"
-    title: ".job-title"
-    location: ".job-location"
-    link: "a.job-link"
-    description: ".job-description"
-```
+---
 
-3. Test: `applypilot discover --site "Company Name"`
-4. Submit a PR
+## Code of Conduct
 
-### Bug Fixes and Features
+Please treat everyone with respect. AutoJob is entirely open-source, and all contributions are valued equally. 
 
-1. Check existing [issues](https://github.com/Ramnarayan-Choudhary/job_automation_rc/issues) to avoid duplicating work
-2. For new features, open an issue first to discuss the approach
-3. Fork the repo and create a feature branch from `main`
-4. Write your code with type hints and docstrings
-5. Add tests for new functionality
-6. Update the CHANGELOG.md under an `[Unreleased]` section
-7. Submit a PR
-
-## Running Tests
-
-```bash
-# Run all tests
-pytest tests/ -v
-
-# Run a specific test file
-pytest tests/test_scoring.py -v
-
-# Run with coverage
-pytest tests/ --cov=src/applypilot --cov-report=term-missing
-```
-
-## Linting and Code Style
-
-ApplyPilot uses [Ruff](https://docs.astral.sh/ruff/) for linting and formatting.
-
-```bash
-# Check for issues
-ruff check src/
-
-# Auto-fix what can be fixed
-ruff check src/ --fix
-
-# Format code
-ruff format src/
-```
-
-### Code Style Guidelines
-
-- **Type hints**: All function signatures must have type annotations
-- **Docstrings**: All public functions and classes must have docstrings (Google style)
-- **Naming**: snake_case for functions and variables, PascalCase for classes
-- **Imports**: Sorted by Ruff (isort-compatible)
-- **Line length**: 100 characters maximum
-
-## PR Guidelines
-
-- **One feature per PR.** Keep changes focused and reviewable.
-- **Include tests.** New features need test coverage. Bug fixes need a regression test.
-- **Update CHANGELOG.md.** Add your changes under `[Unreleased]`.
-- **Write a clear PR description.** Explain what changed and why.
-- **Keep commits clean.** Squash fixup commits before requesting review.
-- **CI must pass.** All linting and tests must be green.
-
-## Project Structure
-
-```
-job_automation_rc/
-├── src/applypilot/       # Main package
-│   ├── __init__.py
-│   ├── cli.py            # CLI entry points
-│   ├── discover/         # Stage 1: job discovery scrapers
-│   ├── enrich/           # Stage 2: description extraction
-│   ├── score/            # Stage 3: AI scoring
-│   ├── tailor/           # Stage 4: resume tailoring
-│   ├── cover/            # Stage 5: cover letter generation
-│   ├── apply/            # Stage 6: browser automation
-│   └── utils/            # Shared utilities
-├── config/               # Default configuration files
-├── tests/                # Test suite
-├── docs/                 # Documentation
-└── pyproject.toml        # Package configuration
-```
-
-## License
-
-By contributing to ApplyPilot, you agree that your contributions will be licensed under the [GNU Affero General Public License v3.0](LICENSE).
+By contributing to AutoJob, you agree that your contributions will be licensed under the [GNU Affero General Public License v3.0](LICENSE).

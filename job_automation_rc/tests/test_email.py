@@ -1,4 +1,4 @@
-from applypilot.email import GmailAutomationService
+from autojob.email import GmailAutomationService
 
 
 def test_extract_verification_code(monkeypatch):

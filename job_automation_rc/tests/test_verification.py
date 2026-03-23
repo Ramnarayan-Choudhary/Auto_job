@@ -1,4 +1,4 @@
-from applypilot.apply.verification import parse_result_block, verify_apply_result
+from autojob.apply.verification import parse_result_block, verify_apply_result
 
 
 def test_parse_result_block():

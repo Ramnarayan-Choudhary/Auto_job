@@ -1,188 +1,111 @@
-<!-- logo here -->
+# AutoJob
+**Developed by Ramnarayan Choudhary**
 
-# ApplyPilot
+Applied to 1,000 jobs in 2 days. Fully autonomous. Open source.
 
-**Applied to 1,000 jobs in 2 days. Fully autonomous. Open source.**
-
-[![PyPI version](https://img.shields.io/pypi/v/applypilot?color=blue)](https://pypi.org/project/applypilot/)
+[![PyPI version](https://img.shields.io/pypi/v/autojob?color=blue)](https://pypi.org/project/autojob/)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: AGPL-3.0](https://img.shields.io/badge/license-AGPL--3.0-green.svg)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/Ramnarayan-Choudhary/job_automation_rc?style=social)](https://github.com/Ramnarayan-Choudhary/job_automation_rc)
 
+---
 
+## 🚀 What is AutoJob?
+
+I built **AutoJob** because applying to jobs manually is broken and tedious. AutoJob is a 6-stage autonomous job application pipeline that I designed to automate the entire job hunt. 
+
+It discovers jobs across 5+ major boards, uses AI to score them against your resume, tailors your resume for each specific job, writes matching cover letters, and **submits the applications for you autonomously**. It effortlessly navigates complex forms, uploads documents, bypassing CAPTCHAs, and answers screening questions hands-free.
 
 ---
 
-## What It Does
+## ⚡ Installation
 
-ApplyPilot is a 6-stage autonomous job application pipeline. It discovers jobs across 5+ boards, scores them against your resume with AI, tailors your resume per job, writes cover letters, and **submits applications for you**. It navigates forms, uploads documents, answers screening questions, all hands-free.
-
-Three commands. That's it.
+AutoJob requires Python 3.11+ and Google Chrome installed on your machine.
+Run the following commands to install the system:
 
 ```bash
-pip install applypilot
+# 1. Install the main AutoJob package
+pip install autojob
+
+# 2. Install the web-scraping dependencies (job spy)
 pip install --no-deps python-jobspy && pip install pydantic tls-client requests markdownify regex
-applypilot init          # one-time setup: resume, profile, preferences, API keys
-applypilot doctor        # verify your setup — shows what's installed and what's missing
-applypilot run           # discover > enrich > score > tailor > cover letters
-applypilot run -w 4      # same but parallel (4 threads for discovery/enrichment)
-applypilot apply         # autonomous browser-driven submission
-applypilot apply -w 3    # parallel apply (3 Chrome instances)
-applypilot apply --dry-run  # fill forms without submitting
 ```
 
-> **Why two install commands?** `python-jobspy` pins an exact numpy version in its metadata that conflicts with pip's resolver, but works fine at runtime with any modern numpy. The `--no-deps` flag bypasses the resolver; the second command installs jobspy's actual runtime dependencies. Everything except `python-jobspy` installs normally.
-
 ---
 
-## Two Paths
+## 🛠 Quick Start
 
-### Full Pipeline (recommended)
-**Requires:** Python 3.11+, Gemini API key (free), browser-use dependencies, Chrome
-
-Runs all 6 stages, from job discovery to autonomous application submission. This is the full power of ApplyPilot.
-
-### Discovery + Tailoring Only
-**Requires:** Python 3.11+, Gemini API key (free)
-
-Runs stages 1-5: discovers jobs, scores them, tailors your resume, generates cover letters. You submit applications manually with the AI-prepared materials.
-
----
-
-## The Pipeline
-
-| Stage | What Happens |
-|-------|-------------|
-| **1. Discover** | Scrapes 5 job boards (Indeed, LinkedIn, Glassdoor, ZipRecruiter, Google Jobs) + 48 Workday employer portals + 30 direct career sites |
-| **2. Enrich** | Fetches full job descriptions via JSON-LD, CSS selectors, or AI-powered extraction |
-| **3. Score** | AI rates every job 1-10 based on your resume and preferences. Only high-fit jobs proceed |
-| **4. Tailor** | AI rewrites your resume per job: reorganizes, emphasizes relevant experience, adds keywords. Never fabricates |
-| **5. Cover Letter** | AI generates a targeted cover letter per job |
-| **6. Auto-Apply** | Gemini + browser-use navigate application forms, fill fields, upload documents, answer questions, and submit |
-
-Each stage is independent. Run them all or pick what you need.
-
----
-
-## ApplyPilot vs The Alternatives
-
-| Feature | ApplyPilot | AIHawk | Manual |
-|---------|-----------|--------|--------|
-| Job discovery | 5 boards + Workday + direct sites | LinkedIn only | One board at a time |
-| AI scoring | 1-10 fit score per job | Basic filtering | Your gut feeling |
-| Resume tailoring | Per-job AI rewrite | Template-based | Hours per application |
-| Auto-apply | Full form navigation + submission | LinkedIn Easy Apply only | Click, type, repeat |
-| Supported sites | Indeed, LinkedIn, Glassdoor, ZipRecruiter, Google Jobs, 46 Workday portals, 28 direct sites | LinkedIn | Whatever you open |
-| License | AGPL-3.0 | MIT | N/A |
-
----
-
-## Requirements
-
-| Component | Required For | Details |
-|-----------|-------------|---------|
-| Python 3.11+ | Everything | Core runtime |
-| Gemini API key | Scoring, tailoring, cover letters | Free tier (15 RPM / 1M tokens/day) is enough |
-| Chrome/Chromium | Auto-apply | Auto-detected on most systems |
-| browser-use | Auto-apply | Drives the browser worker directly from Python |
-| Gmail OAuth credentials | OTP retrieval + confirmation emails | Place Desktop OAuth JSON at `~/.applypilot/gmail_credentials.json` |
-
-**Gemini API key is free.** Get one at [aistudio.google.com](https://aistudio.google.com). OpenAI and local models (Ollama/llama.cpp) are also supported.
-
-### Optional
-
-| Component | What It Does |
-|-----------|-------------|
-| CapSolver API key | Solves CAPTCHAs during auto-apply (hCaptcha, reCAPTCHA, Turnstile, FunCaptcha). Without it, CAPTCHA-blocked applications just fail gracefully |
-
-> **Note:** python-jobspy is installed separately with `--no-deps` because it pins an exact numpy version in its metadata that conflicts with pip's resolver. It works fine with modern numpy at runtime.
-
----
-
-## Configuration
-
-All generated by `applypilot init`:
-
-### `profile.json`
-Your personal data in one structured file: contact info, work authorization, compensation, experience, skills, resume facts (preserved during tailoring), and EEO defaults. Powers scoring, tailoring, and form auto-fill.
-
-### `searches.yaml`
-Job search queries, target titles, locations, boards. Run multiple searches with different parameters.
-
-### `.env`
-API keys and runtime config: `GEMINI_API_KEY`, `LLM_MODEL`, `CAPSOLVER_API_KEY` (optional).
-
-### Package configs (shipped with ApplyPilot)
-- `config/employers.yaml` - Workday employer registry (48 preconfigured)
-- `config/sites.yaml` - Direct career sites (30+), blocked sites, base URLs, manual ATS domains
-- `config/searches.example.yaml` - Example search configuration
-
----
-
-## How Stages Work
-
-### Discover
-Queries Indeed, LinkedIn, Glassdoor, ZipRecruiter, Google Jobs via JobSpy. Scrapes 48 Workday employer portals (configurable in `employers.yaml`). Hits 30 direct career sites with custom extractors. Deduplicates by URL.
-
-### Enrich
-Visits each job URL and extracts the full description. 3-tier cascade: JSON-LD structured data, then CSS selector patterns, then AI-powered extraction for unknown layouts.
-
-### Score
-AI scores every job 1-10 against your profile. 9-10 = strong match, 7-8 = good, 5-6 = moderate, 1-4 = skip. Only jobs above your threshold proceed to tailoring.
-
-### Tailor
-Generates a custom resume per job: reorders experience, emphasizes relevant skills, incorporates keywords from the job description. Your `resume_facts` (companies, projects, metrics) are preserved exactly. The AI reorganizes but never fabricates.
-
-### Cover Letter
-Writes a targeted cover letter per job referencing the specific company, role, and how your experience maps to their requirements.
-
-### Auto-Apply
-Gemini + browser-use launch a Chrome worker, navigate to each application page, detect the form type, fill personal information and work history, upload the tailored resume and cover letter, answer screening questions with AI, and submit. Gmail OAuth can be used for email verification codes and post-submit confirmation emails.
+Three commands are all you need to start automating your job hunt:
 
 ```bash
-# Utility modes (no browser worker needed)
-applypilot apply --mark-applied URL    # manually mark a job as applied
-applypilot apply --mark-failed URL     # manually mark a job as failed
-applypilot apply --reset-failed        # reset all failed jobs for retry
-applypilot apply --gen --url URL       # generate prompt file for manual debugging
-applypilot import-jobs --source jobs.json  # import legacy root jobs.json into the DB
+# 1. Run the one-time interactive setup (configure your resume, profile, and Gemini API keys)
+autojob init
+
+# 2. Run the discovery and preparation pipeline (scrapes boards, scores jobs, and tailors resumes)
+autojob run
+
+# 3. Launch the autonomous browser worker to submit the prepared applications!
+autojob apply
+```
+
+#### Parallel Processing for Speed
+Want to move faster? You can run multiple workers simultaneously:
+```bash
+autojob run -w 4      # 4 threads for job discovery & enrichment
+autojob apply -w 3    # 3 autonomous Chrome instances applying at the same time
 ```
 
 ---
 
-## CLI Reference
+## 🧠 How The Pipeline Works
 
-```
-applypilot init                         # First-time setup wizard
-applypilot doctor                       # Verify setup, diagnose missing requirements
-applypilot run [stages...]              # Run pipeline stages (or 'all')
-applypilot run --workers 4              # Parallel discovery/enrichment
-applypilot run --stream                 # Concurrent stages (streaming mode)
-applypilot run --min-score 8            # Override score threshold
-applypilot run --dry-run                # Preview without executing
-applypilot run --validation lenient     # Relax validation (recommended for Gemini free tier)
-applypilot run --validation strict      # Strictest validation (retries on any banned word)
-applypilot apply                        # Launch auto-apply
-applypilot apply --workers 3            # Parallel browser workers
-applypilot apply --dry-run              # Fill forms without submitting
-applypilot apply --continuous           # Run forever, polling for new jobs
-applypilot apply --headless             # Headless browser mode
-applypilot apply --url URL              # Apply to a specific job
-applypilot import-jobs --source PATH    # Import legacy jobs.json data
-applypilot status                       # Pipeline statistics
-applypilot dashboard                    # Open HTML results dashboard
+I architected AutoJob into 6 distinct, highly-optimized stages:
+
+| Stage | What It Does |
+|-------|-------------|
+| **1. Discover** | Scrapes 5 massive job boards (Indeed, LinkedIn, Glassdoor, ZipRecruiter, Google Jobs) + 48 Workday employer portals + 30 direct career sites. |
+| **2. Enrich** | Visits each job URL and extracts the full description using a powerful 3-tier cascade: JSON-LD, CSS selectors, or AI-powered extraction. |
+| **3. Score** | An AI agent rates every job 1-10 based strictly on your resume and preferences. Only the best jobs proceed. |
+| **4. Tailor** | AI rewrites your resume per job—emphasizing your most relevant experience and injecting job description keywords. It *never* fabricates metrics. |
+| **5. Cover Letter** | Generates a targeted, context-aware cover letter for the specific company and role. |
+| **6. Auto-Apply** | A Gemini-powered browser worker launches Chrome, fills the forms, uploads your tailored documents, answers demographic/screening questions, and confidently clicks Submit. |
+
+---
+
+## ⚙️ Configuration Files
+
+After running `autojob init`, the system will generate three critical files in your `~/.autojob/` directory:
+
+1. **`profile.json`**: Your master data file. Contains your contact info, demographics (Gender/Race/Disability), compensation expectations, and skills. AutoJob uses this to confidently auto-fill massive application forms.
+2. **`searches.yaml`**: Your job search queries. You can define multiple boards, target titles, and locations.
+3. **`.env`**: Stores your API keys. **Gemini is highly recommended and completely free** via Google AI Studio. You can optionally add a `CAPSOLVER_API_KEY` to automatically bypass invisible reCAPTCHAs!
+
+---
+
+## 💻 Full Command Reference
+
+```bash
+autojob init                         # First-time setup wizard
+autojob doctor                       # Verify setup, diagnose missing requirements
+autojob run [stages...]              # Run pipeline stages (or 'all')
+autojob run --workers 4              # Parallel discovery/enrichment
+autojob run --stream                 # Concurrent stages (streaming mode)
+autojob run --min-score 8            # Override score threshold
+autojob run --dry-run                # Preview without executing
+autojob apply                        # Launch auto-apply
+autojob apply --workers 3            # Parallel browser workers
+autojob apply --dry-run              # Fill forms without submitting
+autojob apply --continuous           # Run forever, polling for new jobs
+autojob apply --headless             # Headless browser mode
+autojob apply --url URL              # Apply to a specific job
+autojob dashboard                    # Open the Local UI to apply manually
+autojob status                       # View pipeline statistics & success rates
 ```
 
 ---
 
-## Contributing
+## 🤝 Contributing & License
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for development setup, coding standards, and PR guidelines.
+AutoJob is an open-source tool built to level the playing field for job seekers. Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for how you can help improve the system.
 
----
-
-## License
-
-ApplyPilot is licensed under the [GNU Affero General Public License v3.0](LICENSE).
-
-You are free to use, modify, and distribute this software. If you deploy a modified version as a service, you must release your source code under the same license.
+AutoJob is licensed under the **GNU Affero General Public License v3.0** (AGPL-3.0). You are free to use, modify, and distribute this software, but any modified version used as a service must also be open-sourced under the same license.

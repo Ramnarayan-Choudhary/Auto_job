@@ -1,4 +1,4 @@
-from applypilot.apply import launcher
+from autojob.apply import launcher
 
 
 def test_send_confirmation_email_uses_profile_settings(monkeypatch, tmp_path):

@@ -1,11 +1,11 @@
 import json
 
-from applypilot import database
-from applypilot.import_jobs import import_jobs_json
+from autojob import database
+from autojob.import_jobs import import_jobs_json
 
 
 def test_import_jobs_json_inserts_and_skips_duplicates(tmp_path, monkeypatch):
-    db_path = tmp_path / "applypilot.db"
+    db_path = tmp_path / "autojob.db"
     source = tmp_path / "jobs.json"
     source.write_text(
         json.dumps(
