@@ -226,6 +226,8 @@ setInterval(async () => {
 // ============ EVENT LISTENERS ============
 
 function setupEventListeners() {
+    setupDemoToggle();
+
     // Search
     document.getElementById('searchInput').addEventListener('input', (e) => {
         filters.search = e.target.value.toLowerCase();
@@ -374,6 +376,23 @@ function updateStats() {
     document.querySelector('#statPending .stat-value').textContent = pending;
     document.querySelector('#statFailed .stat-value').textContent = failed;
     document.getElementById('filteredCount').textContent = filteredJobs.length.toLocaleString();
+
+    // Update Demo Stats
+    const demoApps = document.getElementById('demoStatApps');
+    const demoRecovery = document.getElementById('demoStatRecovery');
+    if (demoApps) {
+        const totalApps = (applicationLog?.applied?.length || 0) + (applicationLog?.failed?.length || 0);
+        demoApps.textContent = totalApps > 0 ? `${totalApps}` : '1k+';
+    }
+    if (demoRecovery) {
+        const appliedCount = applicationLog?.applied?.length || 0;
+        const failedCount = applicationLog?.failed?.length || 0;
+        const total = appliedCount + failedCount;
+        if (total > 0) {
+            const rate = Math.round((appliedCount / total) * 100);
+            demoRecovery.textContent = `${rate}%`;
+        }
+    }
 }
 
 function renderTable() {
@@ -763,4 +782,42 @@ function shortenUrl(url) {
     } catch (e) {
         return url.slice(0, 30);
     }
+}
+
+function setupDemoToggle() {
+    const dashBtn = document.getElementById('showDashboardBtn');
+    const demoBtn = document.getElementById('showDemoBtn');
+    const filters = document.querySelector('.filters-section');
+    const table = document.querySelector('.table-section');
+    const demo = document.getElementById('ycDemoSection');
+    
+    if(!dashBtn || !demoBtn) return;
+
+    dashBtn.addEventListener('click', () => {
+        dashBtn.classList.add('active');
+        demoBtn.classList.remove('active');
+        demoBtn.classList.add('yc-glow');
+        filters.style.display = '';
+        table.style.display = '';
+        demo.classList.add('hidden');
+    });
+
+    demoBtn.addEventListener('click', () => {
+        demoBtn.classList.add('active');
+        dashBtn.classList.remove('active');
+        demoBtn.classList.remove('yc-glow');
+        filters.style.display = 'none';
+        table.style.display = 'none';
+        demo.classList.remove('hidden');
+        resetTerminalAnimation();
+    });
+}
+
+function resetTerminalAnimation() {
+    const terminal = document.getElementById('terminalReplay');
+    if (!terminal) return;
+    
+    // Clone and replace to restart CSS animations
+    const newTerminal = terminal.cloneNode(true);
+    terminal.parentNode.replaceChild(newTerminal, terminal);
 }

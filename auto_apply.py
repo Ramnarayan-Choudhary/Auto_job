@@ -411,6 +411,8 @@ def main():
                         help="Max age in days (e.g., 30 for jobs posted within last month)")
     parser.add_argument("--limit", type=int, default=None,
                         help="Max number of jobs to process")
+    parser.add_argument("--id", type=int, default=None,
+                        help="Process a specific job ID only")
     parser.add_argument("--delay", type=int, default=30,
                         help="Delay in seconds between applications (default: 30)")
     parser.add_argument("--dry-run", action="store_true",
@@ -433,7 +435,10 @@ def main():
         log = load_log()
 
     # Filter
-    filtered = filter_jobs(all_jobs, args.category, args.job_type, args.region, args.max_age)
+    if args.id:
+        filtered = [j for j in all_jobs if j["id"] == args.id]
+    else:
+        filtered = filter_jobs(all_jobs, args.category, args.job_type, args.region, args.max_age)
 
     if args.limit:
         filtered = filtered[:args.limit]

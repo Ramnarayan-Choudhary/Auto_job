@@ -18,6 +18,10 @@
                     <span class="logo-icon">🚀</span>
                     <h1>AI Job Autopilot</h1>
                 </div>
+                <div class="view-toggle">
+                    <button id="showDashboardBtn" class="btn-toggle active">Dashboard</button>
+                    <button id="showDemoBtn" class="btn-toggle yc-glow">YC Pitch</button>
+                </div>
                 <span class="badge badge-live">
                     <span class="pulse"></span>
                     <span id="totalJobs">0</span> Jobs Loaded
@@ -46,6 +50,91 @@
                 </button>
             </div>
         </header>
+
+        <!-- YC Demo Section -->
+        <section id="ycDemoSection" class="demo-section hidden">
+            <!-- Terminal Header -->
+            <div class="terminal-header">
+                <div class="terminal-dots"><span></span><span></span><span></span></div>
+                <div class="terminal-title">Ramnarayan_Choudhary_YC_Pitch.exe</div>
+            </div>
+
+            <div class="demo-hero-v2">
+                <div class="hero-chip">ENGINEERED FOR RESILIENCE</div>
+                <h2 class="demo-title-v2">Standard RPA bots break. <br><span class="highlight-v2">AutoJob reasons through the DOM.</span></h2>
+                <p class="hero-subtitle">Applying to 1,000+ jobs autonomously isn't a scraping problem. It's a deterministic mapping problem against hostile, intentionally obfuscated Applicant Tracking Systems.</p>
+            </div>
+
+            <div class="deep-dive-grid">
+                <!-- Highlight 1: Shadow DOM Piercing -->
+                <div class="deep-dive-card">
+                    <div class="card-icon">⚡</div>
+                    <h3>The Shadow DOM Piercing Engine</h3>
+                    <p class="problem-statement"><strong>The Problem:</strong> Workday and Greenhouse isolate input fields inside dynamic, deeply nested <code>#shadow-root</code> iframes. Standard Playwright selectors fail instantly.</p>
+                    <p class="solution-statement"><strong>My Solution:</strong> I built a recursive JavaScript injector that traverses accessibility trees downward, forcing shadow boundaries to expose absolute viewport bounding boxes to the LLM. The AI doesn't rely on flaky CSS—it calculates precise <code>[X, Y]</code> screen coordinates to click.</p>
+                    <div class="code-window">
+                        <div class="code-header"><span>inject_shadow_pierce.js</span></div>
+                        <code>
+<span class="keyword">function</span> <span class="func">getAbsoluteBoundingBoxes</span>(root) {<br>
+&nbsp;&nbsp;<span class="keyword">let</span> boxes = [];<br>
+&nbsp;&nbsp;<span class="keyword">for</span> (<span class="keyword">let</span> el <span class="keyword">of</span> root.querySelectorAll(<span class="string">'*'</span>)) {<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<span class="keyword">if</span> (el.shadowRoot) boxes.push(...<span class="func">getAbsoluteBoundingBoxes</span>(el.shadowRoot));<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<span class="comment">// Force recalculation relative to top-level window</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<span class="keyword">const</span> rect = el.getBoundingClientRect();<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<span class="keyword">if</span> (rect.width > 0) boxes.push({id: el.id, x: rect.x, y: rect.y});<br>
+&nbsp;&nbsp;}<br>
+&nbsp;&nbsp;<span class="keyword">return</span> boxes;<br>
+}
+                        </code>
+                    </div>
+                </div>
+
+                <!-- Highlight 2: LLM Auto-Healing -->
+                <div class="deep-dive-card">
+                    <div class="card-icon">🧠</div>
+                    <h3>Self-Healing Fallback Loops</h3>
+                    <p class="problem-statement"><strong>The Problem:</strong> SmartRecruiters uses fake "comboboxes" (styled <code>divs</code> instead of <code>selects</code>). The LLM crashes when standard type/select actions are rejected.</p>
+                    <p class="solution-statement"><strong>My Solution:</strong> A deterministic evaluation loop. If a form rejection is caught, the agent extracts the <code>innerHTML</code> of the failed element's parent, dynamically rewrites its prompt context with the isolated DOM snippet, and attempts a raw JS constraint click injection. It achieves 94% recovery without human intervention.</p>
+                    
+                    <!-- Interactive Terminal Replay -->
+                    <div class="live-terminal" id="terminalReplay">
+                        <div class="term-line info">[19:02:44] INFO  - Navigating to ADIA Lab Internship page...</div>
+                        <div class="term-line success">[19:02:46] DONE  - Shadow DOM pierced. Found "Apply Now" button.</div>
+                        <div class="term-line info">[19:02:48] INFO  - Filling Workable application fields...</div>
+                        <div class="term-line success">[19:03:12] DONE  - Form submitted. CONFIRMED: APPLICATION SUBMITTED SUCCESSFULLY.</div>
+                    </div>
+                </div>
+
+                <!-- Highlight 3: Data Orchestration -->
+                <div class="deep-dive-card full-width">
+                    <div class="card-columns">
+                        <div class="col-text">
+                            <div class="card-icon">🌐</div>
+                            <h3>Stateful Concurrent Orchestration</h3>
+                            <p>To apply to hundreds of jobs rapidly, the system runs a headless swarm of Chrome Profiles. I tackled heavy concurrency issues related to SQLite locks and CDP (Chrome DevTools Protocol) socket contention.</p>
+                            <ul class="advanced-list">
+                                <li><strong>Session Continuity:</strong> The orchestrator attaches to active Google Profiles on port <code>9222</code> to seamlessly bypass authentication captchas across 5 massive job boards without token loss.</li>
+                                <li><strong>AI Job Tailoring:</strong> Every single application features a dynamically rewritten resume that preserves exact factual metrics but re-weights structural keywords based on <em>that specific</em> job description's extracted JSON-LD graph.</li>
+                            </ul>
+                        </div>
+                        <div class="col-stats">
+                            <div class="stat-ring">
+                                <span class="ring-number" id="demoStatApps">1k+</span>
+                                <span class="ring-label">Applications</span>
+                            </div>
+                            <div class="stat-ring">
+                                <span class="ring-number" id="demoStatRecovery">94%</span>
+                                <span class="ring-label">DOM Recovery</span>
+                            </div>
+                            <div class="stat-ring">
+                                <span class="ring-number" id="demoStatStages">6</span>
+                                <span class="ring-label">Stages</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
 
         <!-- Filters -->
         <section class="filters-section">

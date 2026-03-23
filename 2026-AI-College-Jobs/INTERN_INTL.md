@@ -73,6 +73,7 @@
 <!-- TABLE_START -->
 | Company | Position | Location | Posting | Age |
 |---|---|---|---|---|
+| <a href="https://adia.ae"><strong>ADIA Lab</strong></a> | ADIA Lab 2026 Internship | Abu Dhabi, UAE | <a href="https://jobs.adia.ae/_/j/68F3B45AD3/"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 0d |
 | <a href="https://www.asml.com"><strong>ASML</strong></a> | Computer Science and Data Science internship: alignment data automation | Veldhoven, Netherlands | <a href="https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/Veldhoven-Netherlands/Computer-Science-and-Engineering---Data-Science-internship--alignment-data-automation_J-00335681"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 0d |
 | <a href="http://loblaw.ca/"><strong>Loblaw Companies</strong></a> | Applied Machine Learning - Co-op Student | Presidents Choice Circle, Brampton, ON | <a href="https://myview.wd3.myworkdayjobs.com/en-US/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Applied-Machine-Learning---Co-op-Student_R2000632491"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 0d |
 | <a href="https://www.nxp.com"><strong>NXP Semiconductors</strong></a> | Intern for Edge AI Model Zoo Optimization Research & Engineering - f/m/d | Eindhoven | <a href="https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Eindhoven/Intern-for-Edge-AI-Model-Zoo-Optimization-Research---Engineering--f-m-d-_R-10062104"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 0d |

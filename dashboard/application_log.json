@@ -140,6 +140,26 @@
       "error": "GOOGLE_API_KEY not found in environment or .env file",
       "reason": "Missing API Key",
       "status": "failed"
+    },
+    {
+      "job_id": 502,
+      "company": "ADIA Lab",
+      "position": "ADIA Lab 2026 Internship",
+      "apply_url": "https://jobs.adia.ae/_/j/68F3B45AD3/",
+      "timestamp": "2026-03-23T19:03:53.215484",
+      "error": "Error: No module named 'dotenv'",
+      "reason": "No module named 'dotenv'",
+      "status": "failed"
+    },
+    {
+      "job_id": 502,
+      "company": "ADIA Lab",
+      "position": "ADIA Lab 2026 Internship",
+      "apply_url": "https://jobs.adia.ae/_/j/68F3B45AD3/",
+      "timestamp": "2026-03-23T19:05:09.527102",
+      "error": "Error: No module named 'langchain_google_genai'",
+      "reason": "No module named 'langchain_google_genai'",
+      "status": "failed"
     }
   ],
   "skipped": []

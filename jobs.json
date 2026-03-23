@@ -11,7 +11,7 @@
     "category": "FAANG+",
     "type": "internship",
     "region": "USA",
-    "status": "failed"
+    "status": "pending"
   },
   {
     "id": 2,
@@ -7015,6 +7015,20 @@
   },
   {
     "id": 502,
+    "company": "ADIA Lab",
+    "company_url": "https://adia.ae",
+    "position": "ADIA Lab 2026 Internship",
+    "location": "Abu Dhabi, UAE",
+    "salary": null,
+    "apply_url": "https://jobs.adia.ae/_/j/68F3B45AD3/",
+    "age_days": 0,
+    "category": "Other",
+    "type": "internship",
+    "region": "International",
+    "status": "failed"
+  },
+  {
+    "id": 503,
     "company": "ASML",
     "company_url": "https://www.asml.com",
     "position": "Computer Science and Data Science internship: alignment data automation",
@@ -7028,7 +7042,7 @@
     "status": "pending"
   },
   {
-    "id": 503,
+    "id": 504,
     "company": "Loblaw Companies",
     "company_url": "http://loblaw.ca/",
     "position": "Applied Machine Learning - Co-op Student",
@@ -7042,7 +7056,7 @@
     "status": "pending"
   },
   {
-    "id": 504,
+    "id": 505,
     "company": "NXP Semiconductors",
     "company_url": "https://www.nxp.com",
     "position": "Intern for Edge AI Model Zoo Optimization Research & Engineering - f/m/d",
@@ -7056,7 +7070,7 @@
     "status": "pending"
   },
   {
-    "id": 505,
+    "id": 506,
     "company": "Sprinto",
     "company_url": "https://www.sprinto.com",
     "position": "AI Engineering Intern",
@@ -7070,7 +7084,7 @@
     "status": "pending"
   },
   {
-    "id": 506,
+    "id": 507,
     "company": "Virtu",
     "company_url": "https://www.virtu.com/",
     "position": "Internship - Quantitative Strategist - 2026",
@@ -7084,7 +7098,7 @@
     "status": "pending"
   },
   {
-    "id": 507,
+    "id": 508,
     "company": "Autodesk",
     "company_url": "https://www.autodesk.com",
     "position": "Intern - AI Research",
@@ -7098,7 +7112,7 @@
     "status": "pending"
   },
   {
-    "id": 508,
+    "id": 509,
     "company": "Baker Hughes",
     "company_url": "https://www.bakerhughes.com",
     "position": "Emerging Talent - Computer Vision Engineering Intern 2026 Opportunities - Florence",
@@ -7112,7 +7126,7 @@
     "status": "pending"
   },
   {
-    "id": 509,
+    "id": 510,
     "company": "Boeing",
     "company_url": "https://boeing.com",
     "position": "Artificial Intelligence Internship",
@@ -7126,7 +7140,7 @@
     "status": "pending"
   },
   {
-    "id": 510,
+    "id": 511,
     "company": "Caterpillar",
     "company_url": "https://www.caterpillar.com",
     "position": "AI dispatch Intern",
@@ -7140,7 +7154,7 @@
     "status": "pending"
   },
   {
-    "id": 511,
+    "id": 512,
     "company": "Genmab",
     "company_url": "https://www.genmab.com",
     "position": "Histopathology Imaging Data Science Intern",
@@ -7154,7 +7168,7 @@
     "status": "pending"
   },
   {
-    "id": 512,
+    "id": 513,
     "company": "Harman",
     "company_url": "https://www.harman.com",
     "position": "Intern - Algorithm Research",
@@ -7168,7 +7182,7 @@
     "status": "pending"
   },
   {
-    "id": 513,
+    "id": 514,
     "company": "Harman",
     "company_url": "https://www.harman.com",
     "position": "Intern - Algorithm Research",
@@ -7182,7 +7196,7 @@
     "status": "pending"
   },
   {
-    "id": 514,
+    "id": 515,
     "company": "Intact",
     "company_url": "https://intactfc.com/",
     "position": "AI Developer I - HK - 4 Months Co-op/Internship - Summer/Fall 2026",
@@ -7196,7 +7210,7 @@
     "status": "pending"
   },
   {
-    "id": 515,
+    "id": 516,
     "company": "Intel",
     "company_url": "https://www.intel.com",
     "position": "Data Analyst Engineer - Intern - Graduate",
@@ -7210,7 +7224,7 @@
     "status": "pending"
   },
   {
-    "id": 516,
+    "id": 517,
     "company": "Proofpoint",
     "company_url": "https://www.proofpoint.com",
     "position": "Cybersecurity AI Intern - 6 month co-op",
@@ -7224,7 +7238,7 @@
     "status": "pending"
   },
   {
-    "id": 517,
+    "id": 518,
     "company": "RBC - Royal Bank of Canada",
     "company_url": "https://www.rbcroyalbank.com",
     "position": "2026 Capital Markets - Global Equities - Quantitative Trading Analyst - 16 Months - Co-op",
@@ -7238,7 +7252,7 @@
     "status": "pending"
   },
   {
-    "id": 518,
+    "id": 519,
     "company": "Sony",
     "company_url": "https://www.sony.com",
     "position": "Intern - AI Adoption",
@@ -7252,7 +7266,7 @@
     "status": "pending"
   },
   {
-    "id": 519,
+    "id": 520,
     "company": "Unilever",
     "company_url": "https://www.unilever.com",
     "position": "Ice Cream: Procurement Internship 26' - Analytics & AI",
@@ -7266,7 +7280,7 @@
     "status": "pending"
   },
   {
-    "id": 520,
+    "id": 521,
     "company": "AnyMind Group",
     "company_url": "https://www.anymindgroup.com",
     "position": "AnyLab Internship Program: AI Agents and Workflow Automation",
@@ -7280,7 +7294,7 @@
     "status": "pending"
   },
   {
-    "id": 521,
+    "id": 522,
     "company": "Back Market",
     "company_url": "https://www.backmarket.com/",
     "position": "Customer Care Data Analyst Intern",
@@ -7294,7 +7308,7 @@
     "status": "pending"
   },
   {
-    "id": 522,
+    "id": 523,
     "company": "HP",
     "company_url": "https://www.hp.com",
     "position": "College Intern - Data Science",
@@ -7308,7 +7322,7 @@
     "status": "pending"
   },
   {
-    "id": 523,
+    "id": 524,
     "company": "Johnson & Johnson",
     "company_url": "https://www.jnj.com",
     "position": "Data Science Digital Health Intern",
@@ -7322,7 +7336,7 @@
     "status": "pending"
   },
   {
-    "id": 524,
+    "id": 525,
     "company": "Mirakl",
     "company_url": "http://www.mirakl.com",
     "position": "AI Automation & Operations Intern - Paris",
@@ -7336,7 +7350,7 @@
     "status": "pending"
   },
   {
-    "id": 525,
+    "id": 526,
     "company": "Samsung",
     "company_url": "https://www.samsung.com",
     "position": "Intern - AI Research",
@@ -7350,7 +7364,7 @@
     "status": "pending"
   },
   {
-    "id": 526,
+    "id": 527,
     "company": "WEX",
     "company_url": "https://www.wexinc.com",
     "position": "PhD Intern - AI/ML/NLP Engineer",
@@ -7364,7 +7378,7 @@
     "status": "pending"
   },
   {
-    "id": 527,
+    "id": 528,
     "company": "BeiGene",
     "company_url": "https://www.beigene.com",
     "position": "Summer Internship: Data Insights AI Summer Intern",
@@ -7378,7 +7392,7 @@
     "status": "pending"
   },
   {
-    "id": 528,
+    "id": 529,
     "company": "Bolt",
     "company_url": "https://bolt.eu",
     "position": "Data Science Intern",
@@ -7392,7 +7406,7 @@
     "status": "pending"
   },
   {
-    "id": 529,
+    "id": 530,
     "company": "Bolt",
     "company_url": "https://bolt.eu",
     "position": "Data Science Intern",
@@ -7406,7 +7420,7 @@
     "status": "pending"
   },
   {
-    "id": 530,
+    "id": 531,
     "company": "Cboe Global Markets",
     "company_url": "https://www.cboe.com",
     "position": "Quantitative Analytics Intern",
@@ -7420,7 +7434,7 @@
     "status": "pending"
   },
   {
-    "id": 531,
+    "id": 532,
     "company": "Cohesity",
     "company_url": "https://cohesity.com/",
     "position": "Sales Enablement Intern- AI",
@@ -7434,7 +7448,7 @@
     "status": "pending"
   },
   {
-    "id": 532,
+    "id": 533,
     "company": "Gen",
     "company_url": "https://www.gendigital.com",
     "position": "Intern - Customer Journey AI for Retention Programs - Summer",
@@ -7448,7 +7462,7 @@
     "status": "pending"
   },
   {
-    "id": 533,
+    "id": 534,
     "company": "Johnson & Johnson",
     "company_url": "https://www.jnj.com",
     "position": "AI/ML & Digital Health Internship",
@@ -7462,7 +7476,7 @@
     "status": "pending"
   },
   {
-    "id": 534,
+    "id": 535,
     "company": "League",
     "company_url": "https://league.com",
     "position": "AI Engineer - Co-op - Spring/Summer Term",
@@ -7476,7 +7490,7 @@
     "status": "pending"
   },
   {
-    "id": 535,
+    "id": 536,
     "company": "NXP Semiconductors",
     "company_url": "https://www.nxp.com",
     "position": "Summer Internship: AI-Based Anomaly Detection for Logical Attack Detection - m/f/d",
@@ -7490,7 +7504,7 @@
     "status": "pending"
   },
   {
-    "id": 536,
+    "id": 537,
     "company": "Pernod Ricard",
     "company_url": "https://www.pernod-ricard.com",
     "position": "Data Science Intern - Pernod Ricard HQ - Paris - 6 months as of sept-oct. 2026",
@@ -7504,7 +7518,7 @@
     "status": "pending"
   },
   {
-    "id": 537,
+    "id": 538,
     "company": "SAS",
     "company_url": "https://www.sas.com",
     "position": "Estagio / Internship AI & Analytics Customer Advisory",
@@ -7518,7 +7532,7 @@
     "status": "pending"
   },
   {
-    "id": 538,
+    "id": 539,
     "company": "Schnucks",
     "company_url": "https://nourish.schnucks.com",
     "position": "Data Science Intern - Year-Round",
@@ -7532,7 +7546,7 @@
     "status": "pending"
   },
   {
-    "id": 539,
+    "id": 540,
     "company": "ZEISS",
     "company_url": "https://www.zeiss.com",
     "position": "Internship or Working Student in 3D Computer Vision - f/m/x",
@@ -7546,7 +7560,7 @@
     "status": "pending"
   },
   {
-    "id": 540,
+    "id": 541,
     "company": "Applied Materials",
     "company_url": "https://www.appliedmaterials.com",
     "position": "2026 Summer Intern Program : Industrial Engineer - Deep Learning - 工業工程師 _顯示器製造中心",
@@ -7560,7 +7574,7 @@
     "status": "pending"
   },
   {
-    "id": 541,
+    "id": 542,
     "company": "Woven by Toyota",
     "company_url": "https://woven.toyota",
     "position": "ML Engineer - Social Infrastructure & Platform - Internship",
@@ -7574,7 +7588,7 @@
     "status": "pending"
   },
   {
-    "id": 542,
+    "id": 543,
     "company": "AstraZeneca",
     "company_url": "https://www.astrazeneca.com",
     "position": "AI & Data Management Intern - Working in Science 2026 Internship Program",
@@ -7588,7 +7602,7 @@
     "status": "pending"
   },
   {
-    "id": 543,
+    "id": 544,
     "company": "Stryker",
     "company_url": "https://www.stryker.com",
     "position": "R&D Internship - Computer Science / Medical Technology - AI & Surgical Navigation - 6 months - Sept/Oct 2026",
@@ -7602,7 +7616,7 @@
     "status": "pending"
   },
   {
-    "id": 544,
+    "id": 545,
     "company": "Stryker",
     "company_url": "https://www.stryker.com",
     "position": "Internship /Praktikum - Computer Vision - Machine Learning & Medical Navigation - 6 Monate - Sept/Okt 2026",
@@ -7616,7 +7630,7 @@
     "status": "pending"
   },
   {
-    "id": 545,
+    "id": 546,
     "company": "Acadia Pharmaceuticals",
     "company_url": "http://acadia.com",
     "position": "Technology - AI and Automation Intern - Europe",
@@ -7630,7 +7644,7 @@
     "status": "pending"
   },
   {
-    "id": 546,
+    "id": 547,
     "company": "Baker Hughes",
     "company_url": "https://www.bakerhughes.com",
     "position": "Emerging Talent - AI and Computer engineering Intern 2026 Opportunities - Florence",
@@ -7644,7 +7658,7 @@
     "status": "pending"
   },
   {
-    "id": 547,
+    "id": 548,
     "company": "Intel",
     "company_url": "https://www.intel.com",
     "position": "AI Software Research Intern",
@@ -7658,7 +7672,7 @@
     "status": "pending"
   },
   {
-    "id": 548,
+    "id": 549,
     "company": "Mirakl",
     "company_url": "http://www.mirakl.com",
     "position": "Product Data Analyst Intern - Ads",
@@ -7672,7 +7686,7 @@
     "status": "pending"
   },
   {
-    "id": 549,
+    "id": 550,
     "company": "ASML",
     "company_url": "https://www.asml.com",
     "position": "Industrial Engineering - Data Science internship: data-driven project enablement",
@@ -7686,7 +7700,7 @@
     "status": "pending"
   },
   {
-    "id": 550,
+    "id": 551,
     "company": "BeiGene",
     "company_url": "https://www.beigene.com",
     "position": "Summer Internship: Clinical Pharmacology AI ML Intern",
@@ -7700,7 +7714,7 @@
     "status": "pending"
   },
   {
-    "id": 551,
+    "id": 552,
     "company": "Bosch",
     "company_url": "https://www.bosch.com/",
     "position": "Extracurricular Internship: AI in Engineering Quality - f/m/div.",
@@ -7714,7 +7728,7 @@
     "status": "pending"
   },
   {
-    "id": 552,
+    "id": 553,
     "company": "C1",
     "company_url": "https://www.onec1.com",
     "position": "AI/ML Intern",
@@ -7728,7 +7742,7 @@
     "status": "pending"
   },
   {
-    "id": 553,
+    "id": 554,
     "company": "Intel",
     "company_url": "https://www.intel.com",
     "position": "Platform FW and AI application Engineer- Intern",
@@ -7742,7 +7756,7 @@
     "status": "pending"
   },
   {
-    "id": 554,
+    "id": 555,
     "company": "Marsh McLennan",
     "company_url": "https://careers.mmc.com/",
     "position": "Intern - AI Research and Development Analyst",
@@ -7756,7 +7770,7 @@
     "status": "pending"
   },
   {
-    "id": 555,
+    "id": 556,
     "company": "Medtronic",
     "company_url": "https://www.medtronic.com",
     "position": "AI Enablement Intern",
@@ -7770,7 +7784,7 @@
     "status": "pending"
   },
   {
-    "id": 556,
+    "id": 557,
     "company": "Mirakl",
     "company_url": "http://www.mirakl.com",
     "position": "Data Scientist Intern",
@@ -7784,7 +7798,7 @@
     "status": "pending"
   },
   {
-    "id": 557,
+    "id": 558,
     "company": "Santander",
     "company_url": "https://www.santanderbank.com",
     "position": "AI DATA SCIENTIST - INTERNSHIP",
@@ -7798,7 +7812,7 @@
     "status": "pending"
   },
   {
-    "id": 558,
+    "id": 559,
     "company": "Doctolib",
     "company_url": "https://careers.doctolib.com",
     "position": "AI / Machine Learning Research Intern - x/f/m",
@@ -7812,7 +7826,7 @@
     "status": "pending"
   },
   {
-    "id": 559,
+    "id": 560,
     "company": "Intel",
     "company_url": "https://www.intel.com",
     "position": "Data Science and Analytics Undergraduate - Intern",
@@ -7826,7 +7840,7 @@
     "status": "pending"
   },
   {
-    "id": 560,
+    "id": 561,
     "company": "Intel",
     "company_url": "https://www.intel.com",
     "position": "Data Science and Analytics PhD - Intern",
@@ -7840,7 +7854,7 @@
     "status": "pending"
   },
   {
-    "id": 561,
+    "id": 562,
     "company": "Jack & Jill/External ATS",
     "company_url": "https://www.jackandjill.ai/",
     "position": "AI Workflows Intern at Early-stage visual AI startup",
@@ -7854,7 +7868,7 @@
     "status": "pending"
   },
   {
-    "id": 562,
+    "id": 563,
     "company": "Marvell",
     "company_url": "https://www.marvell.com",
     "position": "AMS CAD - ML/AI Developer Intern",
@@ -7868,7 +7882,7 @@
     "status": "pending"
   },
   {
-    "id": 563,
+    "id": 564,
     "company": "Medtronic",
     "company_url": "https://www.medtronic.com",
     "position": "AI Enablement Intern",
@@ -7882,7 +7896,7 @@
     "status": "pending"
   },
   {
-    "id": 564,
+    "id": 565,
     "company": "ASML",
     "company_url": "https://www.asml.com",
     "position": "Data Science - Computer Science internship: analysis & reporting",
@@ -7896,7 +7910,7 @@
     "status": "pending"
   },
   {
-    "id": 565,
+    "id": 566,
     "company": "Airbus",
     "company_url": "https://www.airbus.com/",
     "position": "Internship Data Scientist - f/m/d - Engineering Strategy & Make-or-Buy Optimization",
@@ -7910,7 +7924,7 @@
     "status": "pending"
   },
   {
-    "id": 566,
+    "id": 567,
     "company": "C1",
     "company_url": "https://www.onec1.com",
     "position": "Research and Forecasting Intern - Agentic AI",
@@ -7924,7 +7938,7 @@
     "status": "pending"
   },
   {
-    "id": 567,
+    "id": 568,
     "company": "CapitaLand",
     "company_url": "https://www.capitaland.com",
     "position": "Intern - Digital & Technology - Data & AI - Business Analytics - Off-cycle Jul - Dec 2026",
@@ -7938,7 +7952,7 @@
     "status": "pending"
   },
   {
-    "id": 568,
+    "id": 569,
     "company": "CapitaLand",
     "company_url": "https://www.capitaland.com",
     "position": "Intern - Digital & Technology - Data & AI - Data Science - Off-cycle Jul - Dec 2026",
@@ -7952,7 +7966,7 @@
     "status": "pending"
   },
   {
-    "id": 569,
+    "id": 570,
     "company": "CapitaLand",
     "company_url": "https://www.capitaland.com",
     "position": "Intern - Digital & Technology - Data & AI - Off-cycle Jul - Dec 2026",
@@ -7966,7 +7980,7 @@
     "status": "pending"
   },
   {
-    "id": 570,
+    "id": 571,
     "company": "CapitaLand",
     "company_url": "https://www.capitaland.com",
     "position": "Intern - Digital & Technology - Data & AI - Data Analytics - Summer 2026",
@@ -7980,7 +7994,7 @@
     "status": "pending"
   },
   {
-    "id": 571,
+    "id": 572,
     "company": "Cerved",
     "company_url": "https://www.cerved.com/",
     "position": "Junior Data Analyst - Internship",
@@ -7994,7 +8008,7 @@
     "status": "pending"
   },
   {
-    "id": 572,
+    "id": 573,
     "company": "Harman",
     "company_url": "https://www.harman.com",
     "position": "Intern - AI Research",
@@ -8008,7 +8022,7 @@
     "status": "pending"
   },
   {
-    "id": 573,
+    "id": 574,
     "company": "Johnson Controls",
     "company_url": "https://www.johnsoncontrols.com",
     "position": "Intern - Program & Data Analyst",
@@ -8022,7 +8036,7 @@
     "status": "pending"
   },
   {
-    "id": 574,
+    "id": 575,
     "company": "Netskope",
     "company_url": "https://www.netskope.com",
     "position": "Intern - AI Security",
@@ -8036,7 +8050,7 @@
     "status": "pending"
   },
   {
-    "id": 575,
+    "id": 576,
     "company": "Otsuka",
     "company_url": "https://www.otsuka.com",
     "position": "Intern the Otsuka Way 2026 - AI Systems Engineer Intern",
@@ -8050,7 +8064,7 @@
     "status": "pending"
   },
   {
-    "id": 576,
+    "id": 577,
     "company": "Roche Middle East",
     "company_url": "https://www.roche.com",
     "position": "AI & Data Science Intern",
@@ -8064,7 +8078,7 @@
     "status": "pending"
   },
   {
-    "id": 577,
+    "id": 578,
     "company": "Shift Technologies",
     "company_url": "https://www.shift-technology.com",
     "position": "Data Scientist Internship - 6 months",
@@ -8078,7 +8092,7 @@
     "status": "pending"
   },
   {
-    "id": 578,
+    "id": 579,
     "company": "Stibo Systems",
     "company_url": "https://www.stibosystems.com/",
     "position": "AI Test Intern",
@@ -8092,7 +8106,7 @@
     "status": "pending"
   },
   {
-    "id": 579,
+    "id": 580,
     "company": "Transcarent",
     "company_url": "http://www.transcarent.com",
     "position": "Machine Learning Engineer Intern",
@@ -8106,7 +8120,7 @@
     "status": "pending"
   },
   {
-    "id": 580,
+    "id": 581,
     "company": "Walt Disney",
     "company_url": "https://www.disneycareers.com/",
     "position": "AI Intern",
@@ -8120,7 +8134,7 @@
     "status": "pending"
   },
   {
-    "id": 581,
+    "id": 582,
     "company": "ASML",
     "company_url": "https://www.asml.com",
     "position": "Data Science - Computer Science internship: proactive modeling",
@@ -8134,7 +8148,7 @@
     "status": "pending"
   },
   {
-    "id": 582,
+    "id": 583,
     "company": "BeiGene",
     "company_url": "https://www.beigene.com",
     "position": "Summer Internship: AI & People Analytics Intern - Remote",
@@ -8148,7 +8162,7 @@
     "status": "pending"
   },
   {
-    "id": 583,
+    "id": 584,
     "company": "BeiGene",
     "company_url": "https://www.beigene.com",
     "position": "Summer Internship: New Hire Orientation & AI-Enabled Learning Experience Intern - Remote",
@@ -8162,7 +8176,7 @@
     "status": "pending"
   },
   {
-    "id": 584,
+    "id": 585,
     "company": "HP",
     "company_url": "https://www.hp.com",
     "position": "Data Scientist Internship",
@@ -8176,7 +8190,7 @@
     "status": "pending"
   },
   {
-    "id": 585,
+    "id": 586,
     "company": "Hewlett Packard Enterprise",
     "company_url": "https://www.hpe.com",
     "position": "Data Science & GenAI Internship — Digital Support Experience",
@@ -8190,7 +8204,7 @@
     "status": "pending"
   },
   {
-    "id": 586,
+    "id": 587,
     "company": "Shift Technologies",
     "company_url": "https://www.shift-technology.com",
     "position": "Data Scientist Intern - End of studies - English Speaker",
@@ -8204,7 +8218,7 @@
     "status": "pending"
   },
   {
-    "id": 587,
+    "id": 588,
     "company": "Thales",
     "company_url": "https://www.thalesgroup.com",
     "position": "Data Science Intern/Co-op",
@@ -8218,7 +8232,7 @@
     "status": "pending"
   },
   {
-    "id": 588,
+    "id": 589,
     "company": "Otsuka",
     "company_url": "https://www.otsuka.com",
     "position": "Intern the Otsuka Way 2026 - AI Systems & Automation Intern",
@@ -8232,7 +8246,7 @@
     "status": "pending"
   },
   {
-    "id": 589,
+    "id": 590,
     "company": "Otsuka",
     "company_url": "https://www.otsuka.com",
     "position": "Intern the Otsuka Way 2026 - R&D IT AI Intern",
@@ -8246,7 +8260,7 @@
     "status": "pending"
   },
   {
-    "id": 590,
+    "id": 591,
     "company": "Husqvarna Group",
     "company_url": "https://www.husqvarnagroup.com",
     "position": "Internship within AI Training Content Creation",
@@ -8260,7 +8274,7 @@
     "status": "pending"
   },
   {
-    "id": 591,
+    "id": 592,
     "company": "Kensington",
     "company_url": "https://www.kensingtontours.com",
     "position": "Intern - Travel Product Data & AI Attribution",
@@ -8274,7 +8288,7 @@
     "status": "pending"
   },
   {
-    "id": 592,
+    "id": 593,
     "company": "Kensington",
     "company_url": "https://www.kensingtontours.com",
     "position": "Intern - Travel Product Content & AI Copywriting",
@@ -8288,7 +8302,7 @@
     "status": "pending"
   },
   {
-    "id": 593,
+    "id": 594,
     "company": "P&G - Procter & Gamble",
     "company_url": "https://us.pg.com",
     "position": "Data Science Internship",
@@ -8302,7 +8316,7 @@
     "status": "pending"
   },
   {
-    "id": 594,
+    "id": 595,
     "company": "Rapsodo",
     "company_url": "https://rapsodo.com/",
     "position": "Data Analyst Intern",
@@ -8316,7 +8330,7 @@
     "status": "pending"
   },
   {
-    "id": 595,
+    "id": 596,
     "company": "UnlikelyAI",
     "company_url": "https://unlikely.ai/",
     "position": "Machine Learning Engineer Intern",
@@ -8330,7 +8344,7 @@
     "status": "pending"
   },
   {
-    "id": 596,
+    "id": 597,
     "company": "C1",
     "company_url": "https://www.onec1.com",
     "position": "Application Development Intern- Artificial Intelligence",
@@ -8344,7 +8358,7 @@
     "status": "pending"
   },
   {
-    "id": 597,
+    "id": 598,
     "company": "GE Aerospace",
     "company_url": "http://geaerospace.com/",
     "position": "GE Aerospace Research Non-destructive Evaluation and AI Fellow Intern",
@@ -8358,7 +8372,7 @@
     "status": "pending"
   },
   {
-    "id": 598,
+    "id": 599,
     "company": "Hewlett Packard Enterprise",
     "company_url": "https://www.hpe.com",
     "position": "Customer Experience Data Science/ML Internship",
@@ -8372,7 +8386,7 @@
     "status": "pending"
   },
   {
-    "id": 599,
+    "id": 600,
     "company": "Integral Ad Science - IAS",
     "company_url": "https://integralads.com",
     "position": "Machine Learning Intern",
@@ -8386,7 +8400,7 @@
     "status": "pending"
   },
   {
-    "id": 600,
+    "id": 601,
     "company": "Moloco",
     "company_url": "https://www.moloco.com",
     "position": "Machine Learning Engineer Intern - 3-month internship",
@@ -8400,7 +8414,7 @@
     "status": "pending"
   },
   {
-    "id": 601,
+    "id": 602,
     "company": "Robert Half",
     "company_url": "https://www.roberthalf.com",
     "position": "Generative AI Engineer Virtual Internship",
@@ -8414,7 +8428,7 @@
     "status": "pending"
   },
   {
-    "id": 602,
+    "id": 603,
     "company": "Thomson Reuters",
     "company_url": "https://www.thomsonreuters.com",
     "position": "Research Scientist Intern",
@@ -8428,7 +8442,7 @@
     "status": "pending"
   },
   {
-    "id": 603,
+    "id": 604,
     "company": "Magna International",
     "company_url": "http://www.magna.com",
     "position": "AI Engineering Co-op - 4 Months starting May",
@@ -8442,7 +8456,7 @@
     "status": "pending"
   },
   {
-    "id": 604,
+    "id": 605,
     "company": "Hewlett Packard Enterprise",
     "company_url": "https://www.hpe.com",
     "position": "Data Scientist Intern - Masters",
@@ -8456,7 +8470,7 @@
     "status": "pending"
   },
   {
-    "id": 605,
+    "id": 606,
     "company": "Keyrock",
     "company_url": "https://www.keyrock.com/",
     "position": "Quantitative Analyst Intern",
@@ -8470,7 +8484,7 @@
     "status": "pending"
   },
   {
-    "id": 606,
+    "id": 607,
     "company": "Moloco",
     "company_url": "https://www.moloco.com",
     "position": "Data Scientist Intern - Growth Analytics - 6-month internship",
@@ -8484,7 +8498,7 @@
     "status": "pending"
   },
   {
-    "id": 607,
+    "id": 608,
     "company": "Aqua Finance",
     "company_url": "https://www.aquafinance.com/",
     "position": "Information Technology/AI Internship",
@@ -8498,7 +8512,7 @@
     "status": "pending"
   },
   {
-    "id": 608,
+    "id": 609,
     "company": "FactSet",
     "company_url": "https://www.factset.com/",
     "position": "Risk & Quant Intern - Managed Services",
@@ -8512,7 +8526,7 @@
     "status": "pending"
   },
   {
-    "id": 609,
+    "id": 610,
     "company": "Moloco",
     "company_url": "https://www.moloco.com",
     "position": "Data Scientist Intern - Growth Analytics - 6-month internship",
@@ -8526,7 +8540,7 @@
     "status": "pending"
   },
   {
-    "id": 610,
+    "id": 611,
     "company": "Moloco",
     "company_url": "https://www.moloco.com",
     "position": "Data Scientist Intern - Growth Analytics - 6-month internship",
@@ -8540,7 +8554,7 @@
     "status": "pending"
   },
   {
-    "id": 611,
+    "id": 612,
     "company": "Moloco",
     "company_url": "https://www.moloco.com",
     "position": "Data Scientist Intern - Growth Analytics - 6-month internship",
@@ -8554,7 +8568,7 @@
     "status": "pending"
   },
   {
-    "id": 612,
+    "id": 613,
     "company": "Razer",
     "company_url": "https://www.razer.com",
     "position": "Applied AI Intern - Product",
@@ -8568,7 +8582,7 @@
     "status": "pending"
   },
   {
-    "id": 613,
+    "id": 614,
     "company": "Razer",
     "company_url": "https://www.razer.com",
     "position": "AI Engineer Intern",
@@ -8582,7 +8596,7 @@
     "status": "pending"
   },
   {
-    "id": 614,
+    "id": 615,
     "company": "Razer",
     "company_url": "https://www.razer.com",
     "position": "AI Engineer Intern - Agentic AI",
@@ -8596,7 +8610,7 @@
     "status": "pending"
   },
   {
-    "id": 615,
+    "id": 616,
     "company": "Razer",
     "company_url": "https://www.razer.com",
     "position": "Applied AI Intern - Audio",
@@ -8610,7 +8624,7 @@
     "status": "pending"
   },
   {
-    "id": 616,
+    "id": 617,
     "company": "Razer",
     "company_url": "https://www.razer.com",
     "position": "Applied AI Intern",
@@ -8624,7 +8638,7 @@
     "status": "pending"
   },
   {
-    "id": 617,
+    "id": 618,
     "company": "VF Corporation",
     "company_url": "https://www.vfc.com",
     "position": "AI & Digital Innovation Intern - EMEA Internship Program",
@@ -8638,7 +8652,7 @@
     "status": "pending"
   },
   {
-    "id": 618,
+    "id": 619,
     "company": "42dot",
     "company_url": "https://42dot.ai/",
     "position": "MS/PhD Intern AI Engineer - 정규직 전환형",
@@ -8652,7 +8666,7 @@
     "status": "pending"
   },
   {
-    "id": 619,
+    "id": 620,
     "company": "Micron Technology",
     "company_url": "https://www.micron.com/",
     "position": "Machine Learning Engineer Intern - Smart Manufacturing & AI - Micron Technology",
@@ -8666,7 +8680,7 @@
     "status": "pending"
   },
   {
-    "id": 620,
+    "id": 621,
     "company": "Bosch",
     "company_url": "https://www.bosch.com/",
     "position": "Mandatory Internship in the Area of Data Analytics and Generative AI",
@@ -8680,7 +8694,7 @@
     "status": "pending"
   },
   {
-    "id": 621,
+    "id": 622,
     "company": "Genesis Molecular AI",
     "company_url": "https://genesis.ml/",
     "position": "Cheminformatics and Machine Learning Intern",
@@ -8694,7 +8708,7 @@
     "status": "pending"
   },
   {
-    "id": 622,
+    "id": 623,
     "company": "Johnson Electric",
     "company_url": "https://www.johnsonelectric.com",
     "position": "Intern - Engineer - Mechanical - Smart Factory & Big Data Automation - 16 months",
@@ -8708,7 +8722,7 @@
     "status": "pending"
   },
   {
-    "id": 623,
+    "id": 624,
     "company": "Shell",
     "company_url": "https://www.shell.com",
     "position": "AI & Digital Engineering Intern - Sabah Deepwater",
@@ -8722,7 +8736,7 @@
     "status": "pending"
   },
   {
-    "id": 624,
+    "id": 625,
     "company": "VF Corporation",
     "company_url": "https://www.vfc.com",
     "position": "Digital Retail Technology & Gen AI Intern - EMEA Internship Program",
@@ -8736,7 +8750,7 @@
     "status": "pending"
   },
   {
-    "id": 625,
+    "id": 626,
     "company": "Cloudflare",
     "company_url": "https://www.cloudflare.com",
     "position": "People Team Intern - HR Operations & AI Innovation - Summer 2026",
@@ -8750,7 +8764,7 @@
     "status": "pending"
   },
   {
-    "id": 626,
+    "id": 627,
     "company": "Medtronic",
     "company_url": "https://www.medtronic.com",
     "position": "AI Integration Intern - Sales Operation",
@@ -8764,7 +8778,7 @@
     "status": "pending"
   },
   {
-    "id": 627,
+    "id": 628,
     "company": "Medtronic",
     "company_url": "https://www.medtronic.com",
     "position": "AI Integration Intern - Sales Operation",
@@ -8778,7 +8792,7 @@
     "status": "pending"
   },
   {
-    "id": 628,
+    "id": 629,
     "company": "Trexo Robotics",
     "company_url": "https://www.trexorobotics.com/",
     "position": "AI Robotics Intern",
@@ -8792,7 +8806,7 @@
     "status": "pending"
   },
   {
-    "id": 629,
+    "id": 630,
     "company": "VF Corporation",
     "company_url": "https://www.vfc.com",
     "position": "Data Science Intern - EMEA Internship Program",
@@ -8806,7 +8820,7 @@
     "status": "pending"
   },
   {
-    "id": 630,
+    "id": 631,
     "company": "Vanderlande",
     "company_url": "https://vanderlande.com/",
     "position": "Internship: Exploring the use of AI Tools to improve daily work and knowledge exchange",
@@ -8820,7 +8834,7 @@
     "status": "pending"
   },
   {
-    "id": 631,
+    "id": 632,
     "company": "Visa",
     "company_url": "https://visa.com/",
     "position": "Data Science Summer Internship - for students graduating in 2027",
@@ -8834,7 +8848,7 @@
     "status": "pending"
   },
   {
-    "id": 632,
+    "id": 633,
     "company": "Dow",
     "company_url": "https://www.dow.com",
     "position": "Campus Internship 2025-2026 - Finance - Data Science - Artificial Intelligence",
@@ -8848,7 +8862,7 @@
     "status": "pending"
   },
   {
-    "id": 633,
+    "id": 634,
     "company": "GoTo",
     "company_url": "https://www.gotocompany.com",
     "position": "Data Analyst Intern",
@@ -8862,7 +8876,7 @@
     "status": "pending"
   },
   {
-    "id": 634,
+    "id": 635,
     "company": "LexisNexis Risk Solutions",
     "company_url": "https://risk.lexisnexis.com",
     "position": "Data Analyst - Intern",
@@ -8876,7 +8890,7 @@
     "status": "pending"
   },
   {
-    "id": 635,
+    "id": 636,
     "company": "Pernod Ricard",
     "company_url": "https://www.pernod-ricard.com",
     "position": "Machine Learning Engineer Intern - July 2026",
@@ -8890,7 +8904,7 @@
     "status": "pending"
   },
   {
-    "id": 636,
+    "id": 637,
     "company": "RELX",
     "company_url": "https://www.relx.com",
     "position": "Data Analyst - Intern",
@@ -8904,7 +8918,7 @@
     "status": "pending"
   },
   {
-    "id": 637,
+    "id": 638,
     "company": "dentsu",
     "company_url": "https://www.dentsu.com",
     "position": "Junior Data Scientist - intern",
@@ -8918,7 +8932,7 @@
     "status": "pending"
   },
   {
-    "id": 638,
+    "id": 639,
     "company": "Bosch",
     "company_url": "https://www.bosch.com/",
     "position": "BD AI Engineer Intern",
@@ -8932,7 +8946,7 @@
     "status": "pending"
   },
   {
-    "id": 639,
+    "id": 640,
     "company": "GE Vernova",
     "company_url": "https://www.gevernova.com/",
     "position": "GE Vernova Robotics - Computer Vision - Inspection Internship - Summer 2026",
@@ -8946,7 +8960,7 @@
     "status": "pending"
   },
   {
-    "id": 640,
+    "id": 641,
     "company": "GE Vernova",
     "company_url": "https://www.gevernova.com/",
     "position": "GE Vernova Robotics - Computer Vision- Perception Internship - Summer 2026",
@@ -8960,7 +8974,7 @@
     "status": "pending"
   },
   {
-    "id": 641,
+    "id": 642,
     "company": "Morningstar",
     "company_url": "https://www.morningstar.com",
     "position": "Data Analyst Intern- Spanish Speaker",
@@ -8974,7 +8988,7 @@
     "status": "pending"
   },
   {
-    "id": 642,
+    "id": 643,
     "company": "XM Careers",
     "company_url": "https://xm.com/careers",
     "position": "Data Science - Intern",
@@ -8988,7 +9002,7 @@
     "status": "pending"
   },
   {
-    "id": 643,
+    "id": 644,
     "company": "CHANEL",
     "company_url": "https://www.chanel.com",
     "position": "Data Analyst Support Intern",
@@ -9002,7 +9016,7 @@
     "status": "pending"
   },
   {
-    "id": 644,
+    "id": 645,
     "company": "Glencore",
     "company_url": "https://www.glencore.com/",
     "position": "Quant Intern - H2 2026",
@@ -9016,7 +9030,7 @@
     "status": "pending"
   },
   {
-    "id": 645,
+    "id": 646,
     "company": "Micron Technology",
     "company_url": "https://www.micron.com/",
     "position": "Intern - Data Scientist",
@@ -9030,7 +9044,7 @@
     "status": "pending"
   },
   {
-    "id": 646,
+    "id": 647,
     "company": "Constructor TECH",
     "company_url": "https://constructor.tech",
     "position": "ML Research Intern in Agentic Runtime Systems",
@@ -9044,7 +9058,7 @@
     "status": "pending"
   },
   {
-    "id": 647,
+    "id": 648,
     "company": "Motional",
     "company_url": "https://motional.com",
     "position": "Machine Learning Intern - Perception - Computer Vision",
@@ -9058,7 +9072,7 @@
     "status": "pending"
   },
   {
-    "id": 648,
+    "id": 649,
     "company": "Bosch",
     "company_url": "https://www.bosch.com/",
     "position": "Bosch R&D - Internship AI Engineer Intern",
@@ -9072,7 +9086,7 @@
     "status": "pending"
   },
   {
-    "id": 649,
+    "id": 650,
     "company": "Cloudflare",
     "company_url": "https://www.cloudflare.com",
     "position": "AI Automation Intern - M&A Integration Ops",
@@ -9086,7 +9100,7 @@
     "status": "pending"
   },
   {
-    "id": 650,
+    "id": 651,
     "company": "Dropbox",
     "company_url": "https://www.dropbox.com",
     "position": "AI Solutions Intern - Summer 2026",
@@ -9100,7 +9114,7 @@
     "status": "pending"
   },
   {
-    "id": 651,
+    "id": 652,
     "company": "Tencent",
     "company_url": "https://www.tencent.com",
     "position": "AI-Native Game Design Intern",
@@ -9114,7 +9128,7 @@
     "status": "pending"
   },
   {
-    "id": 652,
+    "id": 653,
     "company": "Bosch",
     "company_url": "https://www.bosch.com/",
     "position": "BDO IT Data Analyst Intern",
@@ -9128,7 +9142,7 @@
     "status": "pending"
   },
   {
-    "id": 653,
+    "id": 654,
     "company": "CME Group",
     "company_url": "https://www.cmegroup.com",
     "position": "Post Grad Data Science Intern - Current PhD Students",
@@ -9142,7 +9156,7 @@
     "status": "pending"
   },
   {
-    "id": 654,
+    "id": 655,
     "company": "Ekimetrics",
     "company_url": "https://ekimetrics.com",
     "position": "Internship in Strategy & Data Science",
@@ -9156,7 +9170,7 @@
     "status": "pending"
   },
   {
-    "id": 655,
+    "id": 656,
     "company": "Intapp",
     "company_url": "https://www.intapp.com",
     "position": "Machine Learning Engineer - NLP - Intern",
@@ -9170,7 +9184,7 @@
     "status": "pending"
   },
   {
-    "id": 656,
+    "id": 657,
     "company": "Philips",
     "company_url": "https://www.usa.philips.com",
     "position": "Internship: Observable Conversational Interface - AI Research - Cardiac Healthcare",
@@ -9184,7 +9198,7 @@
     "status": "pending"
   },
   {
-    "id": 657,
+    "id": 658,
     "company": "ResMed",
     "company_url": "https://www.resmed.com",
     "position": "AI Engineer Intern",
@@ -9198,7 +9212,7 @@
     "status": "pending"
   },
   {
-    "id": 658,
+    "id": 659,
     "company": "Samsung",
     "company_url": "https://www.samsung.com",
     "position": "Corporate operations data analyst Support - Internship",
@@ -9212,7 +9226,7 @@
     "status": "pending"
   },
   {
-    "id": 659,
+    "id": 660,
     "company": "Woven by Toyota",
     "company_url": "https://woven.toyota",
     "position": "Computer Vision Researcher - Vision AI Platform - Internship",
@@ -9226,7 +9240,7 @@
     "status": "pending"
   },
   {
-    "id": 660,
+    "id": 661,
     "company": "Cadence",
     "company_url": "https://www.cadence.com",
     "position": "Intern - Agentic AI - System Verification Group",
@@ -9240,7 +9254,7 @@
     "status": "pending"
   },
   {
-    "id": 661,
+    "id": 662,
     "company": "NoGood",
     "company_url": "http://nogood.io/",
     "position": "AI Search Intern",
@@ -9254,7 +9268,7 @@
     "status": "pending"
   },
   {
-    "id": 662,
+    "id": 663,
     "company": "Sony",
     "company_url": "https://www.sony.com",
     "position": "R&D Intern - AI Computational Photography & Computer Vision",
@@ -9268,7 +9282,7 @@
     "status": "pending"
   },
   {
-    "id": 663,
+    "id": 664,
     "company": "Tencent",
     "company_url": "https://www.tencent.com",
     "position": "AI IT Engineer Intern",
@@ -9282,7 +9296,7 @@
     "status": "pending"
   },
   {
-    "id": 664,
+    "id": 665,
     "company": "ASM",
     "company_url": "https://www.asm.com/",
     "position": "Intern - Artificial Intelligence - 6 months",
@@ -9296,7 +9310,7 @@
     "status": "pending"
   },
   {
-    "id": 665,
+    "id": 666,
     "company": "Cresta",
     "company_url": "https://cresta.com/",
     "position": "Forward Deployed Engineering Intern - AI Agent",
@@ -9310,7 +9324,7 @@
     "status": "pending"
   },
   {
-    "id": 666,
+    "id": 667,
     "company": "Hewlett Packard Enterprise",
     "company_url": "https://www.hpe.com",
     "position": "Data Analyst - Internship",
@@ -9324,7 +9338,7 @@
     "status": "pending"
   },
   {
-    "id": 667,
+    "id": 668,
     "company": "KRAFTON",
     "company_url": "https://krafton.com",
     "position": "AI Research Div. Research Scientist Intern - 독자 AI 파운데이션 모델 - 2년 이상 / 인턴",
@@ -9338,7 +9352,7 @@
     "status": "pending"
   },
   {
-    "id": 668,
+    "id": 669,
     "company": "KRAFTON",
     "company_url": "https://krafton.com",
     "position": "AI Research Div. Research Scientist Intern - Theory - 2년 이상 / 인턴",
@@ -9352,7 +9366,7 @@
     "status": "pending"
   },
   {
-    "id": 669,
+    "id": 670,
     "company": "Oxy",
     "company_url": "https://www.oxy.com/",
     "position": "Research Scientist Co-op",
@@ -9366,7 +9380,7 @@
     "status": "pending"
   },
   {
-    "id": 670,
+    "id": 671,
     "company": "Rakuten Advertising",
     "company_url": "https://rakutenadvertising.com/",
     "position": "Intern - Data Science",
@@ -9380,7 +9394,7 @@
     "status": "pending"
   },
   {
-    "id": 671,
+    "id": 672,
     "company": "Rocket Companies",
     "company_url": "https://rocketcompanies.com",
     "position": "Data Analyst Intern - Summer 2026 - Windsor - ON",
@@ -9394,7 +9408,7 @@
     "status": "pending"
   },
   {
-    "id": 672,
+    "id": 673,
     "company": "Tencent",
     "company_url": "https://www.tencent.com",
     "position": "Data Science Intern",
@@ -9408,7 +9422,7 @@
     "status": "pending"
   },
   {
-    "id": 673,
+    "id": 674,
     "company": "Thomson Reuters",
     "company_url": "https://www.thomsonreuters.com",
     "position": "Applied Scientist Intern",
@@ -9422,7 +9436,7 @@
     "status": "pending"
   },
   {
-    "id": 674,
+    "id": 675,
     "company": "dentsu",
     "company_url": "https://www.dentsu.com",
     "position": "Intern - Data Science and Measurement",
@@ -9436,7 +9450,7 @@
     "status": "pending"
   },
   {
-    "id": 675,
+    "id": 676,
     "company": "General Motors",
     "company_url": "https://www.gm.com",
     "position": "2026 Summer Intern - AI/ML Engineer - AV ML Infrastructure - Master's",
@@ -9450,7 +9464,7 @@
     "status": "pending"
   },
   {
-    "id": 676,
+    "id": 677,
     "company": "Klue",
     "company_url": "https://klue.com/",
     "position": "AI Ops Intern",
@@ -9464,7 +9478,7 @@
     "status": "pending"
   },
   {
-    "id": 677,
+    "id": 678,
     "company": "Blockchain.com",
     "company_url": "https://www.blockchain.com",
     "position": "Engineering Intern - Web3/AI",
@@ -9478,7 +9492,7 @@
     "status": "pending"
   },
   {
-    "id": 678,
+    "id": 679,
     "company": "Covestro",
     "company_url": "https://www.covestro.com",
     "position": "Intern - Supply Chain Data Analyst",
@@ -9492,7 +9506,7 @@
     "status": "pending"
   },
   {
-    "id": 679,
+    "id": 680,
     "company": "Gen",
     "company_url": "https://www.gendigital.com",
     "position": "Data Scientist - Intern - MoneyLion",
@@ -9506,7 +9520,7 @@
     "status": "pending"
   },
   {
-    "id": 680,
+    "id": 681,
     "company": "Gen",
     "company_url": "https://www.gendigital.com",
     "position": "MLOps Engineer - Intern - MoneyLion",
@@ -9520,7 +9534,7 @@
     "status": "pending"
   },
   {
-    "id": 681,
+    "id": 682,
     "company": "Gen",
     "company_url": "https://www.gendigital.com",
     "position": "Machine Learning Scientist - Intern - MoneyLion",
@@ -9534,7 +9548,7 @@
     "status": "pending"
   },
   {
-    "id": 682,
+    "id": 683,
     "company": "Gen",
     "company_url": "https://www.gendigital.com",
     "position": "Machine Learning Engineer - Intern - MoneyLion",
@@ -9548,7 +9562,7 @@
     "status": "pending"
   },
   {
-    "id": 683,
+    "id": 684,
     "company": "Penn State",
     "company_url": "https://psu.edu",
     "position": "AI/ML Research and Development Intern",
@@ -9562,7 +9576,7 @@
     "status": "pending"
   },
   {
-    "id": 684,
+    "id": 685,
     "company": "RIVR",
     "company_url": "https://www.rivr.ai/",
     "position": "AI Intern - Vision-Language-Action - VLA",
@@ -9576,7 +9590,7 @@
     "status": "pending"
   },
   {
-    "id": 685,
+    "id": 686,
     "company": "Stryker",
     "company_url": "https://www.stryker.com",
     "position": "Data Analyst Intern",
@@ -9590,7 +9604,7 @@
     "status": "pending"
   },
   {
-    "id": 686,
+    "id": 687,
     "company": "ShopBack",
     "company_url": "https://corporate.shopback.com",
     "position": "Data Analyst - Internship - H2 2026",
@@ -9604,7 +9618,7 @@
     "status": "pending"
   },
   {
-    "id": 687,
+    "id": 688,
     "company": "Tencent",
     "company_url": "https://www.tencent.com",
     "position": "AI Agent Research & Application Intern",
@@ -9618,7 +9632,7 @@
     "status": "pending"
   },
   {
-    "id": 688,
+    "id": 689,
     "company": "Applied Materials",
     "company_url": "https://www.appliedmaterials.com",
     "position": "2026 Summer Intern Program : Algorithm Developer - 演算法研發工程師",
@@ -9632,7 +9646,7 @@
     "status": "pending"
   },
   {
-    "id": 689,
+    "id": 690,
     "company": "GenMD",
     "company_url": "https://genmd.ai/",
     "position": "AI Research Scientist - Intern",
@@ -9646,7 +9660,7 @@
     "status": "pending"
   },
   {
-    "id": 690,
+    "id": 691,
     "company": "Motional",
     "company_url": "https://motional.com",
     "position": "Machine Learning Internship - Behaviors Research",
@@ -9660,7 +9674,7 @@
     "status": "pending"
   },
   {
-    "id": 691,
+    "id": 692,
     "company": "Tencent",
     "company_url": "https://www.tencent.com",
     "position": "Hunyuan Multimodal Reinforcement Learning - RL Research Intern",
@@ -9674,7 +9688,7 @@
     "status": "pending"
   },
   {
-    "id": 692,
+    "id": 693,
     "company": "Agilent Technologies",
     "company_url": "https://www.agilent.com",
     "position": "Data Scientist Internship - 12-month Placement",
@@ -9688,7 +9702,7 @@
     "status": "pending"
   },
   {
-    "id": 693,
+    "id": 694,
     "company": "Euronext",
     "company_url": "https://www.euronext.com",
     "position": "Equity Continental Sales Data Analyst Intern",
@@ -9702,7 +9716,7 @@
     "status": "pending"
   },
   {
-    "id": 694,
+    "id": 695,
     "company": "GE Vernova",
     "company_url": "https://www.gevernova.com/",
     "position": "Data Management & Big Data - DCOE Intern",
@@ -9716,7 +9730,7 @@
     "status": "pending"
   },
   {
-    "id": 695,
+    "id": 696,
     "company": "GlobalFoundries",
     "company_url": "https://gf.com",
     "position": "2H University Intern - Digital Manufacturing - AI & ML",
@@ -9730,7 +9744,7 @@
     "status": "pending"
   },
   {
-    "id": 696,
+    "id": 697,
     "company": "Huntsman",
     "company_url": "https://www.huntsman.com",
     "position": "Intern - AI in Toxicology Prediction and Innovation in Safer Chemicals",
@@ -9744,7 +9758,7 @@
     "status": "pending"
   },
   {
-    "id": 697,
+    "id": 698,
     "company": "Boston Dynamics",
     "company_url": "https://www.bostondynamics.com",
     "position": "AI/ML Safety Intern",
@@ -9758,7 +9772,7 @@
     "status": "pending"
   },
   {
-    "id": 698,
+    "id": 699,
     "company": "Meshy",
     "company_url": "https://www.meshy.ai/",
     "position": "Generative AI Researcher Intern",
@@ -9772,7 +9786,7 @@
     "status": "pending"
   },
   {
-    "id": 699,
+    "id": 700,
     "company": "VML",
     "company_url": "https://www.vml.com/",
     "position": "INTERNSHIP - AI ARTIST",
@@ -9786,7 +9800,7 @@
     "status": "pending"
   },
   {
-    "id": 700,
+    "id": 701,
     "company": "LexisNexis Risk Solutions",
     "company_url": "https://risk.lexisnexis.com",
     "position": "Junior Quant Analyst Intern - EU Carbon Markets",
@@ -9800,7 +9814,7 @@
     "status": "pending"
   },
   {
-    "id": 701,
+    "id": 702,
     "company": "Autodesk",
     "company_url": "https://www.autodesk.com",
     "position": "Intern - Machine Learning Developer",
@@ -9814,7 +9828,7 @@
     "status": "pending"
   },
   {
-    "id": 702,
+    "id": 703,
     "company": "Gogolook",
     "company_url": "https://gogolook.com",
     "position": "AI Intern",
@@ -9828,7 +9842,7 @@
     "status": "pending"
   },
   {
-    "id": 703,
+    "id": 704,
     "company": "Woven by Toyota",
     "company_url": "https://woven.toyota",
     "position": "Machine Learning Engineer - Behavior - Internship",
@@ -9842,7 +9856,7 @@
     "status": "pending"
   },
   {
-    "id": 704,
+    "id": 705,
     "company": "Philips",
     "company_url": "https://www.usa.philips.com",
     "position": "AI Data Scientist Intern",
@@ -9856,7 +9870,7 @@
     "status": "pending"
   },
   {
-    "id": 705,
+    "id": 706,
     "company": "Philips",
     "company_url": "https://www.usa.philips.com",
     "position": "Intern - AI data scientist",
@@ -9870,7 +9884,7 @@
     "status": "pending"
   },
   {
-    "id": 706,
+    "id": 707,
     "company": "Cadence",
     "company_url": "https://www.cadence.com",
     "position": "AI / ML Intern for Computational Fluid Dynamics - 6 months",
@@ -9884,7 +9898,7 @@
     "status": "pending"
   },
   {
-    "id": 707,
+    "id": 708,
     "company": "Hewlett Packard Enterprise",
     "company_url": "https://www.hpe.com",
     "position": "Data Analyst and Automation Internships",
@@ -9898,7 +9912,7 @@
     "status": "pending"
   },
   {
-    "id": 708,
+    "id": 709,
     "company": "Morningstar",
     "company_url": "https://www.morningstar.com",
     "position": "Multilingual Data Analyst Intern",
@@ -9912,7 +9926,7 @@
     "status": "pending"
   },
   {
-    "id": 709,
+    "id": 710,
     "company": "Woven by Toyota",
     "company_url": "https://woven.toyota",
     "position": "LLM/VLM Engineer - ADAS - Internship",
@@ -9926,7 +9940,7 @@
     "status": "pending"
   },
   {
-    "id": 710,
+    "id": 711,
     "company": "Analog Devices",
     "company_url": "https://www.analog.com",
     "position": "Algorithm Development Intern - Battery Insights",
@@ -9940,7 +9954,7 @@
     "status": "pending"
   },
   {
-    "id": 711,
+    "id": 712,
     "company": "Autodesk",
     "company_url": "https://www.autodesk.com",
     "position": "Intern - AI Developer / Stagiaire en développement IA",
@@ -9954,7 +9968,7 @@
     "status": "pending"
   },
   {
-    "id": 712,
+    "id": 713,
     "company": "Autodesk",
     "company_url": "https://www.autodesk.com",
     "position": "Intern - Machine Learning",
@@ -9968,7 +9982,7 @@
     "status": "pending"
   },
   {
-    "id": 713,
+    "id": 714,
     "company": "BeiGene",
     "company_url": "https://www.beigene.com",
     "position": "Clinical Pharmacology and AI/ML Modeling Intern - Winter and Spring Quarter",
@@ -9982,7 +9996,7 @@
     "status": "pending"
   },
   {
-    "id": 714,
+    "id": 715,
     "company": "BorgWarner",
     "company_url": "https://www.borgwarner.com",
     "position": "Intern - Data Science - Logística",
@@ -9996,7 +10010,7 @@
     "status": "pending"
   },
   {
-    "id": 715,
+    "id": 716,
     "company": "DraftKings",
     "company_url": "https://www.draftkings.com",
     "position": "Data Science Intern",
@@ -10010,7 +10024,7 @@
     "status": "pending"
   },
   {
-    "id": 716,
+    "id": 717,
     "company": "Euronext",
     "company_url": "https://www.euronext.com",
     "position": "Quant Intern",
@@ -10024,7 +10038,7 @@
     "status": "pending"
   },
   {
-    "id": 717,
+    "id": 718,
     "company": "GlobalFoundries",
     "company_url": "https://gf.com",
     "position": "2H University Intern - AI-Driven Process Intern - Advanced Process Control",
@@ -10038,7 +10052,7 @@
     "status": "pending"
   },
   {
-    "id": 718,
+    "id": 719,
     "company": "HP",
     "company_url": "https://www.hp.com",
     "position": "College Intern - AI-Driven Simulation & Design",
@@ -10052,7 +10066,7 @@
     "status": "pending"
   },
   {
-    "id": 719,
+    "id": 720,
     "company": "InterDigital",
     "company_url": "https://www.interdigital.com",
     "position": "Intern - Applied ML Multimedia",
@@ -10066,7 +10080,7 @@
     "status": "pending"
   },
   {
-    "id": 720,
+    "id": 721,
     "company": "InterDigital",
     "company_url": "https://www.interdigital.com",
     "position": "Intern - Integerized AI-based video compression models",
@@ -10080,7 +10094,7 @@
     "status": "pending"
   },
   {
-    "id": 721,
+    "id": 722,
     "company": "InterDigital",
     "company_url": "https://www.interdigital.com",
     "position": "Intern - Distributed Inference for Multi-Modal Large Language Models - MLLMs with Agentic AI Orchestration",
@@ -10094,7 +10108,7 @@
     "status": "pending"
   },
   {
-    "id": 722,
+    "id": 723,
     "company": "Jabil",
     "company_url": "https://www.jabil.com",
     "position": "Intern - Data Science",
@@ -10108,7 +10122,7 @@
     "status": "pending"
   },
   {
-    "id": 723,
+    "id": 724,
     "company": "Marvell",
     "company_url": "https://www.marvell.com",
     "position": "Next-Gen AI Systems & Infrastructure Research Intern - PhD",
@@ -10122,7 +10136,7 @@
     "status": "pending"
   },
   {
-    "id": 724,
+    "id": 725,
     "company": "Michelin",
     "company_url": "https://www.michelin.com",
     "position": "Internship : Data Analyst - 4-6 months",
@@ -10136,7 +10150,7 @@
     "status": "pending"
   },
   {
-    "id": 725,
+    "id": 726,
     "company": "PwC",
     "company_url": "https://www.pwc.com",
     "position": "Risk Services - Digital Solutions Risk AI Services Year-End Internship - Dec 25 - Feb 26",
@@ -10150,7 +10164,7 @@
     "status": "pending"
   },
   {
-    "id": 726,
+    "id": 727,
     "company": "PwC",
     "company_url": "https://www.pwc.com",
     "position": "Risk Services - Digital Solutions Risk AI Services Off-Cycle Internship - Jan - Jun 26",
@@ -10164,7 +10178,7 @@
     "status": "pending"
   },
   {
-    "id": 727,
+    "id": 728,
     "company": "Sony",
     "company_url": "https://www.sony.com",
     "position": "Research Intern for Deep Generative Modeling",
@@ -10178,7 +10192,7 @@
     "status": "pending"
   },
   {
-    "id": 728,
+    "id": 729,
     "company": "Thomson Reuters",
     "company_url": "https://www.thomsonreuters.com",
     "position": "Research Intern - Machine Learning and Natural Language Processing",
@@ -10192,7 +10206,7 @@
     "status": "pending"
   },
   {
-    "id": 729,
+    "id": 730,
     "company": "Thomson Reuters",
     "company_url": "https://www.thomsonreuters.com",
     "position": "Research Intern - Machine Learning and Natural Language Processing",
@@ -10206,7 +10220,7 @@
     "status": "pending"
   },
   {
-    "id": 730,
+    "id": 731,
     "company": "Uline",
     "company_url": "https://www.uline.com",
     "position": "Financial Data Analyst Internship - Summer 2026",
@@ -10220,7 +10234,7 @@
     "status": "pending"
   },
   {
-    "id": 731,
+    "id": 732,
     "company": "ZEISS",
     "company_url": "https://www.zeiss.com",
     "position": "Internship in Machine Learning Research - f/m/x",
@@ -10234,7 +10248,7 @@
     "status": "pending"
   },
   {
-    "id": 732,
+    "id": 733,
     "company": "Zillow",
     "company_url": "https://www.zillow.com",
     "position": "AI Applied Scientist - PhD Intern - Generative Computer Vision",
@@ -10248,7 +10262,7 @@
     "status": "pending"
   },
   {
-    "id": 733,
+    "id": 734,
     "company": "Zillow",
     "company_url": "https://www.zillow.com",
     "position": "AI Applied Scientist - PhD Intern - 3D Computer Vision",
@@ -10262,7 +10276,7 @@
     "status": "pending"
   },
   {
-    "id": 734,
+    "id": 735,
     "company": "Teza Technologies",
     "company_url": "https://www.teza.com/",
     "position": "Teza 2026 \"Quantitative Research\" Internship",
@@ -10276,7 +10290,7 @@
     "status": "pending"
   },
   {
-    "id": 735,
+    "id": 736,
     "company": "NXP Semiconductors",
     "company_url": "https://www.nxp.com",
     "position": "PhD Internship - AI Processor Architecture for Edge Applications",
@@ -10290,7 +10304,7 @@
     "status": "pending"
   },
   {
-    "id": 736,
+    "id": 737,
     "company": "Cohere",
     "company_url": "https://cohere.com/",
     "position": "Intern of Technical Staff - Sovereign AI",
@@ -10304,7 +10318,7 @@
     "status": "pending"
   },
   {
-    "id": 737,
+    "id": 738,
     "company": "Ivy",
     "company_url": "https://getivy.io/",
     "position": "Intern - AI Automations - m/f/d",
@@ -10318,7 +10332,7 @@
     "status": "pending"
   },
   {
-    "id": 738,
+    "id": 739,
     "company": "Welocalize",
     "company_url": "https://welocalize.com/",
     "position": "AI Machine Learning Engineering Intern",
@@ -10332,7 +10346,7 @@
     "status": "pending"
   },
   {
-    "id": 739,
+    "id": 740,
     "company": "Perplexity",
     "company_url": "https://www.perplexity.ai/",
     "position": "Internship - Search Machine Learning Engineer - Belgrade",
@@ -10346,7 +10360,7 @@
     "status": "pending"
   },
   {
-    "id": 740,
+    "id": 741,
     "company": "Ripple",
     "company_url": "https://ripple.com",
     "position": "Quantitative Trading Intern - Summer 2026",
@@ -10360,7 +10374,7 @@
     "status": "pending"
   },
   {
-    "id": 741,
+    "id": 742,
     "company": "Super.com",
     "company_url": "https://www.super.com/",
     "position": "Data Analyst Intern",
@@ -10374,7 +10388,7 @@
     "status": "pending"
   },
   {
-    "id": 742,
+    "id": 743,
     "company": "Wincent",
     "company_url": "https://www.careers.wincent.com/",
     "position": "Quantitative Research Internship - Quant Research/Trading - Starting Summer 2026",
@@ -10388,7 +10402,7 @@
     "status": "pending"
   },
   {
-    "id": 743,
+    "id": 744,
     "company": "Woven by Toyota",
     "company_url": "https://woven.toyota",
     "position": "Junior ML Platform Engineer - AD/ADAS - Internship",
@@ -10402,7 +10416,7 @@
     "status": "pending"
   },
   {
-    "id": 744,
+    "id": 745,
     "company": "Cohere",
     "company_url": "https://cohere.com/",
     "position": "Machine Learning Intern/Co-op - Spring 2026",
@@ -10416,7 +10430,7 @@
     "status": "pending"
   },
   {
-    "id": 745,
+    "id": 746,
     "company": "Perplexity",
     "company_url": "https://www.perplexity.ai/",
     "position": "Internship - Machine Learning Research Engineer - Berlin",
@@ -10430,7 +10444,7 @@
     "status": "pending"
   },
   {
-    "id": 746,
+    "id": 747,
     "company": "Ripple",
     "company_url": "https://ripple.com",
     "position": "Quantitative Trading Intern - Summer 2026",
@@ -10444,7 +10458,7 @@
     "status": "pending"
   },
   {
-    "id": 747,
+    "id": 748,
     "company": "Micron Technology",
     "company_url": "https://www.micron.com/",
     "position": "Intern - IT - AI Enablement",
@@ -10458,7 +10472,7 @@
     "status": "pending"
   },
   {
-    "id": 748,
+    "id": 749,
     "company": "Susquehanna International Group",
     "company_url": "https://sig.com",
     "position": "Quantitative Research Internship: Summer 2026",
@@ -10472,7 +10486,7 @@
     "status": "pending"
   },
   {
-    "id": 749,
+    "id": 750,
     "company": "Susquehanna International Group",
     "company_url": "https://sig.com",
     "position": "Quantitative Trader Internship: November 2026 - Long Term Placement in Hong Kong",
@@ -10486,7 +10500,7 @@
     "status": "pending"
   },
   {
-    "id": 750,
+    "id": 751,
     "company": "hCaptcha",
     "company_url": "https://hcaptcha.com",
     "position": "Machine Learning Intern - Computer Vision",
@@ -10500,7 +10514,7 @@
     "status": "pending"
   },
   {
-    "id": 751,
+    "id": 752,
     "company": "London Stock Exchange Group",
     "company_url": "https://www.lseg.com/",
     "position": "Engineering Intern - Data Analyst",
@@ -10514,7 +10528,7 @@
     "status": "pending"
   },
   {
-    "id": 752,
+    "id": 753,
     "company": "VRChat",
     "company_url": "https://hello.vrchat.com",
     "position": "Trust and Safety Data Analyst Intern",
@@ -10528,7 +10542,7 @@
     "status": "pending"
   },
   {
-    "id": 753,
+    "id": 754,
     "company": "Cambridge Consultants",
     "company_url": "https://www.cambridgeconsultants.com",
     "position": "PhD AI Internship - 6 or 12 months",
@@ -10542,7 +10556,7 @@
     "status": "pending"
   },
   {
-    "id": 754,
+    "id": 755,
     "company": "DRW",
     "company_url": "https://drw.com",
     "position": "AI/ML Research Intern",
@@ -10556,7 +10570,7 @@
     "status": "pending"
   },
   {
-    "id": 755,
+    "id": 756,
     "company": "Micron Technology",
     "company_url": "https://www.micron.com/",
     "position": "Summer Intern - ASIC Design Flow Exploration with AI",
@@ -10570,7 +10584,7 @@
     "status": "pending"
   },
   {
-    "id": 756,
+    "id": 757,
     "company": "Philips",
     "company_url": "https://www.usa.philips.com",
     "position": "AI Engineer Intern",
@@ -10584,7 +10598,7 @@
     "status": "pending"
   },
   {
-    "id": 757,
+    "id": 758,
     "company": "Susquehanna International Group",
     "company_url": "https://sig.com",
     "position": "Quantitative Research Internship - PhD",
@@ -10598,7 +10612,7 @@
     "status": "pending"
   },
   {
-    "id": 758,
+    "id": 759,
     "company": "Susquehanna International Group",
     "company_url": "https://sig.com",
     "position": "Quantitative Systematic Trading Internship - PhD",
@@ -10612,7 +10626,7 @@
     "status": "pending"
   },
   {
-    "id": 759,
+    "id": 760,
     "company": "AlphaGrep Securities",
     "company_url": "http://alpha-grep.com",
     "position": "Quantitative Research Intern",
@@ -10626,7 +10640,7 @@
     "status": "pending"
   },
   {
-    "id": 760,
+    "id": 761,
     "company": "AlphaGrep Securities",
     "company_url": "http://alpha-grep.com",
     "position": "Quantitative Researcher Intern - Equity Strategy Factors",
@@ -10640,7 +10654,7 @@
     "status": "pending"
   },
   {
-    "id": 761,
+    "id": 762,
     "company": "AlphaGrep Securities",
     "company_url": "http://alpha-grep.com",
     "position": "Quantitative Developer Intern",
@@ -10654,7 +10668,7 @@
     "status": "pending"
   },
   {
-    "id": 762,
+    "id": 763,
     "company": "AlphaGrep Securities",
     "company_url": "http://alpha-grep.com",
     "position": "Quantitative Researcher Intern - Machine Learning",
@@ -10668,7 +10682,7 @@
     "status": "pending"
   },
   {
-    "id": 763,
+    "id": 764,
     "company": "Appier",
     "company_url": "https://www.appier.com",
     "position": "Data Analyst Intern",
@@ -10682,7 +10696,7 @@
     "status": "pending"
   },
   {
-    "id": 764,
+    "id": 765,
     "company": "Cresta",
     "company_url": "https://cresta.com/",
     "position": "Product Design Intern for AI and Human Agents Platform",
@@ -10696,7 +10710,7 @@
     "status": "pending"
   },
   {
-    "id": 765,
+    "id": 766,
     "company": "Cresta",
     "company_url": "https://cresta.com/",
     "position": "AI Quality Assurance Intern",
@@ -10710,7 +10724,7 @@
     "status": "pending"
   },
   {
-    "id": 766,
+    "id": 767,
     "company": "Snap",
     "company_url": "https://snap.com/",
     "position": "Computer Vision Engineering Intern",
@@ -10724,7 +10738,7 @@
     "status": "pending"
   },
   {
-    "id": 767,
+    "id": 768,
     "company": "Snap",
     "company_url": "https://snap.com/",
     "position": "Computer Vision Engineering Intern",
@@ -10738,7 +10752,7 @@
     "status": "pending"
   },
   {
-    "id": 768,
+    "id": 769,
     "company": "Snap",
     "company_url": "https://snap.com/",
     "position": "Computer Vision Engineering Intern",
@@ -10752,7 +10766,7 @@
     "status": "pending"
   },
   {
-    "id": 769,
+    "id": 770,
     "company": "Snap",
     "company_url": "https://snap.com/",
     "position": "Computer Vision Engineering Intern",
@@ -10766,7 +10780,7 @@
     "status": "pending"
   },
   {
-    "id": 770,
+    "id": 771,
     "company": "G-Research",
     "company_url": "http://www.gresearch.com/",
     "position": "AI Engineering Intern",
@@ -10780,7 +10794,7 @@
     "status": "pending"
   },
   {
-    "id": 771,
+    "id": 772,
     "company": "Waabi",
     "company_url": "https://waabi.ai",
     "position": "2026 Intern - PhD Research Scientist",
@@ -10794,7 +10808,7 @@
     "status": "pending"
   },
   {
-    "id": 772,
+    "id": 773,
     "company": "Intrinsic",
     "company_url": "https://intrinsic.ai",
     "position": "Intern - AI-enabled Robotic and Dexterous Manipulation Research",
@@ -10808,7 +10822,7 @@
     "status": "pending"
   },
   {
-    "id": 773,
+    "id": 774,
     "company": "Pluralis Research",
     "company_url": "https://pluralis.ai/",
     "position": "Research Scientist Intern",
@@ -10822,7 +10836,7 @@
     "status": "pending"
   },
   {
-    "id": 774,
+    "id": 775,
     "company": "Welocalize",
     "company_url": "https://welocalize.com/",
     "position": "AI Machine Learning Engineering Intern",
@@ -10836,7 +10850,7 @@
     "status": "pending"
   },
   {
-    "id": 775,
+    "id": 776,
     "company": "Oligo Space",
     "company_url": "https://www.oligospace.com/",
     "position": "ML/AI/CS Intern",
@@ -10850,7 +10864,7 @@
     "status": "pending"
   },
   {
-    "id": 776,
+    "id": 777,
     "company": "Scandit",
     "company_url": "http://www.scandit.com",
     "position": "Computer Vision Research Internship: Image to Sequence Modeling - e.g. Transformers",
@@ -10864,7 +10878,7 @@
     "status": "pending"
   },
   {
-    "id": 777,
+    "id": 778,
     "company": "Scandit",
     "company_url": "http://www.scandit.com",
     "position": "Computer Vision Research Internship: Image to Sequence Modeling - e.g. Transformers",
@@ -10878,7 +10892,7 @@
     "status": "pending"
   },
   {
-    "id": 778,
+    "id": 779,
     "company": "Snowflake",
     "company_url": "https://www.snowflake.com/",
     "position": "Research Intern - AI - 2026",
@@ -10892,7 +10906,7 @@
     "status": "pending"
   },
   {
-    "id": 779,
+    "id": 780,
     "company": "Trexquant",
     "company_url": "http://trexquant.com/",
     "position": "Quantitative Researcher Intern -Summer 2026 year - CHINA",
@@ -10906,7 +10920,7 @@
     "status": "pending"
   },
   {
-    "id": 780,
+    "id": 781,
     "company": "Galaxy",
     "company_url": "https://www.galaxy.com",
     "position": "Quantitative Trading Intern - 2026 Summer Internship - Hong Kong",
@@ -10920,7 +10934,7 @@
     "status": "pending"
   },
   {
-    "id": 781,
+    "id": 782,
     "company": "Josys",
     "company_url": "https://josys.com/",
     "position": "Global Business Development with Full Use of AI Internship / Tokyo",
@@ -10934,7 +10948,7 @@
     "status": "pending"
   },
   {
-    "id": 782,
+    "id": 783,
     "company": "Sendbird",
     "company_url": "https://sendbird.com/careers",
     "position": "AI Agent Engineer - Intern",
@@ -10948,7 +10962,7 @@
     "status": "pending"
   },
   {
-    "id": 783,
+    "id": 784,
     "company": "GoTo",
     "company_url": "https://www.gotocompany.com",
     "position": "Data Scientist Intern",
@@ -10962,7 +10976,7 @@
     "status": "pending"
   },
   {
-    "id": 784,
+    "id": 785,
     "company": "Philips",
     "company_url": "https://www.usa.philips.com",
     "position": "Internship: AI data analysis - LLM text analysis of MR specific information",
@@ -10976,7 +10990,7 @@
     "status": "pending"
   },
   {
-    "id": 785,
+    "id": 786,
     "company": "Sandisk",
     "company_url": "https://www.sandisk.com/",
     "position": "July 2026 Onwards Intake Internship - AI and Data Analytics",
@@ -10990,7 +11004,7 @@
     "status": "pending"
   },
   {
-    "id": 786,
+    "id": 787,
     "company": "SPAICE",
     "company_url": "https://spaice.tech/",
     "position": "Computer Vision Engineer Intern",
@@ -11004,7 +11018,7 @@
     "status": "pending"
   },
   {
-    "id": 787,
+    "id": 788,
     "company": "Viridien",
     "company_url": "https://www.viridiengroup.com/",
     "position": "Machine Learning Engineer Intern",
@@ -11018,7 +11032,7 @@
     "status": "pending"
   },
   {
-    "id": 788,
+    "id": 789,
     "company": "Coupang",
     "company_url": "https://www.coupang.jobs",
     "position": "ML Engineer - Intern - Retail AI",
@@ -11032,7 +11046,7 @@
     "status": "pending"
   },
   {
-    "id": 789,
+    "id": 790,
     "company": "Coupang Internal",
     "company_url": "https://coupanginternal.jobs",
     "position": "ML Engineer - Intern - Retail AI",
@@ -11046,7 +11060,7 @@
     "status": "pending"
   },
   {
-    "id": 790,
+    "id": 791,
     "company": "Ideogram",
     "company_url": "https://ideogram.ai/",
     "position": "Research Engineer / Research Scientist Intern",
@@ -11060,7 +11074,7 @@
     "status": "pending"
   },
   {
-    "id": 791,
+    "id": 792,
     "company": "Meta",
     "company_url": "https://about.meta.com",
     "position": "Associate General Counsel - Product - Business AI",
@@ -11074,7 +11088,7 @@
     "status": "pending"
   },
   {
-    "id": 792,
+    "id": 793,
     "company": "NVIDIA",
     "company_url": "https://www.nvidia.com",
     "position": "Developer Technology Engineer - AI - New College Grad 2026",
@@ -11088,7 +11102,7 @@
     "status": "pending"
   },
   {
-    "id": 793,
+    "id": 794,
     "company": "NVIDIA",
     "company_url": "https://www.nvidia.com",
     "position": "Deep Learning Performance Architect - New College Graduate 2026",
@@ -11102,7 +11116,7 @@
     "status": "pending"
   },
   {
-    "id": 794,
+    "id": 795,
     "company": "NVIDIA",
     "company_url": "https://www.nvidia.com",
     "position": "Research Scientist - Platform Architecture and System Software - PhD New College Grad 2026",
@@ -11116,7 +11130,7 @@
     "status": "pending"
   },
   {
-    "id": 795,
+    "id": 796,
     "company": "NVIDIA",
     "company_url": "https://www.nvidia.com",
     "position": "High-Performance LLM Training Engineer - New College Grad 2026",
@@ -11130,7 +11144,7 @@
     "status": "pending"
   },
   {
-    "id": 796,
+    "id": 797,
     "company": "NVIDIA",
     "company_url": "https://www.nvidia.com",
     "position": "Research Scientist - Security and Privacy - PhD New College Grad 2026",
@@ -11144,7 +11158,7 @@
     "status": "pending"
   },
   {
-    "id": 797,
+    "id": 798,
     "company": "Roblox",
     "company_url": "https://www.roblox.com",
     "position": "2026 Data Scientist - Foundation AI - PhD Early Career",
@@ -11158,7 +11172,7 @@
     "status": "pending"
   },
   {
-    "id": 798,
+    "id": 799,
     "company": "NVIDIA",
     "company_url": "https://www.nvidia.com",
     "position": "AI Scientist - Agentic AI for Science - PhD New College Grad 2026",
@@ -11172,7 +11186,7 @@
     "status": "pending"
   },
   {
-    "id": 799,
+    "id": 800,
     "company": "NVIDIA",
     "company_url": "https://www.nvidia.com",
     "position": "AI Scientist - Robotics Digital Twins - PhD New College Grad 2026",
@@ -11186,7 +11200,7 @@
     "status": "pending"
   },
   {
-    "id": 800,
+    "id": 801,
     "company": "NVIDIA",
     "company_url": "https://www.nvidia.com",
     "position": "Research Scientist - Quantum Computing and AI - New College Grad 2026",
@@ -11200,7 +11214,7 @@
     "status": "pending"
   },
   {
-    "id": 801,
+    "id": 802,
     "company": "NVIDIA",
     "company_url": "https://www.nvidia.com",
     "position": "Research Scientist - AI Accelerator Design and VLSI - New College Grad 2026",
@@ -11214,7 +11228,7 @@
     "status": "pending"
   },
   {
-    "id": 802,
+    "id": 803,
     "company": "NVIDIA",
     "company_url": "https://www.nvidia.com",
     "position": "Research Scientist - Electronic Design Automation - New College Grad 2026",
@@ -11228,7 +11242,7 @@
     "status": "pending"
   },
   {
-    "id": 803,
+    "id": 804,
     "company": "NVIDIA",
     "company_url": "https://www.nvidia.com",
     "position": "Research Scientist - Fundamental Generative AI - New College Grad 2026",
@@ -11242,7 +11256,7 @@
     "status": "pending"
   },
   {
-    "id": 804,
+    "id": 805,
     "company": "Google",
     "company_url": "https://www.google.com",
     "position": "Hardware Validation Engineer - ML Products - University Graduate",
@@ -11256,7 +11270,7 @@
     "status": "pending"
   },
   {
-    "id": 805,
+    "id": 806,
     "company": "NVIDIA",
     "company_url": "https://www.nvidia.com",
     "position": "Research Scientist - AI for Graphics and Gaming - New College Grad 2026",
@@ -11270,7 +11284,7 @@
     "status": "pending"
   },
   {
-    "id": 806,
+    "id": 807,
     "company": "NVIDIA",
     "company_url": "https://www.nvidia.com",
     "position": "AI ML Engineer - RTL Power Optimization - New College Grad 2026",
@@ -11284,7 +11298,7 @@
     "status": "pending"
   },
   {
-    "id": 807,
+    "id": 808,
     "company": "NVIDIA",
     "company_url": "https://www.nvidia.com",
     "position": "Applied Machine Learning Engineer - Circuit Design - New College Grad 2026",
@@ -11298,7 +11312,7 @@
     "status": "pending"
   },
   {
-    "id": 808,
+    "id": 809,
     "company": "NVIDIA",
     "company_url": "https://www.nvidia.com",
     "position": "Research Scientist - Human‑AI Perception and Interaction Research - PhD New College Grad 2026",
@@ -11312,7 +11326,7 @@
     "status": "pending"
   },
   {
-    "id": 809,
+    "id": 810,
     "company": "NVIDIA",
     "company_url": "https://www.nvidia.com",
     "position": "Research Scientist - Fundamental LLM Research for Knowledge - Reasoning - and Agents - New College Grad 2026",
@@ -11326,7 +11340,7 @@
     "status": "pending"
   },
   {
-    "id": 810,
+    "id": 811,
     "company": "NVIDIA",
     "company_url": "https://www.nvidia.com",
     "position": "Research Scientist - Generalist Embodied Agent Research - PhD New College Grad 2026",
@@ -11340,7 +11354,7 @@
     "status": "pending"
   },
   {
-    "id": 811,
+    "id": 812,
     "company": "NVIDIA",
     "company_url": "https://www.nvidia.com",
     "position": "Research Scientist - AI-Mediated Reality and Interaction Research - PhD New College Grad 2026",
@@ -11354,7 +11368,7 @@
     "status": "pending"
   },
   {
-    "id": 812,
+    "id": 813,
     "company": "NVIDIA",
     "company_url": "https://www.nvidia.com",
     "position": "Research Scientist - Circuits - PhD New College Grad 2026",
@@ -11368,7 +11382,7 @@
     "status": "pending"
   },
   {
-    "id": 813,
+    "id": 814,
     "company": "NVIDIA",
     "company_url": "https://www.nvidia.com",
     "position": "Research Scientist - Embodied and Agentic AI - New College Grad 2026",
@@ -11382,7 +11396,7 @@
     "status": "pending"
   },
   {
-    "id": 814,
+    "id": 815,
     "company": "NVIDIA",
     "company_url": "https://www.nvidia.com",
     "position": "Research Scientist - ML Systems - PhD New College Grad 2026",
@@ -11396,7 +11410,7 @@
     "status": "pending"
   },
   {
-    "id": 815,
+    "id": 816,
     "company": "NVIDIA",
     "company_url": "https://www.nvidia.com",
     "position": "Research Scientist - Robotics Research - PhD New College Grad 2026",
@@ -11410,7 +11424,7 @@
     "status": "pending"
   },
   {
-    "id": 816,
+    "id": 817,
     "company": "Adobe",
     "company_url": "https://www.adobe.com",
     "position": "2026 University Graduate - Research Scientist/Engineer",
@@ -11424,7 +11438,7 @@
     "status": "pending"
   },
   {
-    "id": 817,
+    "id": 818,
     "company": "Adobe",
     "company_url": "https://www.adobe.com",
     "position": "2026 University Graduate - Applied Scientist",
@@ -11438,7 +11452,7 @@
     "status": "pending"
   },
   {
-    "id": 818,
+    "id": 819,
     "company": "Meta",
     "company_url": "https://about.meta.com",
     "position": "Associate General Counsel - AI Partnerships",
@@ -11452,7 +11466,7 @@
     "status": "pending"
   },
   {
-    "id": 819,
+    "id": 820,
     "company": "Citadel Securities",
     "company_url": "https://www.citadelsecurities.com/careers",
     "position": "Quantitative Researcher - PhD Graduate - US",
@@ -11466,7 +11480,7 @@
     "status": "pending"
   },
   {
-    "id": 820,
+    "id": 821,
     "company": "Citadel Securities",
     "company_url": "https://www.citadelsecurities.com/careers",
     "position": "Machine Learning Researcher - PhD Graduate - US",
@@ -11480,7 +11494,7 @@
     "status": "pending"
   },
   {
-    "id": 821,
+    "id": 822,
     "company": "Citadel Securities",
     "company_url": "https://www.citadelsecurities.com/careers",
     "position": "Quantitative Research Engineer - PhD Graduate - US",
@@ -11494,7 +11508,7 @@
     "status": "pending"
   },
   {
-    "id": 822,
+    "id": 823,
     "company": "Citadel",
     "company_url": "https://www.citadel.com/careers",
     "position": "Quantitative Research Analyst - University Graduate - US",
@@ -11508,7 +11522,7 @@
     "status": "pending"
   },
   {
-    "id": 823,
+    "id": 824,
     "company": "Citadel",
     "company_url": "https://www.citadel.com/careers",
     "position": "Quantitative Research Engineer - University Graduate - US",
@@ -11522,7 +11536,7 @@
     "status": "pending"
   },
   {
-    "id": 824,
+    "id": 825,
     "company": "Citadel",
     "company_url": "https://www.citadel.com/careers",
     "position": "Quantitative Researcher - PhD Graduate - US",
@@ -11536,7 +11550,7 @@
     "status": "pending"
   },
   {
-    "id": 825,
+    "id": 826,
     "company": "Citadel",
     "company_url": "https://www.citadel.com/careers",
     "position": "Machine Learning Researcher - PhD Graduate - US",
@@ -11550,7 +11564,7 @@
     "status": "pending"
   },
   {
-    "id": 826,
+    "id": 827,
     "company": "Citadel",
     "company_url": "https://www.citadel.com/careers",
     "position": "Quantitative Research Engineer - PhD Graduate - US",
@@ -11564,7 +11578,7 @@
     "status": "pending"
   },
   {
-    "id": 827,
+    "id": 828,
     "company": "Optiver",
     "company_url": "https://optiver.com",
     "position": "PhD Quant Focus 2026",
@@ -11578,7 +11592,7 @@
     "status": "pending"
   },
   {
-    "id": 828,
+    "id": 829,
     "company": "American Institutes for Research",
     "company_url": "https://www.air.org",
     "position": "Data Scientist Associate - Learning Supports",
@@ -11592,7 +11606,7 @@
     "status": "pending"
   },
   {
-    "id": 829,
+    "id": 830,
     "company": "Home Depot",
     "company_url": "https://homedepot.com/",
     "position": "Associate Data Scientist - Solutions Strategy",
@@ -11606,7 +11620,7 @@
     "status": "pending"
   },
   {
-    "id": 830,
+    "id": 831,
     "company": "Loop",
     "company_url": "https://loop.com",
     "position": "AI Operations Associate",
@@ -11620,7 +11634,7 @@
     "status": "pending"
   },
   {
-    "id": 831,
+    "id": 832,
     "company": "Morgan Stanley",
     "company_url": "https://www.morganstanley.com/",
     "position": "AI Enablement Associate",
@@ -11634,7 +11648,7 @@
     "status": "pending"
   },
   {
-    "id": 832,
+    "id": 833,
     "company": "Proctor Loan Protector",
     "company_url": "https://proctorlp.com",
     "position": "Junior AI Engineer",
@@ -11648,7 +11662,7 @@
     "status": "pending"
   },
   {
-    "id": 833,
+    "id": 834,
     "company": "Truist Bank",
     "company_url": "https://www.truist.com",
     "position": "Associate AI Engineer",
@@ -11662,7 +11676,7 @@
     "status": "pending"
   },
   {
-    "id": 834,
+    "id": 835,
     "company": "University of Rochester",
     "company_url": "https://www.rochester.edu",
     "position": "Research Data Engineer I",
@@ -11676,7 +11690,7 @@
     "status": "pending"
   },
   {
-    "id": 835,
+    "id": 836,
     "company": "AEG",
     "company_url": "https://aegworldwide.com/",
     "position": "LA Galaxy - Associate Data Scientist - Soccer Operations",
@@ -11690,7 +11704,7 @@
     "status": "pending"
   },
   {
-    "id": 836,
+    "id": 837,
     "company": "Analytical Mechanics Associates",
     "company_url": "https://www.ama-inc.com/",
     "position": "AI/ML Research Associate",
@@ -11704,7 +11718,7 @@
     "status": "pending"
   },
   {
-    "id": 837,
+    "id": 838,
     "company": "Bank of America",
     "company_url": "https://www.bankofamerica.com",
     "position": "Associate/VP - Equity Quant - Portfolio Trading",
@@ -11718,7 +11732,7 @@
     "status": "pending"
   },
   {
-    "id": 838,
+    "id": 839,
     "company": "Bank of America",
     "company_url": "https://www.bankofamerica.com/",
     "position": "Associate/VP - Equity Quant - Portfolio Trading",
@@ -11732,7 +11746,7 @@
     "status": "pending"
   },
   {
-    "id": 839,
+    "id": 840,
     "company": "Illinois State University",
     "company_url": "https://illinoisstate.edu",
     "position": "Research Scientist I - Wildlife Ecologist",
@@ -11746,7 +11760,7 @@
     "status": "pending"
   },
   {
-    "id": 840,
+    "id": 841,
     "company": "Nelnet",
     "company_url": "https://nelnet.com",
     "position": "Data Analyst I - Consumer Loan Analytics",
@@ -11760,7 +11774,7 @@
     "status": "pending"
   },
   {
-    "id": 841,
+    "id": 842,
     "company": "Peregrine Technologies",
     "company_url": "https://peregrine.io",
     "position": "Associate General Counsel - Product - Privacy and AI",
@@ -11774,7 +11788,7 @@
     "status": "pending"
   },
   {
-    "id": 842,
+    "id": 843,
     "company": "Peregrine Technologies",
     "company_url": "https://peregrine.io",
     "position": "Associate General Counsel - Product - Privacy and AI",
@@ -11788,7 +11802,7 @@
     "status": "pending"
   },
   {
-    "id": 843,
+    "id": 844,
     "company": "Peregrine Technologies",
     "company_url": "https://peregrine.io",
     "position": "Associate General Counsel - Product - Privacy and AI",
@@ -11802,7 +11816,7 @@
     "status": "pending"
   },
   {
-    "id": 844,
+    "id": 845,
     "company": "Raytheon",
     "company_url": "https://www.rtx.com",
     "position": "Data Analyst I - Manufacturing Operations - Onsite",
@@ -11816,7 +11830,7 @@
     "status": "pending"
   },
   {
-    "id": 845,
+    "id": 846,
     "company": "Riverside Research Institute",
     "company_url": "https://www.riversideresearch.org",
     "position": "Junior Research Scientist - Security Engineering",
@@ -11830,7 +11844,7 @@
     "status": "pending"
   },
   {
-    "id": 846,
+    "id": 847,
     "company": "BlueCross BlueShield of South Carolina",
     "company_url": "https://www.southcarolinablues.com/",
     "position": "Data Analyst I",
@@ -11844,7 +11858,7 @@
     "status": "pending"
   },
   {
-    "id": 847,
+    "id": 848,
     "company": "Canon",
     "company_url": "https://www.usa.canon.com",
     "position": "Generative AI & Data Associate Engineer",
@@ -11858,7 +11872,7 @@
     "status": "pending"
   },
   {
-    "id": 848,
+    "id": 849,
     "company": "Diligent Robotics",
     "company_url": "http://diligentrobots.com",
     "position": "ML Engineer I - Robotics",
@@ -11872,7 +11886,7 @@
     "status": "pending"
   },
   {
-    "id": 849,
+    "id": 850,
     "company": "Steampunk",
     "company_url": "https://steampunk.com",
     "position": "Junior Data Analyst",
@@ -11886,7 +11900,7 @@
     "status": "pending"
   },
   {
-    "id": 850,
+    "id": 851,
     "company": "Steampunk",
     "company_url": "https://steampunk.com",
     "position": "Junior Data Analyst",
@@ -11900,7 +11914,7 @@
     "status": "pending"
   },
   {
-    "id": 851,
+    "id": 852,
     "company": "Steampunk",
     "company_url": "https://steampunk.com",
     "position": "Junior Data Analyst",
@@ -11914,7 +11928,7 @@
     "status": "pending"
   },
   {
-    "id": 852,
+    "id": 853,
     "company": "WGU - Western Governors University",
     "company_url": "https://www.wgu.edu",
     "position": "Research Scientist I",
@@ -11928,7 +11942,7 @@
     "status": "pending"
   },
   {
-    "id": 853,
+    "id": 854,
     "company": "Capital One",
     "company_url": "https://www.capitalone.com",
     "position": "Applied Researcher I - AI Foundations",
@@ -11942,7 +11956,7 @@
     "status": "pending"
   },
   {
-    "id": 854,
+    "id": 855,
     "company": "Caris Life Sciences",
     "company_url": "https://www.carislifesciences.com/",
     "position": "Associate Research Scientist I",
@@ -11956,7 +11970,7 @@
     "status": "pending"
   },
   {
-    "id": 855,
+    "id": 856,
     "company": "Booz Allen",
     "company_url": "https://www.boozallen.com",
     "position": "Data Scientist - Junior",
@@ -11970,7 +11984,7 @@
     "status": "pending"
   },
   {
-    "id": 856,
+    "id": 857,
     "company": "Applied Materials",
     "company_url": "https://www.appliedmaterials.com",
     "position": "Product Line Management Data Science - New College Grad- Bachelor's/Master's - Santa Clara - CA",
@@ -11984,7 +11998,7 @@
     "status": "pending"
   },
   {
-    "id": 857,
+    "id": 858,
     "company": "Avathon",
     "company_url": "https://avathon.com/",
     "position": "Data Scientist I",
@@ -11998,7 +12012,7 @@
     "status": "pending"
   },
   {
-    "id": 858,
+    "id": 859,
     "company": "Celonis",
     "company_url": "https://celonis.com",
     "position": "Associate Value Engineer - AI-Driven Data Science & Analytics - Orbit Program",
@@ -12012,7 +12026,7 @@
     "status": "pending"
   },
   {
-    "id": 859,
+    "id": 860,
     "company": "Celonis",
     "company_url": "https://celonis.com",
     "position": "Associate Value Engineer - AI-Driven Data Science & Analytics - Orbit Program",
@@ -12026,7 +12040,7 @@
     "status": "pending"
   },
   {
-    "id": 860,
+    "id": 861,
     "company": "Inotiv",
     "company_url": "https://inotivco.com/",
     "position": "Research Scientist I",
@@ -12040,7 +12054,7 @@
     "status": "pending"
   },
   {
-    "id": 861,
+    "id": 862,
     "company": "Unison Infrastructure",
     "company_url": "http://www.unisoninfra.com/",
     "position": "Data Analyst - Entry-Level / Early Career Greece",
@@ -12054,7 +12068,7 @@
     "status": "pending"
   },
   {
-    "id": 862,
+    "id": 863,
     "company": "Capital One",
     "company_url": "https://www.capitalone.com",
     "position": "Applied Researcher I - AI Foundations - LLM Core and Agentic AI",
@@ -12068,7 +12082,7 @@
     "status": "pending"
   },
   {
-    "id": 863,
+    "id": 864,
     "company": "Capital One",
     "company_url": "https://www.capitalone.com",
     "position": "Applied Researcher I - AI Foundations - LLM Core and Agentic AI",
@@ -12082,7 +12096,7 @@
     "status": "pending"
   },
   {
-    "id": 864,
+    "id": 865,
     "company": "Capital One",
     "company_url": "https://www.capitalone.com",
     "position": "Applied Researcher I - AI Foundations",
@@ -12096,7 +12110,7 @@
     "status": "pending"
   },
   {
-    "id": 865,
+    "id": 866,
     "company": "ICONIQ Capital",
     "company_url": "http://www.iconiqcapital.com",
     "position": "Data Scientist - Associate",
@@ -12110,7 +12124,7 @@
     "status": "pending"
   },
   {
-    "id": 866,
+    "id": 867,
     "company": "ICONIQ Capital",
     "company_url": "http://www.iconiqcapital.com",
     "position": "Analytics Data Scientist - Associate",
@@ -12124,7 +12138,7 @@
     "status": "pending"
   },
   {
-    "id": 867,
+    "id": 868,
     "company": "Booz Allen",
     "company_url": "https://www.boozallen.com",
     "position": "Data Scientist - Junior",
@@ -12138,7 +12152,7 @@
     "status": "pending"
   },
   {
-    "id": 868,
+    "id": 869,
     "company": "Calibrate",
     "company_url": "https://joincalibrate.com",
     "position": "Junior Data Analyst",
@@ -12152,7 +12166,7 @@
     "status": "pending"
   },
   {
-    "id": 869,
+    "id": 870,
     "company": "Capital One",
     "company_url": "https://www.capitalone.com",
     "position": "Applied Researcher I - AI Foundations",
@@ -12166,7 +12180,7 @@
     "status": "pending"
   },
   {
-    "id": 870,
+    "id": 871,
     "company": "HarbourVest",
     "company_url": "https://www.harbourvest.com",
     "position": "Junior Quantitative Developer - Experimentation",
@@ -12180,7 +12194,7 @@
     "status": "pending"
   },
   {
-    "id": 871,
+    "id": 872,
     "company": "IQVIA",
     "company_url": "https://www.iqvia.com",
     "position": "Associate - Quantitative Patient-Centered Research",
@@ -12194,7 +12208,7 @@
     "status": "pending"
   },
   {
-    "id": 872,
+    "id": 873,
     "company": "Manulife",
     "company_url": "https://www.manulife.ca",
     "position": "Associate Machine Learning Engineer",
@@ -12208,7 +12222,7 @@
     "status": "pending"
   },
   {
-    "id": 873,
+    "id": 874,
     "company": "Morgan Stanley",
     "company_url": "https://www.morganstanley.com/",
     "position": "AI: LCD Innovation - Governance and Project Management - Associate",
@@ -12222,7 +12236,7 @@
     "status": "pending"
   },
   {
-    "id": 874,
+    "id": 875,
     "company": "TAMU - Texas A&M University",
     "company_url": "https://www.tamu.edu",
     "position": "Associate Research Scientist",
@@ -12236,7 +12250,7 @@
     "status": "pending"
   },
   {
-    "id": 875,
+    "id": 876,
     "company": "Thermo Fisher Scientific",
     "company_url": "https://thermofisher.com",
     "position": "FSP Associate Research Scientist: Stability",
@@ -12250,7 +12264,7 @@
     "status": "pending"
   },
   {
-    "id": 876,
+    "id": 877,
     "company": "Tria",
     "company_url": "https://triafed.com/",
     "position": "Junior AI Engineer",
@@ -12264,7 +12278,7 @@
     "status": "pending"
   },
   {
-    "id": 877,
+    "id": 878,
     "company": "Visa",
     "company_url": "https://visa.com/",
     "position": "Associate Data Scientist - New College Grad - 2026",
@@ -12278,7 +12292,7 @@
     "status": "pending"
   },
   {
-    "id": 878,
+    "id": 879,
     "company": "Citi",
     "company_url": "https://www.citigroup.com",
     "position": "Generative AI Associate Solutions Architect - Lending",
@@ -12292,7 +12306,7 @@
     "status": "pending"
   },
   {
-    "id": 879,
+    "id": 880,
     "company": "Entegris",
     "company_url": "https://www.entegris.com",
     "position": "AI‑Driven Supply Chain Data & Data Management Co‑Op - Fall 2026",
@@ -12306,7 +12320,7 @@
     "status": "pending"
   },
   {
-    "id": 880,
+    "id": 881,
     "company": "RA Capital",
     "company_url": "https://www.racap.com/",
     "position": "Data Analyst Associate - Research",
@@ -12320,7 +12334,7 @@
     "status": "pending"
   },
   {
-    "id": 881,
+    "id": 882,
     "company": "Synergy ECP",
     "company_url": "http://www.synergyecp.com/",
     "position": "Junior AI Engineer",
@@ -12334,7 +12348,7 @@
     "status": "pending"
   },
   {
-    "id": 882,
+    "id": 883,
     "company": "International Vitamin",
     "company_url": "https://ivcinc.com",
     "position": "Research Scientist I",
@@ -12348,7 +12362,7 @@
     "status": "pending"
   },
   {
-    "id": 883,
+    "id": 884,
     "company": "Bank of America",
     "company_url": "https://www.bankofamerica.com/",
     "position": "Data Scientist I - Client Protection - Link",
@@ -12362,7 +12376,7 @@
     "status": "pending"
   },
   {
-    "id": 884,
+    "id": 885,
     "company": "Bank of America",
     "company_url": "https://www.bankofamerica.com",
     "position": "Associate - Non-Linear Rates Quant Analyst",
@@ -12376,7 +12390,7 @@
     "status": "pending"
   },
   {
-    "id": 885,
+    "id": 886,
     "company": "Bank of America",
     "company_url": "https://www.bankofamerica.com/",
     "position": "Data Scientist I - Client Protection",
@@ -12390,7 +12404,7 @@
     "status": "pending"
   },
   {
-    "id": 886,
+    "id": 887,
     "company": "Bank of America",
     "company_url": "https://www.bankofamerica.com/",
     "position": "Associate - Non-Linear Rates Quant Analyst",
@@ -12404,7 +12418,7 @@
     "status": "pending"
   },
   {
-    "id": 887,
+    "id": 888,
     "company": "Bank of America",
     "company_url": "https://www.bankofamerica.com/",
     "position": "Data Scientist I - Client Protection - Modeling",
@@ -12418,7 +12432,7 @@
     "status": "pending"
   },
   {
-    "id": 888,
+    "id": 889,
     "company": "Blank Metal",
     "company_url": "https://blankmetal.ai/",
     "position": "Associate AI Engineer",
@@ -12432,7 +12446,7 @@
     "status": "pending"
   },
   {
-    "id": 889,
+    "id": 890,
     "company": "M13",
     "company_url": "https://www.m13.co/",
     "position": "Investment Summer Associate - AI & University Sourcing",
@@ -12446,7 +12460,7 @@
     "status": "pending"
   },
   {
-    "id": 890,
+    "id": 891,
     "company": "M13",
     "company_url": "https://www.m13.co/",
     "position": "Investment Summer Associate - AI Tooling",
@@ -12460,7 +12474,7 @@
     "status": "pending"
   },
   {
-    "id": 891,
+    "id": 892,
     "company": "Truist Bank",
     "company_url": "https://www.truist.com",
     "position": "Quantitative Model Validation Officer I",
@@ -12474,7 +12488,7 @@
     "status": "pending"
   },
   {
-    "id": 892,
+    "id": 893,
     "company": "Hewlett Packard Enterprise",
     "company_url": "https://www.hpe.com",
     "position": "Hewlett Packard Labs -- Silicon Photonics Research Scientist - Early Career",
@@ -12488,7 +12502,7 @@
     "status": "pending"
   },
   {
-    "id": 893,
+    "id": 894,
     "company": "Kpler",
     "company_url": "https://www.kpler.com",
     "position": "Junior Data Analyst - Maritime",
@@ -12502,7 +12516,7 @@
     "status": "pending"
   },
   {
-    "id": 894,
+    "id": 895,
     "company": "Morningstar",
     "company_url": "https://www.morningstar.com",
     "position": "Associate AI Engineer",
@@ -12516,7 +12530,7 @@
     "status": "pending"
   },
   {
-    "id": 895,
+    "id": 896,
     "company": "ICONIQ Capital",
     "company_url": "http://www.iconiqcapital.com",
     "position": "Analytics Data Science - Associate",
@@ -12530,7 +12544,7 @@
     "status": "pending"
   },
   {
-    "id": 896,
+    "id": 897,
     "company": "LMI Innovation",
     "company_url": "https://www.lmi.org",
     "position": "Junior Data Scientist",
@@ -12544,7 +12558,7 @@
     "status": "pending"
   },
   {
-    "id": 897,
+    "id": 898,
     "company": "UiPath",
     "company_url": "https://www.uipath.com/",
     "position": "Data Scientist I",
@@ -12558,7 +12572,7 @@
     "status": "pending"
   },
   {
-    "id": 898,
+    "id": 899,
     "company": "Applied Materials",
     "company_url": "https://www.appliedmaterials.com",
     "position": "Computational Physicist - Plasma Modeling - AI/ML New College Grad - Doctorate Degree - Santa Clara - Ca",
@@ -12572,7 +12586,7 @@
     "status": "pending"
   },
   {
-    "id": 899,
+    "id": 900,
     "company": "Lightspeed Systems",
     "company_url": "http://www.lightspeedsystems.com",
     "position": "Junior AI Automation Engineer",
@@ -12586,7 +12600,7 @@
     "status": "pending"
   },
   {
-    "id": 900,
+    "id": 901,
     "company": "Bridgewater Associates",
     "company_url": "https://www.bridgewater.com",
     "position": "Research Associate - Quantitative Developer",
@@ -12600,7 +12614,7 @@
     "status": "pending"
   },
   {
-    "id": 901,
+    "id": 902,
     "company": "Bridgewater Associates",
     "company_url": "https://www.bridgewater.com",
     "position": "Equity Quantitative Research Associate",
@@ -12614,7 +12628,7 @@
     "status": "pending"
   },
   {
-    "id": 902,
+    "id": 903,
     "company": "Matter Intelligence",
     "company_url": "https://matter.com/",
     "position": "Junior Geospatial Data Scientist - Pipeline & Algorithm Focus",
@@ -12628,7 +12642,7 @@
     "status": "pending"
   },
   {
-    "id": 903,
+    "id": 904,
     "company": "Applied Materials",
     "company_url": "https://www.appliedmaterials.com",
     "position": "Computational Physicist - Fluid/Thermal Modeling - AI/ML New College Grad - Doctorate Degree - Santa Clara - CA",
@@ -12642,7 +12656,7 @@
     "status": "pending"
   },
   {
-    "id": 904,
+    "id": 905,
     "company": "CTC Campus - External, Not Advertised",
     "company_url": "https://www.chicagotrading.com",
     "position": "Quant Trading Associate - Open Outcry Exchange Floor",
@@ -12656,7 +12670,7 @@
     "status": "pending"
   },
   {
-    "id": 905,
+    "id": 906,
     "company": "Clearwater Analytics",
     "company_url": "https://clearwateranalytics.com",
     "position": "Quantitative Developer - Associate - FX",
@@ -12670,7 +12684,7 @@
     "status": "pending"
   },
   {
-    "id": 906,
+    "id": 907,
     "company": "Inland Empire Health Plan",
     "company_url": "https://iehp.org/",
     "position": "Data Scientist I",
@@ -12684,7 +12698,7 @@
     "status": "pending"
   },
   {
-    "id": 907,
+    "id": 908,
     "company": "Grayce",
     "company_url": "https://www.grayce.co.uk/",
     "position": "Graduate Data Analyst - North West",
@@ -12698,7 +12712,7 @@
     "status": "pending"
   },
   {
-    "id": 908,
+    "id": 909,
     "company": "Klaviyo",
     "company_url": "https://www.klaviyo.com/",
     "position": "AI Engineer I",
@@ -12712,7 +12726,7 @@
     "status": "pending"
   },
   {
-    "id": 909,
+    "id": 910,
     "company": "Morgan Stanley",
     "company_url": "https://www.morganstanley.com",
     "position": "Market Risk Analytics Associate - Stress Testing and AI Integration",
@@ -12726,7 +12740,7 @@
     "status": "pending"
   },
   {
-    "id": 910,
+    "id": 911,
     "company": "Quantifind",
     "company_url": "https://www.quantifind.com",
     "position": "Associate Data Scientist",
@@ -12740,7 +12754,7 @@
     "status": "pending"
   },
   {
-    "id": 911,
+    "id": 912,
     "company": "Encord",
     "company_url": "https://encord.com/",
     "position": "Commercial Associate - Physical AI",
@@ -12754,7 +12768,7 @@
     "status": "pending"
   },
   {
-    "id": 912,
+    "id": 913,
     "company": "eJam",
     "company_url": "http://ejam.com/",
     "position": "Junior Web Developer - AI - Powered Landing Pages & Funnels",
@@ -12768,7 +12782,7 @@
     "status": "pending"
   },
   {
-    "id": 913,
+    "id": 914,
     "company": "Oscar",
     "company_url": "https://www.hioscar.com",
     "position": "Data Scientist I",
@@ -12782,7 +12796,7 @@
     "status": "pending"
   },
   {
-    "id": 914,
+    "id": 915,
     "company": "Oscar",
     "company_url": "https://www.hioscar.com",
     "position": "Data Scientist I",
@@ -12796,7 +12810,7 @@
     "status": "pending"
   },
   {
-    "id": 915,
+    "id": 916,
     "company": "Oscar",
     "company_url": "https://www.hioscar.com",
     "position": "Data Scientist I",
@@ -12810,7 +12824,7 @@
     "status": "pending"
   },
   {
-    "id": 916,
+    "id": 917,
     "company": "Grand Canyon Education",
     "company_url": "https://gce.com",
     "position": "Data Analyst I",
@@ -12824,7 +12838,7 @@
     "status": "pending"
   },
   {
-    "id": 917,
+    "id": 918,
     "company": "KeyBank",
     "company_url": "https://www.key.com",
     "position": "Quant Analytics Associate - Interest Rate Risk Oversight",
@@ -12838,7 +12852,7 @@
     "status": "pending"
   },
   {
-    "id": 918,
+    "id": 919,
     "company": "Susquehanna International Group",
     "company_url": "https://sig.com",
     "position": "Quantitative Data Developer - PhD: 2026",
@@ -12852,7 +12866,7 @@
     "status": "pending"
   },
   {
-    "id": 919,
+    "id": 920,
     "company": "Apollo",
     "company_url": "https://www.apollo.com/",
     "position": "Transformation Associate - AI Edge Program",
@@ -12866,7 +12880,7 @@
     "status": "pending"
   },
   {
-    "id": 920,
+    "id": 921,
     "company": "CollegeVine",
     "company_url": "http://collegevine.com/",
     "position": "AI Operations Associate",
@@ -12880,7 +12894,7 @@
     "status": "pending"
   },
   {
-    "id": 921,
+    "id": 922,
     "company": "ISN Software Corporation",
     "company_url": "https://www.isnetworld.com",
     "position": "Associate Data Scientist - Analytics",
@@ -12894,7 +12908,7 @@
     "status": "pending"
   },
   {
-    "id": 922,
+    "id": 923,
     "company": "Quantifind",
     "company_url": "https://www.quantifind.com",
     "position": "Associate Data Scientist",
@@ -12908,7 +12922,7 @@
     "status": "pending"
   },
   {
-    "id": 923,
+    "id": 924,
     "company": "BlackRock",
     "company_url": "https://www.blackrock.com/",
     "position": "Associate - Quantitative Investment Professional",
@@ -12922,7 +12936,7 @@
     "status": "pending"
   },
   {
-    "id": 924,
+    "id": 925,
     "company": "Morgan Stanley",
     "company_url": "https://www.morganstanley.com/",
     "position": "IED - ETF Quant Strategist Associate",
@@ -12936,7 +12950,7 @@
     "status": "pending"
   },
   {
-    "id": 925,
+    "id": 926,
     "company": "Northeastern University",
     "company_url": "https://www.northeastern.edu",
     "position": "Associate Research Scientist",
@@ -12950,7 +12964,7 @@
     "status": "pending"
   },
   {
-    "id": 926,
+    "id": 927,
     "company": "Tria",
     "company_url": "https://triafed.com/",
     "position": "Junior AI Engineer",
@@ -12964,7 +12978,7 @@
     "status": "pending"
   },
   {
-    "id": 927,
+    "id": 928,
     "company": "Carnegie Mellon University",
     "company_url": "https://www.cmu.edu",
     "position": "Research Scientist - College of Engineering - Electrical and Computer Engineering",
@@ -12978,7 +12992,7 @@
     "status": "pending"
   },
   {
-    "id": 928,
+    "id": 929,
     "company": "Worldpay",
     "company_url": "https://worldpay.com/",
     "position": "Data Scientist I",
@@ -12992,7 +13006,7 @@
     "status": "pending"
   },
   {
-    "id": 929,
+    "id": 930,
     "company": "PointClickCare",
     "company_url": "http://www.pointclickcare.com",
     "position": "Associate Data Scientist",
@@ -13006,7 +13020,7 @@
     "status": "pending"
   },
   {
-    "id": 930,
+    "id": 931,
     "company": "Match Group",
     "company_url": "https://mtch.com",
     "position": "Data Scientist I - Integrity",
@@ -13020,7 +13034,7 @@
     "status": "pending"
   },
   {
-    "id": 931,
+    "id": 932,
     "company": "GumGum",
     "company_url": "http://GumGum.com/jobs",
     "position": "Data Scientist I",
@@ -13034,7 +13048,7 @@
     "status": "pending"
   },
   {
-    "id": 932,
+    "id": 933,
     "company": "Morgan Stanley",
     "company_url": "https://www.morganstanley.com/",
     "position": "FID - Commodities Quant Strat - Associate",
@@ -13048,7 +13062,7 @@
     "status": "pending"
   },
   {
-    "id": 933,
+    "id": 934,
     "company": "Playlab",
     "company_url": "https://playlab.ai/",
     "position": "AI Lab School 2026 Cohort Application",
@@ -13062,7 +13076,7 @@
     "status": "pending"
   },
   {
-    "id": 934,
+    "id": 935,
     "company": "Tempus",
     "company_url": "https://www.tempus.com/",
     "position": "AI Applications Cardiology Summer Associate",
@@ -13076,7 +13090,7 @@
     "status": "pending"
   },
   {
-    "id": 935,
+    "id": 936,
     "company": "Tempus",
     "company_url": "https://www.tempus.com/",
     "position": "Applied AI & Research Summer Associate",
@@ -13090,7 +13104,7 @@
     "status": "pending"
   },
   {
-    "id": 936,
+    "id": 937,
     "company": "ConsumerAffairs",
     "company_url": "http://consumeraffairs.com/",
     "position": "AI Native - Junior Digital PR Associate",
@@ -13104,7 +13118,7 @@
     "status": "pending"
   },
   {
-    "id": 937,
+    "id": 938,
     "company": "Etsy",
     "company_url": "https://etsy.com/",
     "position": "Staff Applied Scientist I - Search Retrieval",
@@ -13118,7 +13132,7 @@
     "status": "pending"
   },
   {
-    "id": 938,
+    "id": 939,
     "company": "Morgan Stanley",
     "company_url": "https://www.morganstanley.com/",
     "position": "Treasury Quant Strategist - Associate",
@@ -13132,7 +13146,7 @@
     "status": "pending"
   },
   {
-    "id": 939,
+    "id": 940,
     "company": "Oscar",
     "company_url": "https://www.hioscar.com",
     "position": "Associate - Payment Integrity - Data Mining",
@@ -13146,7 +13160,7 @@
     "status": "pending"
   },
   {
-    "id": 940,
+    "id": 941,
     "company": "Oscar",
     "company_url": "https://www.hioscar.com",
     "position": "Associate - Payment Integrity - Data Mining",
@@ -13160,7 +13174,7 @@
     "status": "pending"
   },
   {
-    "id": 941,
+    "id": 942,
     "company": "Truist Bank",
     "company_url": "https://www.truist.com",
     "position": "Business Unit Risk Advisor I - AI & Data",
@@ -13174,7 +13188,7 @@
     "status": "pending"
   },
   {
-    "id": 942,
+    "id": 943,
     "company": "General Motors",
     "company_url": "https://www.gm.com",
     "position": "Machine Learning Engineer - AI Research - PhD - Early Career",
@@ -13188,7 +13202,7 @@
     "status": "pending"
   },
   {
-    "id": 943,
+    "id": 944,
     "company": "Hexcel",
     "company_url": "https://www.hexcel.com",
     "position": "Early Career Program Research Scientist",
@@ -13202,7 +13216,7 @@
     "status": "pending"
   },
   {
-    "id": 944,
+    "id": 945,
     "company": "Jobs for Humanity",
     "company_url": "https://www.jobsforhumanity.com/",
     "position": "Junior Data Analyst",
@@ -13216,7 +13230,7 @@
     "status": "pending"
   },
   {
-    "id": 945,
+    "id": 946,
     "company": "Bank of America",
     "company_url": "https://www.bankofamerica.com",
     "position": "Data Analyst - Business Support Associate",
@@ -13230,7 +13244,7 @@
     "status": "pending"
   },
   {
-    "id": 946,
+    "id": 947,
     "company": "Esri",
     "company_url": "https://www.esri.com",
     "position": "Data Scientist I",
@@ -13244,7 +13258,7 @@
     "status": "pending"
   },
   {
-    "id": 947,
+    "id": 948,
     "company": "Hewlett Packard Enterprise",
     "company_url": "https://www.hpe.com",
     "position": "Data Science Graduate",
@@ -13258,7 +13272,7 @@
     "status": "pending"
   },
   {
-    "id": 948,
+    "id": 949,
     "company": "Carnegie Mellon University",
     "company_url": "https://www.cmu.edu/",
     "position": "Associate AI Security Researcher",
@@ -13272,7 +13286,7 @@
     "status": "pending"
   },
   {
-    "id": 949,
+    "id": 950,
     "company": "Giga Energy",
     "company_url": "https://www.gigaenergy.com",
     "position": "AI/Hyperscaler Business Development Associate",
@@ -13286,7 +13300,7 @@
     "status": "pending"
   },
   {
-    "id": 950,
+    "id": 951,
     "company": "HarbourVest",
     "company_url": "https://www.harbourvest.com",
     "position": "Junior Quant Investment Engineer",
@@ -13300,7 +13314,7 @@
     "status": "pending"
   },
   {
-    "id": 951,
+    "id": 952,
     "company": "Carnegie Mellon University",
     "company_url": "https://www.cmu.edu",
     "position": "Associate AI Security Researcher",
@@ -13314,7 +13328,7 @@
     "status": "pending"
   },
   {
-    "id": 952,
+    "id": 953,
     "company": "Invisible Agency",
     "company_url": "https://www.invisible.co",
     "position": "AI Generalist - Entry-Level - Freelance AI Trainer Project",
@@ -13328,7 +13342,7 @@
     "status": "pending"
   },
   {
-    "id": 953,
+    "id": 954,
     "company": "Hewlett Packard Enterprise",
     "company_url": "https://www.hpe.com",
     "position": "HPE Labs - AI/ML Engineer III Graduate",
@@ -13342,7 +13356,7 @@
     "status": "pending"
   },
   {
-    "id": 954,
+    "id": 955,
     "company": "Apollo Global Management",
     "company_url": "https://www.apollo.com",
     "position": "Transformation Associate - AI Edge Program",
@@ -13356,7 +13370,7 @@
     "status": "pending"
   },
   {
-    "id": 955,
+    "id": 956,
     "company": "Apollo Global Management",
     "company_url": "https://www.apollo.com",
     "position": "Quantitative Research Associate",
@@ -13370,7 +13384,7 @@
     "status": "pending"
   },
   {
-    "id": 956,
+    "id": 957,
     "company": "AstraZeneca",
     "company_url": "https://www.astrazeneca.com",
     "position": "Postdoctoral Fellow 2025: AI-Informed Bioengineered Models for Predicting Human Response to mRNA Nanomedicines and Vaccines",
@@ -13384,7 +13398,7 @@
     "status": "pending"
   },
   {
-    "id": 957,
+    "id": 958,
     "company": "Bank of America",
     "company_url": "https://www.bankofamerica.com",
     "position": "Quantitative Operations Associate - Volume & Capacity Modeler-Global Operations",
@@ -13398,7 +13412,7 @@
     "status": "pending"
   },
   {
-    "id": 958,
+    "id": 959,
     "company": "Bank of America",
     "company_url": "https://www.bankofamerica.com",
     "position": "Data Scientist I",
@@ -13412,7 +13426,7 @@
     "status": "pending"
   },
   {
-    "id": 959,
+    "id": 960,
     "company": "DataRobot",
     "company_url": "https://datarobot.com",
     "position": "Applied Data Science Associate - Federal",
@@ -13426,7 +13440,7 @@
     "status": "pending"
   },
   {
-    "id": 960,
+    "id": 961,
     "company": "Deutsche Bank",
     "company_url": "https://www.db.com",
     "position": "Trading Quantitative Strategist - Credit - Associate",
@@ -13440,7 +13454,7 @@
     "status": "pending"
   },
   {
-    "id": 961,
+    "id": 962,
     "company": "Embry-Riddle Aeronautical University",
     "company_url": "https://erau.edu",
     "position": "Tenure-Track Faculty Position with a focus on Aviation Operations and Machine Learning/AI in the School of Graduate Studies - Daytona Beach Campus",
@@ -13454,7 +13468,7 @@
     "status": "pending"
   },
   {
-    "id": 962,
+    "id": 963,
     "company": "Embry-Riddle Aeronautical University",
     "company_url": "https://erau.edu",
     "position": "Tenure Track Faculty Position with a focus on Big Data Analytics and Aviation Safety in the School of Graduate Studies",
@@ -13468,7 +13482,7 @@
     "status": "pending"
   },
   {
-    "id": 963,
+    "id": 964,
     "company": "IBC Bank",
     "company_url": "https://www.ibc.com",
     "position": "Quantitative Analyst I",
@@ -13482,7 +13496,7 @@
     "status": "pending"
   },
   {
-    "id": 964,
+    "id": 965,
     "company": "Neuberger Berman",
     "company_url": "https://www.nb.com",
     "position": "Quantitative Analyst/Associate - Investment Risk",
@@ -13496,7 +13510,7 @@
     "status": "pending"
   },
   {
-    "id": 965,
+    "id": 966,
     "company": "Parsons",
     "company_url": "https://www.parsons.com",
     "position": "Research Scientist I",
@@ -13510,7 +13524,7 @@
     "status": "pending"
   },
   {
-    "id": 966,
+    "id": 967,
     "company": "University of Nevada, Las Vegas",
     "company_url": "https://www.unlv.edu",
     "position": "Revised Postdoctoral Scholar - Interdisciplinary Data Science - College of Engineering - R0144891",
@@ -13524,7 +13538,7 @@
     "status": "pending"
   },
   {
-    "id": 967,
+    "id": 968,
     "company": "University of Nevada, Reno",
     "company_url": "https://www.unr.edu",
     "position": "Research Scientist - College of Agriculture - Biotechnology and Natural Resources",
@@ -13538,7 +13552,7 @@
     "status": "pending"
   },
   {
-    "id": 968,
+    "id": 969,
     "company": "Wistron NeWeb",
     "company_url": "https://www.wistron.com",
     "position": "TR2030-Radar Systems Engineer - Algorithm & DSP",
@@ -13552,7 +13566,7 @@
     "status": "pending"
   },
   {
-    "id": 969,
+    "id": 970,
     "company": "Etsy",
     "company_url": "https://etsy.com/",
     "position": "Staff Applied Scientist I",
@@ -13566,7 +13580,7 @@
     "status": "pending"
   },
   {
-    "id": 970,
+    "id": 971,
     "company": "Invisible Agency",
     "company_url": "https://www.invisible.co",
     "position": "Entry-Level AI Generalist - No Experience Required",
@@ -13580,7 +13594,7 @@
     "status": "pending"
   },
   {
-    "id": 971,
+    "id": 972,
     "company": "Zoro",
     "company_url": "http://zoro.com",
     "position": "Data Scientist I",
@@ -13594,7 +13608,7 @@
     "status": "pending"
   },
   {
-    "id": 972,
+    "id": 973,
     "company": "Moelis & Company",
     "company_url": "https://www.moelis.com/",
     "position": "AI Business Associate - Information Technology - New York",
@@ -13608,7 +13622,7 @@
     "status": "pending"
   },
   {
-    "id": 973,
+    "id": 974,
     "company": "Payscale",
     "company_url": "https://www.payscale.com/",
     "position": "Machine Learning Engineer I - US",
@@ -13622,7 +13636,7 @@
     "status": "pending"
   },
   {
-    "id": 974,
+    "id": 975,
     "company": "Profound",
     "company_url": "https://www.tryprofound.com/",
     "position": "AI Strategist - New Grad",
@@ -13636,7 +13650,7 @@
     "status": "pending"
   },
   {
-    "id": 975,
+    "id": 976,
     "company": "Waymo",
     "company_url": "https://www.waymo.com",
     "position": "Machine Learning Engineer - 3D Object Detection - PhD New Grad",
@@ -13650,7 +13664,7 @@
     "status": "pending"
   },
   {
-    "id": 976,
+    "id": 977,
     "company": "Celara",
     "company_url": "http://www.celaralabs.com/",
     "position": "AI Developer - QB - AI - 20260112",
@@ -13664,7 +13678,7 @@
     "status": "pending"
   },
   {
-    "id": 977,
+    "id": 978,
     "company": "Capco",
     "company_url": "https://www.capco.com",
     "position": "Junior AI Engineer",
@@ -13678,7 +13692,7 @@
     "status": "pending"
   },
   {
-    "id": 978,
+    "id": 979,
     "company": "PitchBook",
     "company_url": "http://www.pitchbook.com",
     "position": "Associate Machine Learning Engineer",
@@ -13692,7 +13706,7 @@
     "status": "pending"
   },
   {
-    "id": 979,
+    "id": 980,
     "company": "Poshmark",
     "company_url": "https://poshmark.com/",
     "position": "Data Scientist I",
@@ -13706,7 +13720,7 @@
     "status": "pending"
   },
   {
-    "id": 980,
+    "id": 981,
     "company": "Acorns",
     "company_url": "https://www.acorns.com/",
     "position": "Data Analyst I",
@@ -13720,7 +13734,7 @@
     "status": "pending"
   },
   {
-    "id": 981,
+    "id": 982,
     "company": "Instawork",
     "company_url": "http://www.instawork.com",
     "position": "Business Operations Associate - AI & Automation",
@@ -13734,7 +13748,7 @@
     "status": "pending"
   },
   {
-    "id": 982,
+    "id": 983,
     "company": "Waymo",
     "company_url": "https://www.waymo.com",
     "position": "Applied Research Scientist - Perception - PhD New Grad",
@@ -13748,7 +13762,7 @@
     "status": "pending"
   },
   {
-    "id": 983,
+    "id": 984,
     "company": "Ziplines",
     "company_url": "https://www.ziplines.com/",
     "position": "Subject Matter Expert - SME - AI for Client Success & Account Management - Early 2026",
@@ -13762,7 +13776,7 @@
     "status": "pending"
   },
   {
-    "id": 984,
+    "id": 985,
     "company": "Ziplines",
     "company_url": "https://www.ziplines.com/",
     "position": "Subject Matter Expert - SME - AI for Sales - Early 2026",
@@ -13776,7 +13790,7 @@
     "status": "pending"
   },
   {
-    "id": 985,
+    "id": 986,
     "company": "Ziplines",
     "company_url": "https://www.ziplines.com/",
     "position": "Subject Matter Expert - SME - AI for Business Analysis - Early 2026",
@@ -13790,7 +13804,7 @@
     "status": "pending"
   },
   {
-    "id": 986,
+    "id": 987,
     "company": "Ziplines",
     "company_url": "https://www.ziplines.com/",
     "position": "Subject Matter Expert - SME - AI for Project Management - Early 2026",
@@ -13804,7 +13818,7 @@
     "status": "pending"
   },
   {
-    "id": 987,
+    "id": 988,
     "company": "Samsung AI Research Center",
     "company_url": "https://research.samsung.com/",
     "position": "2026 Health AI Scholar - Spring/Summer",
@@ -13818,7 +13832,7 @@
     "status": "pending"
   },
   {
-    "id": 988,
+    "id": 989,
     "company": "Instawork",
     "company_url": "http://www.instawork.com",
     "position": "AI and Analytics Associate - Go-to-Market",
@@ -13832,7 +13846,7 @@
     "status": "pending"
   },
   {
-    "id": 989,
+    "id": 990,
     "company": "Radian",
     "company_url": "https://radian.com/",
     "position": "Data Scientist I - Hybrid",
@@ -13846,7 +13860,7 @@
     "status": "pending"
   },
   {
-    "id": 990,
+    "id": 991,
     "company": "St. Jude Children’s Research Hospital",
     "company_url": "https://stjude.org/",
     "position": "Clinical Research Scientist I - Improvement and Implementation Science",
@@ -13860,7 +13874,7 @@
     "status": "pending"
   },
   {
-    "id": 991,
+    "id": 992,
     "company": "RippleMatch",
     "company_url": "https://ripplematch.com",
     "position": "Entry Level Data Analyst - application via RippleMatch",
@@ -13874,7 +13888,7 @@
     "status": "pending"
   },
   {
-    "id": 992,
+    "id": 993,
     "company": "RippleMatch",
     "company_url": "https://ripplematch.com",
     "position": "Entry Level Data Analyst - application via RippleMatch",
@@ -13888,7 +13902,7 @@
     "status": "pending"
   },
   {
-    "id": 993,
+    "id": 994,
     "company": "RippleMatch",
     "company_url": "https://ripplematch.com",
     "position": "Entry Level Data Analyst - application via RippleMatch",
@@ -13902,7 +13916,7 @@
     "status": "pending"
   },
   {
-    "id": 994,
+    "id": 995,
     "company": "Redesign Health",
     "company_url": "https://www.redesignhealth.com/",
     "position": "Associate - AI Buyouts",
@@ -13916,7 +13930,7 @@
     "status": "pending"
   },
   {
-    "id": 995,
+    "id": 996,
     "company": "Databento",
     "company_url": "https://databento.com",
     "position": "Quantitative Sales Associate",
@@ -13930,7 +13944,7 @@
     "status": "pending"
   },
   {
-    "id": 996,
+    "id": 997,
     "company": "RippleMatch",
     "company_url": "https://ripplematch.com",
     "position": "PwC - Tax JD/LLM Associate - application via RippleMatch",
@@ -13944,7 +13958,7 @@
     "status": "pending"
   },
   {
-    "id": 997,
+    "id": 998,
     "company": "RippleMatch",
     "company_url": "https://ripplematch.com",
     "position": "PwC - Tax JD/LLM Associate - application via RippleMatch",
@@ -13958,7 +13972,7 @@
     "status": "pending"
   },
   {
-    "id": 998,
+    "id": 999,
     "company": "Brookhaven National Laboratory",
     "company_url": "https://bnl.gov/",
     "position": "Postdoctoral Research Associate - AI in Nuclear Physics",
@@ -13972,7 +13986,7 @@
     "status": "pending"
   },
   {
-    "id": 999,
+    "id": 1000,
     "company": "Lightfield",
     "company_url": "https://lightfield.app/",
     "position": "AI Product Engineer - New Grad",
@@ -13986,7 +14000,7 @@
     "status": "pending"
   },
   {
-    "id": 1000,
+    "id": 1001,
     "company": "Reevo",
     "company_url": "https://reevo.ai/",
     "position": "Builder - AI Engineer - New Grad",
@@ -14000,7 +14014,7 @@
     "status": "pending"
   },
   {
-    "id": 1001,
+    "id": 1002,
     "company": "Peraton",
     "company_url": "https://www.peraton.com",
     "position": "Junior Data Scientist - Object Based Intelligence - OBI Analytic Efficiency",
@@ -14014,7 +14028,7 @@
     "status": "pending"
   },
   {
-    "id": 1002,
+    "id": 1003,
     "company": "NVIDIA",
     "company_url": "https://www.nvidia.com",
     "position": "Research Scientist - ML Systems - PhD New College Grad 2026",
@@ -14028,7 +14042,7 @@
     "status": "pending"
   },
   {
-    "id": 1003,
+    "id": 1004,
     "company": "NVIDIA",
     "company_url": "https://www.nvidia.com",
     "position": "Research Scientist - ML Systems - PhD New College Grad 2026",
@@ -14042,7 +14056,7 @@
     "status": "pending"
   },
   {
-    "id": 1004,
+    "id": 1005,
     "company": "NVIDIA",
     "company_url": "https://www.nvidia.com",
     "position": "Deep Learning Performance Architect - New College Grad 2026",
@@ -14056,7 +14070,7 @@
     "status": "pending"
   },
   {
-    "id": 1005,
+    "id": 1006,
     "company": "Uber",
     "company_url": "https://www.uber.com",
     "position": "Data Analytics Specialist III - Junior Data Scientist",
@@ -14070,7 +14084,7 @@
     "status": "pending"
   },
   {
-    "id": 1006,
+    "id": 1007,
     "company": "Optiver",
     "company_url": "https://optiver.com",
     "position": "Expressions of Interest - Graduate Quantitative Trader 2027",
@@ -14084,7 +14098,7 @@
     "status": "pending"
   },
   {
-    "id": 1007,
+    "id": 1008,
     "company": "Optiver",
     "company_url": "https://optiver.com",
     "position": "Expressions of Interest - Graduate Quantitative Researcher 2027",
@@ -14098,7 +14112,7 @@
     "status": "pending"
   },
   {
-    "id": 1008,
+    "id": 1009,
     "company": "Citadel Securities",
     "company_url": "https://www.citadelsecurities.com/careers",
     "position": "Quantitative Researcher - PhD Graduate - Asia",
@@ -14112,7 +14126,7 @@
     "status": "pending"
   },
   {
-    "id": 1009,
+    "id": 1010,
     "company": "Citadel Securities",
     "company_url": "https://www.citadelsecurities.com/careers",
     "position": "Quantitative Researcher - PhD Graduate - Europe",
@@ -14126,7 +14140,7 @@
     "status": "pending"
   },
   {
-    "id": 1010,
+    "id": 1011,
     "company": "Citadel Securities",
     "company_url": "https://www.citadelsecurities.com/careers",
     "position": "Quantitative Research Analyst - University Graduate - Europe",
@@ -14140,7 +14154,7 @@
     "status": "pending"
   },
   {
-    "id": 1011,
+    "id": 1012,
     "company": "Citadel Securities",
     "company_url": "https://www.citadelsecurities.com/careers",
     "position": "Quantitative Research Analyst - University Graduate - Asia",
@@ -14154,7 +14168,7 @@
     "status": "pending"
   },
   {
-    "id": 1012,
+    "id": 1013,
     "company": "Citadel",
     "company_url": "https://www.citadel.com/careers",
     "position": "Quantitative Research Analyst - University Graduate - Asia",
@@ -14168,7 +14182,7 @@
     "status": "pending"
   },
   {
-    "id": 1013,
+    "id": 1014,
     "company": "Citadel",
     "company_url": "https://www.citadel.com/careers",
     "position": "Quantitative Research Analyst - University Graduate - Europe",
@@ -14182,7 +14196,7 @@
     "status": "pending"
   },
   {
-    "id": 1014,
+    "id": 1015,
     "company": "Citadel",
     "company_url": "https://www.citadel.com/careers",
     "position": "Quantitative Researcher - PhD Graduate - Asia",
@@ -14196,7 +14210,7 @@
     "status": "pending"
   },
   {
-    "id": 1015,
+    "id": 1016,
     "company": "Citadel",
     "company_url": "https://www.citadel.com/careers",
     "position": "Quantitative Researcher - PhD Graduate - Europe",
@@ -14210,7 +14224,7 @@
     "status": "pending"
   },
   {
-    "id": 1016,
+    "id": 1017,
     "company": "Akuna Capital",
     "company_url": "https://akunacapital.com",
     "position": "Junior Quant Trader - 2026 Start - Training in Chicago",
@@ -14224,7 +14238,7 @@
     "status": "pending"
   },
   {
-    "id": 1017,
+    "id": 1018,
     "company": "Akuna Capital",
     "company_url": "https://akunacapital.com",
     "position": "Junior Quant Trader - 2026 Start - Training in Chicago",
@@ -14238,7 +14252,7 @@
     "status": "pending"
   },
   {
-    "id": 1018,
+    "id": 1019,
     "company": "Schonfeld",
     "company_url": "https://www.schonfeld.com",
     "position": "Quantitative Trading Associate",
@@ -14252,7 +14266,7 @@
     "status": "pending"
   },
   {
-    "id": 1019,
+    "id": 1020,
     "company": "ABB",
     "company_url": "https://global.abb/",
     "position": "Temporary position: Research Scientist - ABB Robotics Software - end date 2026-12-31",
@@ -14266,7 +14280,7 @@
     "status": "pending"
   },
   {
-    "id": 1020,
+    "id": 1021,
     "company": "Airbus",
     "company_url": "https://www.airbus.com/",
     "position": "ALT 2026 - Apprenti- e Data Scientist - F/H",
@@ -14280,7 +14294,7 @@
     "status": "pending"
   },
   {
-    "id": 1021,
+    "id": 1022,
     "company": "Barclays",
     "company_url": "https://home.barclays/",
     "position": "Quantitative Analytics Associate Graduate Programme 2026 London",
@@ -14294,7 +14308,7 @@
     "status": "pending"
   },
   {
-    "id": 1022,
+    "id": 1023,
     "company": "Careem",
     "company_url": "https://www.careem.com",
     "position": "Staff Data Scientist I - Matching",
@@ -14308,7 +14322,7 @@
     "status": "pending"
   },
   {
-    "id": 1023,
+    "id": 1024,
     "company": "Deutsche Bank",
     "company_url": "https://www.db.com",
     "position": "Group Strategic Analytics - Quantitative Strategist - Market & Valuation Risk Strats - Associate",
@@ -14322,7 +14336,7 @@
     "status": "pending"
   },
   {
-    "id": 1024,
+    "id": 1025,
     "company": "Kantar",
     "company_url": "https://www.kantar.com",
     "position": "Associate Data Scientist",
@@ -14336,7 +14350,7 @@
     "status": "pending"
   },
   {
-    "id": 1025,
+    "id": 1026,
     "company": "Kpler",
     "company_url": "https://www.kpler.com",
     "position": "Junior Data Analyst",
@@ -14350,7 +14364,7 @@
     "status": "pending"
   },
   {
-    "id": 1026,
+    "id": 1027,
     "company": "NXP Semiconductors",
     "company_url": "https://www.nxp.com",
     "position": "Junior Embedded AI Platform Security Engineer - m/f/d",
@@ -14364,7 +14378,7 @@
     "status": "pending"
   },
   {
-    "id": 1027,
+    "id": 1028,
     "company": "NXP Semiconductors",
     "company_url": "https://www.nxp.com",
     "position": "Junior Embedded AI Platform Security Engineer - m/f/d",
@@ -14378,7 +14392,7 @@
     "status": "pending"
   },
   {
-    "id": 1028,
+    "id": 1029,
     "company": "Nanyang Technological University",
     "company_url": "https://www.ntu.edu.sg",
     "position": "Research Associate - AI & Policy",
@@ -14392,7 +14406,7 @@
     "status": "pending"
   },
   {
-    "id": 1029,
+    "id": 1030,
     "company": "TD Bank",
     "company_url": "https://td.com/",
     "position": "Applied Machine Learning Scientist I - Tabular Deep Learning Model Validation",
@@ -14406,7 +14420,7 @@
     "status": "pending"
   },
   {
-    "id": 1030,
+    "id": 1031,
     "company": "UNHCR",
     "company_url": "https://www.unhcr.org",
     "position": "Associate PSP Officer - AI Developer",
@@ -14420,7 +14434,7 @@
     "status": "pending"
   },
   {
-    "id": 1031,
+    "id": 1032,
     "company": "Wargaming",
     "company_url": "http://wargaming.com",
     "position": "Data Scientist- m/f/i",
@@ -14434,7 +14448,7 @@
     "status": "pending"
   },
   {
-    "id": 1032,
+    "id": 1033,
     "company": "Airbus",
     "company_url": "https://www.airbus.com/",
     "position": "ALT 2026 - Apprenti- e Data Scientist - H/F",
@@ -14448,7 +14462,7 @@
     "status": "pending"
   },
   {
-    "id": 1033,
+    "id": 1034,
     "company": "Airbus",
     "company_url": "https://www.airbus.com/",
     "position": "ALT 2026 - Apprenti Data Analyst et Transformation Digitale - FAL Toulouse - ALL GENDER",
@@ -14462,7 +14476,7 @@
     "status": "pending"
   },
   {
-    "id": 1034,
+    "id": 1035,
     "company": "BlackRock",
     "company_url": "https://www.blackrock.com/",
     "position": "Financial Quantitative Modeler - Aladdin Financial Engineering - Associate",
@@ -14476,7 +14490,7 @@
     "status": "pending"
   },
   {
-    "id": 1035,
+    "id": 1036,
     "company": "CTC Lateral - External, Not Advertised",
     "company_url": "https://www.chicagotrading.com",
     "position": "Quant Trading Associate",
@@ -14490,7 +14504,7 @@
     "status": "pending"
   },
   {
-    "id": 1036,
+    "id": 1037,
     "company": "Flex",
     "company_url": "https://flex.com",
     "position": "Junior AI Developer - Python + AI/ML",
@@ -14504,7 +14518,7 @@
     "status": "pending"
   },
   {
-    "id": 1037,
+    "id": 1038,
     "company": "Franklin Templeton",
     "company_url": "https://www.franklintempleton.com",
     "position": "Junior Quantitative Trader",
@@ -14518,7 +14532,7 @@
     "status": "pending"
   },
   {
-    "id": 1038,
+    "id": 1039,
     "company": "Mirakl",
     "company_url": "http://www.mirakl.com",
     "position": "Financial AI Transformation Analyst - Apprenticeship",
@@ -14532,7 +14546,7 @@
     "status": "pending"
   },
   {
-    "id": 1039,
+    "id": 1040,
     "company": "Peraton",
     "company_url": "https://www.peraton.com",
     "position": "Junior AI/ML Engineer",
@@ -14546,7 +14560,7 @@
     "status": "pending"
   },
   {
-    "id": 1040,
+    "id": 1041,
     "company": "PwC",
     "company_url": "http://www.pwc.com/",
     "position": "Advisory - Deals - Forensic - Data Scientist - Associate 2 - Kolkata",
@@ -14560,7 +14574,7 @@
     "status": "pending"
   },
   {
-    "id": 1041,
+    "id": 1042,
     "company": "University of Rochester",
     "company_url": "https://www.rochester.edu",
     "position": "Data Scientist I",
@@ -14574,7 +14588,7 @@
     "status": "pending"
   },
   {
-    "id": 1042,
+    "id": 1043,
     "company": "SKELAR",
     "company_url": "https://www.skelar.tech/",
     "position": "Junior AI Video Localization Specialist - PawChamp",
@@ -14588,7 +14602,7 @@
     "status": "pending"
   },
   {
-    "id": 1043,
+    "id": 1044,
     "company": "dunnhumby",
     "company_url": "https://www.dunnhumby.com",
     "position": "Associate Applied Data Scientist",
@@ -14602,7 +14616,7 @@
     "status": "pending"
   },
   {
-    "id": 1044,
+    "id": 1045,
     "company": "Capgemini",
     "company_url": "https://www.capgemini.com/",
     "position": "FBS Associate Data Scientist",
@@ -14616,7 +14630,7 @@
     "status": "pending"
   },
   {
-    "id": 1045,
+    "id": 1046,
     "company": "Circle K",
     "company_url": "https://www.circlek.com",
     "position": "Associate Data Analyst - Enterprise & Reporting",
@@ -14630,7 +14644,7 @@
     "status": "pending"
   },
   {
-    "id": 1046,
+    "id": 1047,
     "company": "Institutional Shareholder Services - ISS",
     "company_url": "https://www.issgovernance.com",
     "position": "Junior Data Analyst - Custodian Operations",
@@ -14644,7 +14658,7 @@
     "status": "pending"
   },
   {
-    "id": 1047,
+    "id": 1048,
     "company": "Jack & Jill/External ATS",
     "company_url": "https://www.jackandjill.ai/",
     "position": "Junior Customer Support Engineer at Heypesto.ai",
@@ -14658,7 +14672,7 @@
     "status": "pending"
   },
   {
-    "id": 1048,
+    "id": 1049,
     "company": "Julius Baer",
     "company_url": "https://www.juliusbaer.com",
     "position": "IT Working Student - Junior Machine Learning Engineer 60 - 100% - f/m/d",
@@ -14672,7 +14686,7 @@
     "status": "pending"
   },
   {
-    "id": 1049,
+    "id": 1050,
     "company": "Julius Baer",
     "company_url": "https://www.juliusbaer.com",
     "position": "IT Working Student - Junior Machine Learning Engineer 60 - 100% - f/m/d",
@@ -14686,7 +14700,7 @@
     "status": "pending"
   },
   {
-    "id": 1050,
+    "id": 1051,
     "company": "PwC",
     "company_url": "http://www.pwc.com/",
     "position": "Advisory - Deals - Forensic - Data Scientist - Experienced Associate - Kolkata",
@@ -14700,7 +14714,7 @@
     "status": "pending"
   },
   {
-    "id": 1051,
+    "id": 1052,
     "company": "Airbus",
     "company_url": "https://www.airbus.com/",
     "position": "ATR - Apprenticeship - Data analyst and customer support",
@@ -14714,7 +14728,7 @@
     "status": "pending"
   },
   {
-    "id": 1052,
+    "id": 1053,
     "company": "Manulife",
     "company_url": "https://www.manulife.ca",
     "position": "Associate Data Scientist - GenAI",
@@ -14728,7 +14742,7 @@
     "status": "pending"
   },
   {
-    "id": 1053,
+    "id": 1054,
     "company": "Airbus",
     "company_url": "https://www.airbus.com/",
     "position": "ATR - Apprenticeship- Geospatial Data Science - F/M",
@@ -14742,7 +14756,7 @@
     "status": "pending"
   },
   {
-    "id": 1054,
+    "id": 1055,
     "company": "CHANEL",
     "company_url": "https://www.chanel.com",
     "position": "Alternance - Assistant- e Chargé.e de digitalisation RH/Data analyst - spécialisation technique - Corporate - septembre 2026 - F/H/X",
@@ -14756,7 +14770,7 @@
     "status": "pending"
   },
   {
-    "id": 1055,
+    "id": 1056,
     "company": "Rocket Software",
     "company_url": "https://www.rocketsoftware.com",
     "position": "Junior AI Engineer",
@@ -14770,7 +14784,7 @@
     "status": "pending"
   },
   {
-    "id": 1056,
+    "id": 1057,
     "company": "TD Bank",
     "company_url": "https://td.com/",
     "position": "Applied Machine Learning Scientist I",
@@ -14784,7 +14798,7 @@
     "status": "pending"
   },
   {
-    "id": 1057,
+    "id": 1058,
     "company": "BlackRock",
     "company_url": "https://www.blackrock.com/",
     "position": "Quantitative Technology & Implementation - Aladdin Wealth Tech - Associate",
@@ -14798,7 +14812,7 @@
     "status": "pending"
   },
   {
-    "id": 1058,
+    "id": 1059,
     "company": "Cerved",
     "company_url": "https://www.cerved.com/",
     "position": "Junior Data Analyst",
@@ -14812,7 +14826,7 @@
     "status": "pending"
   },
   {
-    "id": 1059,
+    "id": 1060,
     "company": "IQVIA",
     "company_url": "https://www.iqvia.com",
     "position": "Scientifique des données associé - confidentialité et désidentification / Associate Data Scientist - Privacy and De-identification",
@@ -14826,7 +14840,7 @@
     "status": "pending"
   },
   {
-    "id": 1060,
+    "id": 1061,
     "company": "Institutional Shareholder Services - ISS",
     "company_url": "https://www.issgovernance.com",
     "position": "ESG Junior Data Analyst - Mandarin Speaker",
@@ -14840,7 +14854,7 @@
     "status": "pending"
   },
   {
-    "id": 1061,
+    "id": 1062,
     "company": "PwC",
     "company_url": "https://www.pwc.com",
     "position": "IN_Associate_Generative AI Engineering _OC D&A_Advisory_Bhubaneshwar",
@@ -14854,7 +14868,7 @@
     "status": "pending"
   },
   {
-    "id": 1062,
+    "id": 1063,
     "company": "ROKT",
     "company_url": "https://www.rokt.com",
     "position": "Junior GTM Operations Analyst - AI Automation",
@@ -14868,7 +14882,7 @@
     "status": "pending"
   },
   {
-    "id": 1063,
+    "id": 1064,
     "company": "Taptap Send",
     "company_url": "https://www.taptapsend.com/",
     "position": "Founders Associate - AI",
@@ -14882,7 +14896,7 @@
     "status": "pending"
   },
   {
-    "id": 1064,
+    "id": 1065,
     "company": "Uline",
     "company_url": "https://www.uline.com",
     "position": "Associate eCommerce Data Analyst",
@@ -14896,7 +14910,7 @@
     "status": "pending"
   },
   {
-    "id": 1065,
+    "id": 1066,
     "company": "Unison Infrastructure",
     "company_url": "http://www.unisoninfra.com/",
     "position": "Data Analyst - Entry-Level / Early Career - Germany",
@@ -14910,7 +14924,7 @@
     "status": "pending"
   },
   {
-    "id": 1066,
+    "id": 1067,
     "company": "Unison Infrastructure",
     "company_url": "http://www.unisoninfra.com/",
     "position": "Data Analyst - Entry-Level / Early Career — Self‑Employed - Czechia",
@@ -14924,7 +14938,7 @@
     "status": "pending"
   },
   {
-    "id": 1067,
+    "id": 1068,
     "company": "Apiphany",
     "company_url": "https://www.apiphany.ai/",
     "position": "Associate Data Scientist",
@@ -14938,7 +14952,7 @@
     "status": "pending"
   },
   {
-    "id": 1068,
+    "id": 1069,
     "company": "Bayut  dubizzle",
     "company_url": "https://www.dubizzle.com/",
     "position": "Associate Data Analyst - Strategy",
@@ -14952,7 +14966,7 @@
     "status": "pending"
   },
   {
-    "id": 1069,
+    "id": 1070,
     "company": "Careem",
     "company_url": "https://www.careem.com",
     "position": "Staff Data Scientist I - ETA",
@@ -14966,7 +14980,7 @@
     "status": "pending"
   },
   {
-    "id": 1070,
+    "id": 1071,
     "company": "Clarivate",
     "company_url": "https://clarivate.com",
     "position": "Associate Healthcare Research & Data Analyst",
@@ -14980,7 +14994,7 @@
     "status": "pending"
   },
   {
-    "id": 1071,
+    "id": 1072,
     "company": "Ekimetrics",
     "company_url": "https://ekimetrics.com",
     "position": "Stage 2026 - Data analyst Power BI - H/F/N",
@@ -14994,7 +15008,7 @@
     "status": "pending"
   },
   {
-    "id": 1072,
+    "id": 1073,
     "company": "Royal Bank of Canada",
     "company_url": "https://rbc.com",
     "position": "Associate/VP Credit Quant Strat",
@@ -15008,7 +15022,7 @@
     "status": "pending"
   },
   {
-    "id": 1073,
+    "id": 1074,
     "company": "SGS",
     "company_url": "https://www.sgs.com/",
     "position": "OPEN HOUSE: Quality Assurance Associate - Data Analyst Pharma & Customer Services Associate - Customer Service - Pharma - Laboratory Testing & GMP background",
@@ -15022,7 +15036,7 @@
     "status": "pending"
   },
   {
-    "id": 1074,
+    "id": 1075,
     "company": "Trend Micro",
     "company_url": "https://www.trendmicro.com",
     "position": "【2026 趨勢科技暑期實習】AI Engineer",
@@ -15036,7 +15050,7 @@
     "status": "pending"
   },
   {
-    "id": 1075,
+    "id": 1076,
     "company": "BlaBlaCar",
     "company_url": "https://www.blablacar.com",
     "position": "Data Scientist - Entry Level",
@@ -15050,7 +15064,7 @@
     "status": "pending"
   },
   {
-    "id": 1076,
+    "id": 1077,
     "company": "Orion Innovation",
     "company_url": "https://www.orioninc.com",
     "position": "Associate - AI Security Engineer",
@@ -15064,7 +15078,7 @@
     "status": "pending"
   },
   {
-    "id": 1077,
+    "id": 1078,
     "company": "BlackRock",
     "company_url": "https://www.blackrock.com/",
     "position": "Quantitative Researcher - Trading Research - BlackRock Global Markets - Associate",
@@ -15078,7 +15092,7 @@
     "status": "pending"
   },
   {
-    "id": 1078,
+    "id": 1079,
     "company": "Deutsche Bank",
     "company_url": "https://www.db.com",
     "position": "GSA - Global Strategic Analytics - Quantitative Strategist - IB Desk Strats - Associate / VP",
@@ -15092,7 +15106,7 @@
     "status": "pending"
   },
   {
-    "id": 1079,
+    "id": 1080,
     "company": "Hitachi",
     "company_url": "https://www.hitachi.com",
     "position": "Associate Data Science Engineer",
@@ -15106,7 +15120,7 @@
     "status": "pending"
   },
   {
-    "id": 1080,
+    "id": 1081,
     "company": "Institutional Shareholder Services - ISS",
     "company_url": "https://www.issgovernance.com",
     "position": "Junior Data Analyst - Market Intelligence Discovery Data",
@@ -15120,7 +15134,7 @@
     "status": "pending"
   },
   {
-    "id": 1081,
+    "id": 1082,
     "company": "Institutional Shareholder Services - ISS",
     "company_url": "https://www.issgovernance.com",
     "position": "Junior Data Analyst- Mutual Fund Prospectus Research Team",
@@ -15134,7 +15148,7 @@
     "status": "pending"
   },
   {
-    "id": 1082,
+    "id": 1083,
     "company": "Institutional Shareholder Services - ISS",
     "company_url": "https://www.issgovernance.com",
     "position": "Junior Data Analyst - Mutual Fund Fee & Expense",
@@ -15148,7 +15162,7 @@
     "status": "pending"
   },
   {
-    "id": 1083,
+    "id": 1084,
     "company": "Intact",
     "company_url": "https://intactfc.com/",
     "position": "Data Scientist I - HK",
@@ -15162,7 +15176,7 @@
     "status": "pending"
   },
   {
-    "id": 1084,
+    "id": 1085,
     "company": "TD Bank",
     "company_url": "https://td.com/",
     "position": "AI Associate Engineer I - B3617",
@@ -15176,7 +15190,7 @@
     "status": "pending"
   },
   {
-    "id": 1085,
+    "id": 1086,
     "company": "CHANEL",
     "company_url": "https://www.chanel.com",
     "position": "Stage - Data Analyst - Supply Chain - Mode - Juillet 2026 - H/F/X",
@@ -15190,7 +15204,7 @@
     "status": "pending"
   },
   {
-    "id": 1086,
+    "id": 1087,
     "company": "Nanyang Technological University",
     "company_url": "https://www.ntu.edu.sg",
     "position": "Research Engineer I - Computer Science/Data Science/Information Studies",
@@ -15204,7 +15218,7 @@
     "status": "pending"
   },
   {
-    "id": 1087,
+    "id": 1088,
     "company": "Trimble",
     "company_url": "https://www.trimble.com",
     "position": "Junior AI Adoption Specialist Freight Audit",
@@ -15218,7 +15232,7 @@
     "status": "pending"
   },
   {
-    "id": 1088,
+    "id": 1089,
     "company": "Bank of America",
     "company_url": "https://bankofamerica.com",
     "position": "Associate / VP - APAC Equity Prime Financing Quant - Hong Kong",
@@ -15232,7 +15246,7 @@
     "status": "pending"
   },
   {
-    "id": 1089,
+    "id": 1090,
     "company": "Clarivate",
     "company_url": "https://clarivate.com",
     "position": "Associate Healthcare Research & Data Analyst- Provider Research",
@@ -15246,7 +15260,7 @@
     "status": "pending"
   },
   {
-    "id": 1090,
+    "id": 1091,
     "company": "Deutsche Bank",
     "company_url": "https://www.db.com",
     "position": "Reference Data Analyst - Associate",
@@ -15260,7 +15274,7 @@
     "status": "pending"
   },
   {
-    "id": 1091,
+    "id": 1092,
     "company": "Grayce",
     "company_url": "https://www.grayce.co.uk/",
     "position": "Graduate Data Analyst",
@@ -15274,7 +15288,7 @@
     "status": "pending"
   },
   {
-    "id": 1092,
+    "id": 1093,
     "company": "ICONIQ Capital",
     "company_url": "http://www.iconiqcapital.com",
     "position": "AI and Data Analytics - Associate",
@@ -15288,7 +15302,7 @@
     "status": "pending"
   },
   {
-    "id": 1093,
+    "id": 1094,
     "company": "Jack & Jill/External ATS",
     "company_url": "https://www.jackandjill.ai/",
     "position": "Junior Customer Support Engineer at fast-growing AI startup",
@@ -15302,7 +15316,7 @@
     "status": "pending"
   },
   {
-    "id": 1094,
+    "id": 1095,
     "company": "Kpler",
     "company_url": "https://www.kpler.com",
     "position": "Junior Data Analyst - Maritime",
@@ -15316,7 +15330,7 @@
     "status": "pending"
   },
   {
-    "id": 1095,
+    "id": 1096,
     "company": "Blue Yonder",
     "company_url": "https://blueyonder.com",
     "position": "Staff Data Scientist I - Python - R & ML",
@@ -15330,7 +15344,7 @@
     "status": "pending"
   },
   {
-    "id": 1096,
+    "id": 1097,
     "company": "Contentful",
     "company_url": "http://www.contentful.com",
     "position": "Associate Legal Counsel - Privacy - Product & AI - f/m/d",
@@ -15344,7 +15358,7 @@
     "status": "pending"
   },
   {
-    "id": 1097,
+    "id": 1098,
     "company": "TD Bank",
     "company_url": "https://td.com/",
     "position": "Data Scientist I",
@@ -15358,7 +15372,7 @@
     "status": "pending"
   },
   {
-    "id": 1098,
+    "id": 1099,
     "company": "Clinton Health Access Initiative",
     "company_url": "https://www.clintonhealthaccess.org",
     "position": "Program Associate - Data Scientist",
@@ -15372,7 +15386,7 @@
     "status": "pending"
   },
   {
-    "id": 1099,
+    "id": 1100,
     "company": "Morningstar",
     "company_url": "https://www.morningstar.com",
     "position": "Associate Quant Analyst",
@@ -15386,7 +15400,7 @@
     "status": "pending"
   },
   {
-    "id": 1100,
+    "id": 1101,
     "company": "Netomi",
     "company_url": "https://www.netomi.com",
     "position": "Data Scientist - I",
@@ -15400,7 +15414,7 @@
     "status": "pending"
   },
   {
-    "id": 1101,
+    "id": 1102,
     "company": "AJAX",
     "company_url": "https://www.ajax.com",
     "position": "Junior Python Developer — AI Team",
@@ -15414,7 +15428,7 @@
     "status": "pending"
   },
   {
-    "id": 1102,
+    "id": 1103,
     "company": "BlackRock",
     "company_url": "https://www.blackrock.com/",
     "position": "Quant Data Specialist - Associate",
@@ -15428,7 +15442,7 @@
     "status": "pending"
   },
   {
-    "id": 1103,
+    "id": 1104,
     "company": "Clarivate",
     "company_url": "https://clarivate.com",
     "position": "Associate Healthcare Research & Data Analyst",
@@ -15442,7 +15456,7 @@
     "status": "pending"
   },
   {
-    "id": 1104,
+    "id": 1105,
     "company": "9fin",
     "company_url": "https://9fin.com/",
     "position": "AI Ops Associate",
@@ -15456,7 +15470,7 @@
     "status": "pending"
   },
   {
-    "id": 1105,
+    "id": 1106,
     "company": "Nanyang Technological University",
     "company_url": "https://www.ntu.edu.sg",
     "position": "Research Associate - Artificial Intelligence / Machine Learning / Robotics",
@@ -15470,7 +15484,7 @@
     "status": "pending"
   },
   {
-    "id": 1106,
+    "id": 1107,
     "company": "BBVA",
     "company_url": "https://www.bbva.com",
     "position": "Data & AI Enablement - CIB Risk Unit Associate",
@@ -15484,7 +15498,7 @@
     "status": "pending"
   },
   {
-    "id": 1107,
+    "id": 1108,
     "company": "Correlation One",
     "company_url": "https://www.correlation-one.com",
     "position": "Teaching Assistant: Machine Learning Data Associate",
@@ -15498,7 +15512,7 @@
     "status": "pending"
   },
   {
-    "id": 1108,
+    "id": 1109,
     "company": "Flex",
     "company_url": "https://flex.com",
     "position": "Junior Supply Chain Data Scientist - Fixed term-1 year",
@@ -15512,7 +15526,7 @@
     "status": "pending"
   },
   {
-    "id": 1109,
+    "id": 1110,
     "company": "GlobalFoundries",
     "company_url": "https://gf.com",
     "position": "Junior Data Scientist",
@@ -15526,7 +15540,7 @@
     "status": "pending"
   },
   {
-    "id": 1110,
+    "id": 1111,
     "company": "Internal Referral Program",
     "company_url": "https://www.exadel.ai",
     "position": "Associate AI Engineer",
@@ -15540,7 +15554,7 @@
     "status": "pending"
   },
   {
-    "id": 1111,
+    "id": 1112,
     "company": "Julius Baer",
     "company_url": "https://www.juliusbaer.com",
     "position": "University Graduate - Quantitative Analyst Model Validation - Flex-Track 100% - f/m/d",
@@ -15554,7 +15568,7 @@
     "status": "pending"
   },
   {
-    "id": 1112,
+    "id": 1113,
     "company": "Julius Baer",
     "company_url": "https://www.juliusbaer.com",
     "position": "University Graduate - Quantitative Analyst in GPS Trading 100% - f/m/d",
@@ -15568,7 +15582,7 @@
     "status": "pending"
   },
   {
-    "id": 1113,
+    "id": 1114,
     "company": "Julius Baer",
     "company_url": "https://www.juliusbaer.com",
     "position": "University Graduate - Quantitative Analyst - Flex-Track 100% - f/m/d",
@@ -15582,7 +15596,7 @@
     "status": "pending"
   },
   {
-    "id": 1114,
+    "id": 1115,
     "company": "Morningstar",
     "company_url": "https://www.morningstar.com",
     "position": "Associate Quant Analyst",
@@ -15596,7 +15610,7 @@
     "status": "pending"
   },
   {
-    "id": 1115,
+    "id": 1116,
     "company": "Nanyang Technological University",
     "company_url": "https://www.ntu.edu.sg",
     "position": "Research Associate/Research Assistant - Artificial Intelligence/Behavioural Sciences/Public Health/Data Science",
@@ -15610,7 +15624,7 @@
     "status": "pending"
   },
   {
-    "id": 1116,
+    "id": 1117,
     "company": "ASM Global",
     "company_url": "https://www.asmglobal.com",
     "position": "Summer Associate - Enterprise AI & Insights - 8-10 Week Program",
@@ -15624,7 +15638,7 @@
     "status": "pending"
   },
   {
-    "id": 1117,
+    "id": 1118,
     "company": "Doctolib",
     "company_url": "https://careers.doctolib.com",
     "position": "Stage - Business Data Analyst - x/f/m - Septembre 2026",
@@ -15638,7 +15652,7 @@
     "status": "pending"
   },
   {
-    "id": 1118,
+    "id": 1119,
     "company": "NXP Semiconductors",
     "company_url": "https://www.nxp.com",
     "position": "<New Graduate Hiring> Data Scientist",
@@ -15652,7 +15666,7 @@
     "status": "pending"
   },
   {
-    "id": 1119,
+    "id": 1120,
     "company": "Faculty",
     "company_url": "https://faculty.ai/",
     "position": "Faculty Fellowship Programme - Data Science - May 2026",
@@ -15666,7 +15680,7 @@
     "status": "pending"
   },
   {
-    "id": 1120,
+    "id": 1121,
     "company": "Mediabrands",
     "company_url": "https://www.ipgmediabrands.com",
     "position": "MBCC - Junior Data Analyst",
@@ -15680,7 +15694,7 @@
     "status": "pending"
   },
   {
-    "id": 1121,
+    "id": 1122,
     "company": "Mistral AI",
     "company_url": "https://mistral.ai/",
     "position": "Associate AI Deployment Strategist",
@@ -15694,7 +15708,7 @@
     "status": "pending"
   },
   {
-    "id": 1122,
+    "id": 1123,
     "company": "Moreton Capital Partners",
     "company_url": "http://moretoncp.com/",
     "position": "Junior LLM / Agents Engineer - Systematic Commodities Hedge Fund",
@@ -15708,7 +15722,7 @@
     "status": "pending"
   },
   {
-    "id": 1123,
+    "id": 1124,
     "company": "Nanyang Technological University",
     "company_url": "https://www.ntu.edu.sg",
     "position": "Research Scientist/Research Associate - Psychology",
@@ -15722,7 +15736,7 @@
     "status": "pending"
   },
   {
-    "id": 1124,
+    "id": 1125,
     "company": "RELX",
     "company_url": "https://www.relx.com",
     "position": "Associate Scientific Editor - Social Science - Quantitative",
@@ -15736,7 +15750,7 @@
     "status": "pending"
   },
   {
-    "id": 1125,
+    "id": 1126,
     "company": "University of Maryland Global Campus",
     "company_url": "https://umgc.edu/",
     "position": "Artificial Intelligence - Wiesbaden - The Undergraduate School - Adjunct Faculty",
@@ -15750,7 +15764,7 @@
     "status": "pending"
   },
   {
-    "id": 1126,
+    "id": 1127,
     "company": "University of Maryland Global Campus",
     "company_url": "https://umgc.edu/",
     "position": "Artificial Intelligence - Stuttgart - The Undergraduate School - Adjunct Faculty",
@@ -15764,7 +15778,7 @@
     "status": "pending"
   },
   {
-    "id": 1127,
+    "id": 1128,
     "company": "University of Maryland Global Campus",
     "company_url": "https://umgc.edu/",
     "position": "Artificial Intelligence - Aviano - The Undergraduate School - Adjunct Faculty",
@@ -15778,7 +15792,7 @@
     "status": "pending"
   },
   {
-    "id": 1128,
+    "id": 1129,
     "company": "University of Maryland Global Campus",
     "company_url": "https://umgc.edu/",
     "position": "Artificial Intelligence - Lakenheath - The Undergraduate School - Adjunct Faculty",
@@ -15792,7 +15806,7 @@
     "status": "pending"
   },
   {
-    "id": 1129,
+    "id": 1130,
     "company": "University of Maryland Global Campus",
     "company_url": "https://umgc.edu/",
     "position": "Artificial Intelligence - Ramstein - The Undergraduate School - Adjunct Faculty",
@@ -15806,7 +15820,7 @@
     "status": "pending"
   },
   {
-    "id": 1130,
+    "id": 1131,
     "company": "dentsu",
     "company_url": "https://www.dentsu.com",
     "position": "Associate Data Analyst",
@@ -15820,7 +15834,7 @@
     "status": "pending"
   },
   {
-    "id": 1131,
+    "id": 1132,
     "company": "Pantheon Ventures",
     "company_url": "http://www.pantheon.com",
     "position": "Associate - AI Engineer",
@@ -15834,7 +15848,7 @@
     "status": "pending"
   },
   {
-    "id": 1132,
+    "id": 1133,
     "company": "Quora",
     "company_url": "https://quora.com",
     "position": "Machine Learning Engineer New Grad 2025-2026 - Ads - Quora - Remote",
@@ -15848,7 +15862,7 @@
     "status": "pending"
   },
   {
-    "id": 1133,
+    "id": 1134,
     "company": "Bank of Montreal",
     "company_url": "https://www.bmo.com",
     "position": "BMO Capital Markets Summer 2027 Global Markets Analyst - Quantitative/Developer - Toronto",
@@ -15862,7 +15876,7 @@
     "status": "pending"
   },
   {
-    "id": 1134,
+    "id": 1135,
     "company": "Bank of Montreal",
     "company_url": "https://www.bmo.com",
     "position": "Associate - AI DevOps Engineer",
@@ -15876,7 +15890,7 @@
     "status": "pending"
   },
   {
-    "id": 1135,
+    "id": 1136,
     "company": "Thermo Fisher Scientific",
     "company_url": "https://thermofisher.com",
     "position": "Technical Expert - Associate Research Scientist - Biopharma - Athlone - Ireland",
@@ -15890,7 +15904,7 @@
     "status": "pending"
   },
   {
-    "id": 1136,
+    "id": 1137,
     "company": "Ecolab",
     "company_url": "https://www.ecolab.com",
     "position": "Associate AI/ML_Engineer",
@@ -15904,7 +15918,7 @@
     "status": "pending"
   },
   {
-    "id": 1137,
+    "id": 1138,
     "company": "Morgan Stanley",
     "company_url": "https://www.morganstanley.com/",
     "position": "Quant Strategist — Financial Resources & Strategy - Associate - ISGM",
@@ -15918,7 +15932,7 @@
     "status": "pending"
   },
   {
-    "id": 1138,
+    "id": 1139,
     "company": "Accenture",
     "company_url": "https://www.accenture.com",
     "position": "S&C Global Network - AI - CFO & EV - Associate",
@@ -15932,7 +15946,7 @@
     "status": "pending"
   },
   {
-    "id": 1139,
+    "id": 1140,
     "company": "Walt Disney",
     "company_url": "https://thewaltdisneycompany.com",
     "position": "Postdoctoral Researcher or Associate Research Scientist - Robot Hardware - m/f/d",
@@ -15946,7 +15960,7 @@
     "status": "pending"
   },
   {
-    "id": 1140,
+    "id": 1141,
     "company": "Walt Disney",
     "company_url": "https://www.disneycareers.com/",
     "position": "Postdoctoral Researcher or Associate Research Scientist - Robot Hardware - m/f/d",
@@ -15960,7 +15974,7 @@
     "status": "pending"
   },
   {
-    "id": 1141,
+    "id": 1142,
     "company": "Deutsche Bank",
     "company_url": "https://www.db.com",
     "position": "GSA - Global Strategic Analytics-Quantitative Developer- Associate/VP",
@@ -15974,7 +15988,7 @@
     "status": "pending"
   },
   {
-    "id": 1142,
+    "id": 1143,
     "company": "Cohere Health",
     "company_url": "https://coherehealth.com",
     "position": "Data Analyst I",
@@ -15988,7 +16002,7 @@
     "status": "pending"
   },
   {
-    "id": 1143,
+    "id": 1144,
     "company": "GHX",
     "company_url": "http://www.ghx.com",
     "position": "Content Data Analyst I",
@@ -16002,7 +16016,7 @@
     "status": "pending"
   },
   {
-    "id": 1144,
+    "id": 1145,
     "company": "Priceline",
     "company_url": "https://priceline.com/",
     "position": "Associate AI/ML Developer",
@@ -16016,7 +16030,7 @@
     "status": "pending"
   },
   {
-    "id": 1145,
+    "id": 1146,
     "company": "Cerved",
     "company_url": "https://www.cerved.com/",
     "position": "Junior Data scientist",
@@ -16030,7 +16044,7 @@
     "status": "pending"
   },
   {
-    "id": 1146,
+    "id": 1147,
     "company": "Entrust",
     "company_url": "https://www.entrust.com",
     "position": "Applied Scientist I",
@@ -16044,7 +16058,7 @@
     "status": "pending"
   },
   {
-    "id": 1147,
+    "id": 1148,
     "company": "Razer",
     "company_url": "https://www.razer.com",
     "position": "Early Careers Associate Data Scientist",
@@ -16058,7 +16072,7 @@
     "status": "pending"
   },
   {
-    "id": 1148,
+    "id": 1149,
     "company": "Thermo Fisher Scientific",
     "company_url": "https://thermofisher.com",
     "position": "Associate Research Scientist",
@@ -16072,7 +16086,7 @@
     "status": "pending"
   },
   {
-    "id": 1149,
+    "id": 1150,
     "company": "Centific",
     "company_url": "https://centific.com/",
     "position": "AI Data Associate",
@@ -16086,7 +16100,7 @@
     "status": "pending"
   },
   {
-    "id": 1150,
+    "id": 1151,
     "company": "University of Rochester",
     "company_url": "https://www.rochester.edu",
     "position": "Research Data Engineer I",
@@ -16100,7 +16114,7 @@
     "status": "pending"
   },
   {
-    "id": 1151,
+    "id": 1152,
     "company": "Parker Group",
     "company_url": "https://www.getparker.com/",
     "position": "Data Analyst I",
@@ -16114,7 +16128,7 @@
     "status": "pending"
   },
   {
-    "id": 1152,
+    "id": 1153,
     "company": "Parker Group",
     "company_url": "https://www.getparker.com/",
     "position": "Data Analyst I",
@@ -16128,7 +16142,7 @@
     "status": "pending"
   },
   {
-    "id": 1153,
+    "id": 1154,
     "company": "PwC",
     "company_url": "http://www.pwc.com/",
     "position": "AI Engineer - Associate 2",
@@ -16142,7 +16156,7 @@
     "status": "pending"
   },
   {
-    "id": 1154,
+    "id": 1155,
     "company": "Wahed",
     "company_url": "https://www.wahed.com/global",
     "position": "AI and Automation Associate - Legal",
@@ -16156,7 +16170,7 @@
     "status": "pending"
   },
   {
-    "id": 1155,
+    "id": 1156,
     "company": "PwC",
     "company_url": "http://www.pwc.com/",
     "position": "Associate - Deals - Data Science - Bangalore",
@@ -16170,7 +16184,7 @@
     "status": "pending"
   },
   {
-    "id": 1156,
+    "id": 1157,
     "company": "PwC",
     "company_url": "http://www.pwc.com/",
     "position": "AI Solution and Agentic Engineer - DCM - Associate- Consult",
@@ -16184,7 +16198,7 @@
     "status": "pending"
   },
   {
-    "id": 1157,
+    "id": 1158,
     "company": "The University of Texas at Austin",
     "company_url": "https://www.utexas.edu",
     "position": "Robotics and Autonomous System Engineering Associate",
@@ -16198,7 +16212,7 @@
     "status": "pending"
   },
   {
-    "id": 1158,
+    "id": 1159,
     "company": "Amgen",
     "company_url": "https://www.amgen.com",
     "position": "Associate Data Engineer-Research Data and Analytics",
@@ -16212,7 +16226,7 @@
     "status": "pending"
   },
   {
-    "id": 1159,
+    "id": 1160,
     "company": "Apollo Global Management",
     "company_url": "https://www.apollo.com",
     "position": "Quantitative Developer Associate",
@@ -16226,7 +16240,7 @@
     "status": "pending"
   },
   {
-    "id": 1160,
+    "id": 1161,
     "company": "Apollo Global Management",
     "company_url": "https://www.apollo.com",
     "position": "Quantitative Developer Associate",
@@ -16240,7 +16254,7 @@
     "status": "pending"
   },
   {
-    "id": 1161,
+    "id": 1162,
     "company": "Brandeis University",
     "company_url": "https://www.brandeis.edu",
     "position": "Temporary Micro-Credential Grader - Industry-Focused Prompt Engineering for ROI-Driven Results",
@@ -16254,7 +16268,7 @@
     "status": "pending"
   },
   {
-    "id": 1162,
+    "id": 1163,
     "company": "Brandeis University",
     "company_url": "https://www.brandeis.edu",
     "position": "Temporary Micro-Credential Grader - JSD- Microcredential Grader-AI Fundamentals for STEM Professionals",
@@ -16268,7 +16282,7 @@
     "status": "pending"
   },
   {
-    "id": 1163,
+    "id": 1164,
     "company": "HP",
     "company_url": "https://www.hp.com",
     "position": "AI Lab - Junior Machine Learning Engineer",
@@ -16282,7 +16296,7 @@
     "status": "pending"
   },
   {
-    "id": 1164,
+    "id": 1165,
     "company": "Hong Leong Bank",
     "company_url": "https://www.hlb.com.my",
     "position": "Executive - Personal Financial Services - Junior Product Data Analyst - Credit Card and Personal Loan",
@@ -16296,7 +16310,7 @@
     "status": "pending"
   },
   {
-    "id": 1165,
+    "id": 1166,
     "company": "PwC",
     "company_url": "https://www.pwc.com",
     "position": "Tax - Digital Tax - Data Scientist Experienced Associate",
@@ -16310,7 +16324,7 @@
     "status": "pending"
   },
   {
-    "id": 1166,
+    "id": 1167,
     "company": "Takeda",
     "company_url": "https://www.takeda.com",
     "position": "Data Scientist - Associate Scientist",
@@ -16324,7 +16338,7 @@
     "status": "pending"
   },
   {
-    "id": 1167,
+    "id": 1168,
     "company": "The University of Texas at Austin",
     "company_url": "https://www.utexas.edu",
     "position": "Research Scientist Associate IV",
@@ -16338,7 +16352,7 @@
     "status": "pending"
   },
   {
-    "id": 1168,
+    "id": 1169,
     "company": "The University of Texas at Austin",
     "company_url": "https://www.utexas.edu",
     "position": "Research Scientist Associate III",
@@ -16352,7 +16366,7 @@
     "status": "pending"
   },
   {
-    "id": 1169,
+    "id": 1170,
     "company": "The University of Texas at Austin",
     "company_url": "https://www.utexas.edu",
     "position": "Research Scientist Associate II",
@@ -16366,7 +16380,7 @@
     "status": "pending"
   },
   {
-    "id": 1170,
+    "id": 1171,
     "company": "The University of Texas at Austin",
     "company_url": "https://www.utexas.edu",
     "position": "R&D Machine Learning Engineer - Engineering Scientist Associate",
@@ -16380,7 +16394,7 @@
     "status": "pending"
   },
   {
-    "id": 1171,
+    "id": 1172,
     "company": "ZEISS",
     "company_url": "https://www.zeiss.com",
     "position": "Duales Studium - Data Science und Künstliche Intelligenz - m/w/x - Beginn Herbst 2026",
@@ -16394,7 +16408,7 @@
     "status": "pending"
   },
   {
-    "id": 1172,
+    "id": 1173,
     "company": "BlackRock",
     "company_url": "https://www.blackrock.com/",
     "position": "Artificial Intelligence Engineer - Portfolio Management Group - Associate",
@@ -16408,7 +16422,7 @@
     "status": "pending"
   },
   {
-    "id": 1173,
+    "id": 1174,
     "company": "Cambridge Consultants",
     "company_url": "https://www.cambridgeconsultants.com",
     "position": "Graduate AI Engineer - 2026 start",
@@ -16422,7 +16436,7 @@
     "status": "pending"
   },
   {
-    "id": 1174,
+    "id": 1175,
     "company": "Lovehoney Group",
     "company_url": "http://www.lovehoneygroup.com/",
     "position": "Junior AI Engineer",
@@ -16436,7 +16450,7 @@
     "status": "pending"
   },
   {
-    "id": 1175,
+    "id": 1176,
     "company": "Susquehanna International Group",
     "company_url": "https://sig.com",
     "position": "Quantitative Researcher - PhD: 2026",
@@ -16450,7 +16464,7 @@
     "status": "pending"
   },
   {
-    "id": 1176,
+    "id": 1177,
     "company": "Susquehanna International Group",
     "company_url": "https://sig.com",
     "position": "Quantitative Systematic Trader - Honours and Master’s: 2026",
@@ -16464,7 +16478,7 @@
     "status": "pending"
   },
   {
-    "id": 1177,
+    "id": 1178,
     "company": "Susquehanna International Group",
     "company_url": "https://sig.com",
     "position": "Quantitative Systematic Trader - PhD: 2026",
@@ -16478,7 +16492,7 @@
     "status": "pending"
   },
   {
-    "id": 1178,
+    "id": 1179,
     "company": "Susquehanna International Group",
     "company_url": "https://sig.com",
     "position": "Quantitative Researcher - Honours and Master's: 2026",
@@ -16492,7 +16506,7 @@
     "status": "pending"
   },
   {
-    "id": 1179,
+    "id": 1180,
     "company": "Snap",
     "company_url": "https://snap.com/",
     "position": "Graduate Machine Learning Engineer - Gen AI",
@@ -16506,7 +16520,7 @@
     "status": "pending"
   },
   {
-    "id": 1180,
+    "id": 1181,
     "company": "AlphaGrep Securities",
     "company_url": "http://alpha-grep.com",
     "position": "Junior Quantitative Researcher",
@@ -16520,7 +16534,7 @@
     "status": "pending"
   },
   {
-    "id": 1181,
+    "id": 1182,
     "company": "Carrier",
     "company_url": "https://www.carrier.com",
     "position": "Duales Studium Data Science und Künstliche Intelligenz B.Sc. 2026 - m/w/d",
@@ -16534,7 +16548,7 @@
     "status": "pending"
   },
   {
-    "id": 1182,
+    "id": 1183,
     "company": "Viridien",
     "company_url": "https://www.viridiengroup.com/",
     "position": "Machine Learning Engineer/Researcher - 2026 Graduate Programme",
@@ -16548,7 +16562,7 @@
     "status": "pending"
   },
   {
-    "id": 1183,
+    "id": 1184,
     "company": "Amperos Health",
     "company_url": "https://www.amperoshealth.com/",
     "position": "Billing Associate - AI Quality",
@@ -16562,7 +16576,7 @@
     "status": "pending"
   },
   {
-    "id": 1184,
+    "id": 1185,
     "company": "Teleperformance",
     "company_url": "https://www.tp.com/",
     "position": "Junior ML Engineer",
@@ -16576,7 +16590,7 @@
     "status": "pending"
   },
   {
-    "id": 1185,
+    "id": 1186,
     "company": "Nasdaq",
     "company_url": "https://www.nasdaq.com/",
     "position": "Privacy and AI Compliance Lawyer - Associate General Counsel",
@@ -16590,7 +16604,7 @@
     "status": "pending"
   },
   {
-    "id": 1186,
+    "id": 1187,
     "company": "Coupang",
     "company_url": "https://www.coupang.jobs",
     "position": "Staff Data Analyst I",
@@ -16604,7 +16618,7 @@
     "status": "pending"
   },
   {
-    "id": 1187,
+    "id": 1188,
     "company": "Careem",
     "company_url": "https://www.careem.com",
     "position": "Data Analyst I",
@@ -16618,7 +16632,7 @@
     "status": "pending"
   },
   {
-    "id": 1188,
+    "id": 1189,
     "company": "InMobi",
     "company_url": "https://www.inmobi.com",
     "position": "Staff Data Scientist I",
@@ -16632,7 +16646,7 @@
     "status": "pending"
   },
   {
-    "id": 1189,
+    "id": 1190,
     "company": "KLA",
     "company_url": "http://kla.com",
     "position": "Associate Specialist - Algorithm Research & Development",
@@ -16646,7 +16660,7 @@
     "status": "pending"
   },
   {
-    "id": 1190,
+    "id": 1191,
     "company": "Quantiphi",
     "company_url": "https://quantiphi.com/",
     "position": "Associate Architect - Machine Learning - Azure",
@@ -16660,7 +16674,7 @@
     "status": "pending"
   },
   {
-    "id": 1191,
+    "id": 1192,
     "company": "ION Group",
     "company_url": "https://iongroup.com",
     "position": "Junior Research & Data/AI Engineer",
@@ -16674,7 +16688,7 @@
     "status": "pending"
   },
   {
-    "id": 1192,
+    "id": 1193,
     "company": "Scandit",
     "company_url": "http://www.scandit.com",
     "position": "Computer Vision/Machine Learning Summer Job 2026",
