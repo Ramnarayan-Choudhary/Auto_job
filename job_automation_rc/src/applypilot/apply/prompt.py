@@ -224,6 +224,7 @@ def _build_screening_section(profile: dict) -> str:
     """Build the screening questions guidance section."""
     personal = profile["personal"]
     exp = profile.get("experience", {})
+    eeo = profile.get("eeo_voluntary", {})
     city = personal.get("city", "their city")
     years = exp.get("years_of_experience_total", "multiple")
     target_role = exp.get("target_role", personal.get("current_job_title", "software engineer")) or "software engineer"
@@ -256,7 +257,7 @@ Skills and tools -> be confident. Candidate profile: {target_role} with {years} 
 
 Open-ended questions ("Why do you want this role?", "Tell us about yourself", "What interests you?") -> Write 2-3 sentences. Be specific to THIS job. Reference something from the job description. Connect it to a real achievement from the resume. No generic fluff. No "I am passionate about..." -- sound like a real person.
 
-EEO/demographics -> "Decline to self-identify" or "Prefer not to say" for everything."""
+EEO/demographics -> Use these EXACT answers from profile: Gender="{eeo.get('gender', 'Decline to self-identify')}", Race="{eeo.get('race_ethnicity', 'Decline to self-identify')}", Veteran="{eeo.get('veteran_status', 'I am not a protected veteran')}", Disability="{eeo.get('disability_status', 'I do not wish to answer')}". Do NOT select "Decline to self-identify" unless it is the explicit profile value above."""
 
 
 def _build_hard_rules(profile: dict) -> str:
@@ -795,7 +796,8 @@ def build_browser_use_prompt(
 - Do not click browser Back or site-wide navigation links unless the page is clearly a dead-end and no forward CTA exists after 2 focused attempts.
 - After successful sign-in/sign-up, stay in the application flow; do not return to login screens or job listing pages.
 - If required fields or errors are visible, fix them first before any navigation click.
-- Do not re-open already completed sections unless an explicit validation error points there."""
+- Do not re-open already completed sections unless an explicit validation error points there.
+- STUBBORN CHECKBOXES: If a custom checkbox (e.g. privacy policy div) won't check, find its hidden `<input type="checkbox">` or parent `<label>` and click it via JavaScript. Do NOT just change its CSS class. Example: `document.evaluate('//span[contains(text(),"privacy")]/ancestor::label//input', document).iterateNext().click()`"""
 
     workday_rules = """== WORKDAY VALIDATION-FIRST (STRICT) ==
 - On Workday, click Save and Continue once per section.
@@ -809,6 +811,8 @@ def build_browser_use_prompt(
 - Never spend more than 2 actions scrolling while validation errors are visible."""
 
     dropdown_fallback_rules = """== DROPDOWN FALLBACK (MANDATORY) ==
+- STUBBORN DROPDOWNS: If a custom combobox (like Disability, Gender, Race) ignores typing or standard selects, you MUST first click the field to open the menu, then find and click the exact option in the pop-up list.
+- Do NOT use invalid CSS selectors like `span:contains(...)`.
 - For each dropdown field, try exact value search only ONCE.
 - If exact value is not available, do not retry the same text.
 - Department/Major fallback order:
